@@ -9,10 +9,10 @@ As a community project, we do not expect (but will welcome) involvement of the v
 
 This community project welcomes all contributors.
 
-Shortcuts to Windows based apps:
+Shortcuts to Windows based apps documentation:
 
-> [7-Zip](docs/Windows/7-Zip/ReadMe.md)
-
-> [ActivePython](docs/Windows/Active%20State//ActivePython/ReadMe.md)
-> [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md)
-test
+| Vendor | Application |
+|----|----|
+| 7-Zip | [7-Zip](docs/Windows/7-Zip/ReadMe.md) |
+| ActiveSync | [Active Python](docs/Windows/Active%20State//ActivePython/ReadMe.md) |
+| Adobe Systems | [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md) |
