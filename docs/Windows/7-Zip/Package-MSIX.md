@@ -1,8 +1,8 @@
-# Packaging for MSIX
+# Packaging 7-Zip for MSIX
 
 The app is easily packaged in MSIX and requires little special treatment:
 
-* The shortcut to the .chm file may be ignored by some packaging tools. This is usually OK, but the Psf PsfLauncher may be used to make this available. 
+* The shortcut to the .chm file may be ignored by some packaging tools. This is usually OK, but the PSF PsfLauncher may be used to make this available. 
 
 Testing on Windows 10 indicates `High Confidence` support of the app.
 * Some of the Shell Extensions are not available. 

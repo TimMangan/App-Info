@@ -1,4 +1,4 @@
-# Installation and Configuration Notes
+# Installation and Configuration Notes for 7-zip
 By default the app will install into a `7-Zip` folder under the apprpriate Program Files folder.
 
 ## Exe based installer
@@ -30,3 +30,4 @@ This identifies the most commonly interesting configuration items in the applica
 * * A Drag&Drop handler.
 * The application includes an App Paths registration for both search (execution alias) and dll loading.
 * Although there is an uninstall.exe file in the installation folder, there is no shortcut to it.
+* The installed app does not use AppData local or roaming folders, however the runtime will use the temp folder for temporary storage.

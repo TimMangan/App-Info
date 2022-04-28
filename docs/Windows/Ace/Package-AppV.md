@@ -1,4 +1,4 @@
-# Packaging 7-Zip for App-V
+# Packaging ACE for App-V
 
 The app is easily packaged in App-V and requires no special treatment.
 
