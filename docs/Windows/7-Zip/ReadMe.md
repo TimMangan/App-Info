@@ -59,7 +59,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 
 | Type | Success |
 |----|----|
-| MSI | [<img src="media/CatUnknown.png.png" alt="Unknown/Untested" />](media/CatUnknown.png) |
+| MSI | [<img src="media/CatUnknown.png.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | App-V | Full Fidelity |
 | ThinApp | Unknown |
 | Citrix App Layers | Unknown |
