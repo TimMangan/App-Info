@@ -15,7 +15,7 @@ This is the high level file that describes the application summary.  Additional 
 
 This application is an example of a 16-bit DOS application, which natively could no longer run on x64 systems.  We use DosBox as a way to host this app; packaging them together.
 
-Blockout is just a Tetris like game, but the concept here holds for a bunch of old 16-bit business apps that are still in use today, mostly by Small companies.
+Blockout is just a Tetris like game, but the concept here holds for a bunch of old 16-bit business apps that are still in use today, mostly by Small companies.  Often, these 16-bit apps are an ancient line of business app that they just can't live without and will continue to use until the owner of the business retires or passes away.
 
 ## Vendor Installer Types
 
