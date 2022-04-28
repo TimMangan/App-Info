@@ -60,13 +60,13 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Type | Success |
 |----|----|
 | MSI | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| App-V | Full Fidelity |
-| ThinApp | Unknown |
-| Citrix App Layers | Unknown |
-| Cloud Volumes | Unknown |
-| FlexApp | Unknown |
-| Numecent | Unknown |
-| MSIX | High Confidence |
+| App-V | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| ThinApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
+| Citrix App Layers | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
+| Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
+| FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
+| Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
+| MSIX | [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
