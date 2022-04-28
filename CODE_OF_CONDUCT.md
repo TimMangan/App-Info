@@ -61,7 +61,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-TIm@tmurgent.onmicrosoft.com
+Tmangan@tmurgent.com
 
 ## License and attribution for this document
 
