@@ -17,7 +17,7 @@ This is the high level file that describes the application summary.  Additional 
 | 64-bit | Unknown |
 | AnyCPU | Unknown |
 | Arm | Unknown |
-|Arm-64 | Unknown |
+| Arm-64 | Unknown |
 
 ## Application Purpose
 
