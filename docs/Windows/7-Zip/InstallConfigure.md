@@ -29,3 +29,4 @@ This identifies the most commonly interesting configuration items in the applica
 * * 2 Context Menu handlers (one for all file types and another for Directories).
 * * A Drag&Drop handler.
 * The application includes an App Paths registration for both search (execution alias) and dll loading.
+* Although there is an uninstall.exe file in the installation folder, there is no shortcut to it.
