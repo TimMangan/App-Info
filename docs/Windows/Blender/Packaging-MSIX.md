@@ -1,4 +1,4 @@
-# Packaging Avogadro for MSIX
+# Packaging Blender for MSIX
 
 The app has been packaged in MSIX with the PSF.
 * PsfLauncher is required as is the FRF.

@@ -66,7 +66,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX | [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) |
+| MSIX | [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) on 10, [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) on 11 |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.

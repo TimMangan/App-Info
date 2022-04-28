@@ -1,4 +1,4 @@
-# App-Info Document Adobe Reader DC
+# App-Info Document Blender
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -6,14 +6,14 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Adobe Systems |
-| Application Name| Adobe Reader DC |
-| Application Version | 15.5.2 (released 2021/05, not latest version available)|
-| Vendor/App Website| https://www.adobe.com |
+| Vendor Name | Blender Foundation |
+| Application Name| Blender |
+| Application Version | 2.93.1 (released 2021/06, not the latest version.)|
+| Vendor/App Website| https://www.blender.org |
 
 ## Application Purpose
 
-This application is a free utility to work with PDF files.
+This application is a free and quite functional animation editor/engine.  Requires a GPU and has many first and third party plugins.
 
 ## Vendor Installer Types
 
@@ -21,15 +21,17 @@ This is where we can define the forms of installers available from the vendor.
 
 | Type | Available |
 |----|----|
-| Setup Exe | Yes |
+| Setup Exe | No |
 | MSI | Yes |
 | AppX/Bundle | No |
-| MSIX/Bundle | No |
+| MSIX/Bundle | Yes (see `Note 1`) |
 | .appinstaller | No |
+
+`Note 1` - Blender has a version in the Microsoft Store as an MSIX package.  At last check, it was not as functional as the full install.
 
 | Architecture | Available |
 |----|----|
-| 32-bit | Yes |
+| 32-bit | No |
 | 64-bit | Yes |
 | AnyCPU | No |
 | Arm | No |
@@ -41,8 +43,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | Yes |
-| File | No |
+| Registry | Unknown |
+| File | Yes |
 | AD/GPO | No |
 | AAD/GPO | No |
 
@@ -66,7 +68,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX | [<img src="/media/CatMostlyWorks.png" alt="Mostly Works" />](/media/CatMostlyWorks.png) or [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) without iexplore |
+| MSIX | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
