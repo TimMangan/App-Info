@@ -24,4 +24,4 @@ Shortcuts to Windows based apps documentation:
 | [Blender](docs/Windows/Blender/ReadMe.md) | Blender Foundation |
 | [Calibre](docs/Windows/Calibre/ReadMe.md) | Calibre |
 | [ConEmuPack](docs/Windows/ConEmu/ConEmuPack/ReadMe.md) | Conemu.gethub.io |
-| [DosBox & Blockout](docs/Windows/DosBox_Blockout/ReadMe.md) | DosBox and Apogee |
+| [DosBox & 16-bit App](docs/Windows/DosBox_Blockout/ReadMe.md) | DosBox and Apogee |
