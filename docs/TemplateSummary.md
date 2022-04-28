@@ -51,11 +51,11 @@ This is where to place a summary of how application configuration is stored.  It
 
 This is where to list a summary of known success (or not) in repackaging info certain formats.  If repackaging the application is not straightforward, a specific documentation file covering the details for that repackaging format is suggested. Values in the Success field are somewhat subjective, but we recommend that the summary use the following value:
 
-> `Full Fidelity` - App appears to be completly functional.
-> `High Confidence` - There may be a small loss in functionality, but most companies will be OK with deploying this form.
-> `Mostly Works` - A loss in functionality that likely makes this a bad way to deploy.
-> `Issues` - Application is known to not work in this form (so far).
-> `Unknown` - No infomration is available.
+* `Full Fidelity` - App appears to be completly functional.
+* `High Confidence` - There may be a small loss in functionality, but most companies will be OK with deploying this form.
+* `Mostly Works` - A loss in functionality that likely makes this a bad way to deploy.
+* `Issues` - Application is known to not work in this form (so far).
+* `Unknown` - No infomration is available.
 
 
 | Type | Success |
