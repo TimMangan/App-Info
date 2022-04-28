@@ -16,3 +16,8 @@ Shortcuts to Windows based apps documentation:
 | 7-Zip | [7-Zip](docs/Windows/7-Zip/ReadMe.md) |
 | ActiveSync | [Active Python](docs/Windows/Active%20State//ActivePython/ReadMe.md) |
 | Adobe Systems | [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md) |
+| Audacity | [Audacity](docs/Windows/Audacity/ReadMe.md) |
+| Avogadro | [Avogadro](docs/Windows/Avogadro/ReadMe.md) |
+| BeeKeeperStudio.io | [BeeKeeper Studio](docs/Windows/BeekeeperStudio/ReadMe.md) |
+| Continuum Analytics | [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda/ReadMe.md) |
+| Virtual Engine | [ACE](docs/Windows/VirtualEngine/Ace/ReadMe.md) |
