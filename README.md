@@ -11,7 +11,8 @@ This community project welcomes all contributors.
 
 Shortcuts to Windows based apps:
 
-> [7-Zip](docs\Windows\7-Zip\ReadMe.md)
-> [ActivePython](docs\Windows\ActiveState\ActivePython\ReadMe.md)
+> [7-Zip](docs/Windows/7-Zip/ReadMe.md)
 
+> [ActivePython](docs/Windows/Active%20State//ActivePython/ReadMe.md)
+> [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md)
 test
