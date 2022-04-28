@@ -1,4 +1,4 @@
-# Packaging ActivePython for AdobeReader DC
+# Packaging AdobeReader DC for App-V
 
 Adobe actively supports repackaging of Adobe Reader DC into App-V.  The vendor website includes a complete recipe. 
 
