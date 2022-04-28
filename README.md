@@ -11,15 +11,16 @@ This community project welcomes all contributors.
 
 Shortcuts to Windows based apps documentation:
 
-| Vendor | Application |
+| Application | Vendor |
 |----|----|
-| 7-Zip | [7-Zip](docs/Windows/7-Zip/ReadMe.md) |
-| Active State | [Active Python](docs/Windows/Active%20State//ActivePython/ReadMe.md) |
-| Adobe Systems | [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md) |
-| Audacity | [Audacity](docs/Windows/Audacity/ReadMe.md) |
-| Avogadro | [Avogadro](docs/Windows/Avogadro/ReadMe.md) |
-| BeeKeeperStudio.io | [BeeKeeper Studio](docs/Windows/BeekeeperStudio/ReadMe.md) |
-| Blender Foundation | [Blender](docs/Windows/Blender/ReadMe.md) |
-| Calibre | [Calibre](docs/Windows/Calibre/ReadMe.md) |
-| Continuum Analytics | [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda/ReadMe.md) |
-| Virtual Engine | [ACE](docs/Windows/VirtualEngine/Ace/ReadMe.md) |
+| [7-Zip](docs/Windows/7-Zip/ReadMe.md) | 7-Zip |
+| [ACE](docs/Windows/VirtualEngine/Ace/ReadMe.md) | Virtual Engine |
+| [Active Python](docs/Windows/Active%20State//ActivePython/ReadMe.md) | Active State |
+| [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md) | Adobe Systems |
+| [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda/ReadMe.md) | Continuum Analytics |
+| [Audacity](docs/Windows/Audacity/ReadMe.md) | Audacity |
+| [Avogadro](docs/Windows/Avogadro/ReadMe.md) | Avogadro |
+| [BeeKeeper Studio](docs/Windows/BeekeeperStudio/ReadMe.md) | BeeKeeperStudio.io |
+| [Blender](docs/Windows/Blender/ReadMe.md) | Blender Foundation |
+| [Calibre](docs/Windows/Calibre/ReadMe.md) | Calibre |
+| [ConEmuPack](docs/Windows/ConEmu/ConEmuPack/ReadMe.md) | Conemu.gethub.io |
