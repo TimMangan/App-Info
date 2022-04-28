@@ -1,4 +1,4 @@
-# App-Info Document Adobe Reader DC
+# App-Info Document Anaconda
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -6,14 +6,14 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Adobe Systems |
-| Application Name| Adobe Reader DC |
-| Application Version | 15.5.2 (released 2021/05, not latest version available)|
-| Vendor/App Website| https://www.adobe.com |
+| Vendor Name | Continuum Analytics |
+| Application Name| Anaconda |
+| Application Version | 3.6.2150.1013 (released 2021/05, not latest version available)|
+| Vendor/App Website| https://www.anaconda.com |
 
 ## Application Purpose
 
-This application is a free utility to work with PDF files.
+This application is a Data Science app. For ML applications and R Server.
 
 ## Vendor Installer Types
 
@@ -22,7 +22,7 @@ This is where we can define the forms of installers available from the vendor.
 | Type | Available |
 |----|----|
 | Setup Exe | Yes |
-| MSI | Yes |
+| MSI | No |
 | AppX/Bundle | No |
 | MSIX/Bundle | No |
 | .appinstaller | No |
@@ -41,8 +41,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | Yes |
-| File | No |
+| Registry | Unknown |
+| File | Yes |
 | AD/GPO | No |
 | AAD/GPO | No |
 
@@ -66,7 +66,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | Unknown |
 | FlexApp | Unknown |
 | Numecent | Unknown |
-| MSIX | Mostly Works |
+| MSIX | Issues |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
