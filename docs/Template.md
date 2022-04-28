@@ -1,6 +1,6 @@
 # App-Info Document Template (replace this with your application name)
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format.
+This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format.  Make a copy of this template saved into an appropriate subfolder and name it **Summary.md**.
 
 ## Documentation for
 
