@@ -1,5 +1,5 @@
 # Installation and Configuration Notes for Blender
-By default the app will install into a `Blender` folder under the apprpriate Program Files folder.
+By default the app will install into a `Blender Foundation` folder under the apprpriate Program Files folder.
 
 
 ## MSI based installer

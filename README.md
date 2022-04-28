@@ -20,5 +20,6 @@ Shortcuts to Windows based apps documentation:
 | Avogadro | [Avogadro](docs/Windows/Avogadro/ReadMe.md) |
 | BeeKeeperStudio.io | [BeeKeeper Studio](docs/Windows/BeekeeperStudio/ReadMe.md) |
 | Blender Foundation | [Blender](docs/Windows/Blender/ReadMe.md) |
+| Calibre | [Calibre](docs/Windows/Calibre/ReadMe.md) |
 | Continuum Analytics | [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda/ReadMe.md) |
 | Virtual Engine | [ACE](docs/Windows/VirtualEngine/Ace/ReadMe.md) |
