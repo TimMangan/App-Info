@@ -13,7 +13,7 @@ Shortcuts to Windows based apps documentation:
 
 | Application | Vendor |
 |----|----|
-| [7-Zip](docs/Windows/7-Zip/ReadMe.md) | 7-Zip |
+| [7-Zip](docs/Windows/7-Zip) | 7-Zip |
 | [ACE](docs/Windows/VirtualEngine/Ace/ReadMe.md) | Virtual Engine |
 | [Active Python](docs/Windows/Active%20State//ActivePython/ReadMe.md) | Active State |
 | [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md) | Adobe Systems |
