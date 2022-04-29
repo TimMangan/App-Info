@@ -18,6 +18,8 @@ This application is a freeware version of an archive (aka "Zip") compression/dec
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor.
+<div class="row">
+  <div class="col-md-8" markdown="1">
 
 | Type | Available |
 |----|----|
@@ -27,6 +29,9 @@ This is where we can define the forms of installers available from the vendor.
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
+</div>
+  <div class="col-md-4" markdown="1">
+
 | Architecture | Available |
 |----|----|
 | 32-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
@@ -34,6 +39,9 @@ This is where we can define the forms of installers available from the vendor.
 | AnyCPU | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+
+</div>
+</div>
 
 ## App Configuration Type
 
