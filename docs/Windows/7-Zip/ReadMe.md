@@ -1,6 +1,6 @@
 # App-Info Document 7-Zip
 
-[<img src="/media/SevenZFM-Square44x44Logo.scale-100.png" align="left" alt="7-Zip logo" width="300" />](/media/SevenZFM-Square44x44Logo.scale-100.png) This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+[<img src="/media/SevenZFM-Square44x44Logo.scale-100.png" align="left" alt="7-Zip logo"  />](/media/SevenZFM-Square44x44Logo.scale-100.png) This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
 
