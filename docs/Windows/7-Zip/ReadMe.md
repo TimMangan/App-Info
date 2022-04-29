@@ -18,7 +18,7 @@ This application is a freeware version of an archive (aka "Zip") compression/dec
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor.
-<table border="0">
+<table border=0>
 <tr>
 <td>
 
