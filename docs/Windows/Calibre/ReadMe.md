@@ -18,6 +18,9 @@ This application is a free e-book manager and editor.
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor. 
+<table >
+<tr>
+<td>
 
 | Type | Available |
 |----|----|
@@ -27,6 +30,9 @@ This is where we can define the forms of installers available from the vendor.
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
+</td>
+<td width=100></td>
+<td>
 
 | Architecture | Available |
 |----|----|
@@ -35,6 +41,10 @@ This is where we can define the forms of installers available from the vendor.
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+
+</td>
+</tr>
+</table>
 
 ## App Configuration Type
 

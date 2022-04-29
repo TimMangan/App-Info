@@ -18,6 +18,9 @@ A free alternative web browser program.
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor. 
+<table >
+<tr>
+<td>
 
 | Type | Available |
 |----|----|
@@ -27,7 +30,9 @@ This is where we can define the forms of installers available from the vendor.
 | MSIX/Bundle | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) (See `Note 1') |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
-`Note1`: Firefox is available prepackaged in MSIX from the Microsoft Store. Although not tested as part of this community site data, it appears to have full fidelity.
+</td>
+<td width=100></td>
+<td>
 
 | Architecture | Available |
 |----|----|
@@ -36,6 +41,13 @@ This is where we can define the forms of installers available from the vendor.
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+
+</td>
+</tr>
+</table>
+
+
+`Note1`: Firefox is available prepackaged in MSIX from the Microsoft Store. Although not tested as part of this community site data, it appears to have full fidelity.
 
 ## App Configuration Type
 

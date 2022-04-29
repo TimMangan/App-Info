@@ -11,14 +11,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | Leave blank if version specific doc files exist. |
 | Vendor/App Website|  |
 
-| Architecture | Available |
-|----|----|
-| 32-bit | Unknown |
-| 64-bit | Unknown |
-| AnyCPU | Unknown |
-| Arm | Unknown |
-| Arm-64 | Unknown |
-
 ## Application Purpose
 
 This application is used for ...
@@ -26,14 +18,33 @@ This application is used for ...
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor.
+<table >
+<tr>
+<td>
 
 | Type | Available |
 |----|----|
-| Setup Exe | Unknown |
-| MSI | Unknown |
-| AppX/Bundle | Unknown |
-| MSIX/Bundle | Unknown |
-| .appinstaller | Unknown |
+| Setup Exe | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| MSI | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| AppX/Bundle | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| MSIX/Bundle | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| .appinstaller | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+
+</td>
+<td width=100></td>
+<td>
+
+| Architecture | Available |
+|----|----|
+| 32-bit | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| 64-bit | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| AnyCPU | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| Arm | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| Arm-64 | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+
+</td>
+</tr>
+</table>
 
 ## App Configuration Type
 
@@ -41,10 +52,10 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | Unknown |
-| File | Unknown |
-| AD/GPO | Unknown |
-| AAD/GPO | Unknown |
+| Registry | [<img src="/media/Unknown.png" alt="Yes" />](/media/Unknown.png) |
+| File | [<img src="/media/Unknown.png" alt="Yes" />](/media/Unknown.png) |
+| AD/GPO | [<img src="/media/Unknown.png" alt="Yes" />](/media/Unknown.png) |
+| AAD/GPO | [<img src="/media/Unknown.png" alt="Yes" />](/media/Unknown.png) |
 
 
 ## Repackaging Summary

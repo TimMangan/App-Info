@@ -18,7 +18,7 @@ This application is a freeware version of an archive (aka "Zip") compression/dec
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor.
-<table border:none>
+<table >
 <tr>
 <td>
 
@@ -31,7 +31,7 @@ This is where we can define the forms of installers available from the vendor.
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 </td>
-<td width=200></td>
+<td width=100></td>
 <td>
 
 | Architecture | Available |
