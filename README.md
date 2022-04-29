@@ -14,20 +14,20 @@ Shortcuts to Windows based apps documentation:
 | Application | Vendor |
 |----|----|
 | [7-Zip](docs/Windows/7-Zip) | 7-Zip |
-| [ACE](docs/Windows/VirtualEngine/Ace/ReadMe.md) | Virtual Engine |
-| [Active Python](docs/Windows/Active%20State//ActivePython/ReadMe.md) | Active State |
-| [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC/ReadMe.md) | Adobe Systems |
-| [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda/ReadMe.md) | Continuum Analytics |
-| [Audacity](docs/Windows/Audacity/ReadMe.md) | Audacity |
-| [Avogadro](docs/Windows/Avogadro/ReadMe.md) | Avogadro |
-| [BeeKeeper Studio](docs/Windows/BeekeeperStudio/ReadMe.md) | BeeKeeperStudio.io |
-| [Blender](docs/Windows/Blender/ReadMe.md) | Blender Foundation |
-| [Calibre](docs/Windows/Calibre/ReadMe.md) | Calibre |
-| [ConEmuPack](docs/Windows/ConEmu/ConEmuPack/ReadMe.md) | Conemu.gethub.io |
-| [DosBox & 16-bit App](docs/Windows/DosBox_Blockout/ReadMe.md) | DosBox and California Dreams |
-| [Ensoft APile](docs/Windows/Ensoft/APile/ReadMe.md) | Ensoft |
-| [Ensoft LPile](docs/Windows/Ensoft/LPile/ReadMe.md) | Ensoft |
-| [Ensoft Shaft](docs/Windows/Ensoft/Shaft/ReadMe.md) | Ensoft |
-| [Fiddler (Classic)](docs/Windows/Fiddler/ReadMe.md) | Fiddler |
-| [Filezilla](docs/Windows/Filezilla/ReadMe.md) | Filezilla.org |
-| [Firefox](docs/Windows/Mozilla/Firefox/ReadMe.md) | Mozilla.org |
+| [ACE](docs/Windows/VirtualEngine/Ace) | Virtual Engine |
+| [Active Python](docs/Windows/Active%20State//ActivePython) | Active State |
+| [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC) | Adobe Systems |
+| [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda) | Continuum Analytics |
+| [Audacity](docs/Windows/Audacity) | Audacity |
+| [Avogadro](docs/Windows/Avogadro) | Avogadro |
+| [BeeKeeper Studio](docs/Windows/BeekeeperStudio) | BeeKeeperStudio.io |
+| [Blender](docs/Windows/Blender) | Blender Foundation |
+| [Calibre](docs/Windows/Calibre) | Calibre |
+| [ConEmuPack](docs/Windows/ConEmu/ConEmuPack) | Conemu.gethub.io |
+| [DosBox & 16-bit App](docs/Windows/DosBox_Blockout) | DosBox and California Dreams |
+| [Ensoft APile](docs/Windows/Ensoft/APile) | Ensoft |
+| [Ensoft LPile](docs/Windows/Ensoft/LPile) | Ensoft |
+| [Ensoft Shaft](docs/Windows/Ensoft/Shaft) | Ensoft |
+| [Fiddler (Classic)](docs/Windows/Fiddler) | Fiddler |
+| [Filezilla](docs/Windows/Filezilla) | Filezilla.org |
+| [Firefox](docs/Windows/Mozilla/Firefox) | Mozilla.org |
