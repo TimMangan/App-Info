@@ -31,3 +31,4 @@ Shortcuts to Windows based apps documentation:
 | [Fiddler (Classic)](docs/Windows/Fiddler) | Fiddler |
 | [Filezilla](docs/Windows/Filezilla) | Filezilla.org |
 | [Firefox](docs/Windows/Mozilla/Firefox) | Mozilla.org |
+| [Foxit Reader](docs/Windows/Foxit%20Software/Foxit%20Reader) | Foxit Software |
