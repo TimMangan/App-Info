@@ -21,19 +21,19 @@ This is where we can define the forms of installers available from the vendor.
 
 | Type | Available |
 |----|----|
-| Setup Exe | Yes |
-| MSI | No |
-| AppX/Bundle | No |
-| MSIX/Bundle | No |
-| .appinstaller | No |
+| Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 | Architecture | Available |
 |----|----|
-| 32-bit | No |
-| 64-bit | Yes |
-| AnyCPU | No |
-| Arm | No |
-| Arm-64 | No |
+| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 ## App Configuration Type
 
@@ -41,10 +41,10 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | Yes |
-| File | Unknown |
-| AD/GPO | No |
-| AAD/GPO | No |
+| Registry | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| File | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 
 ## Repackaging Summary

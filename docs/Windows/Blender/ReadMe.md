@@ -21,21 +21,21 @@ This is where we can define the forms of installers available from the vendor.
 
 | Type | Available |
 |----|----|
-| Setup Exe | No |
-| MSI | Yes |
-| AppX/Bundle | No |
-| MSIX/Bundle | Yes (see `Note 1`) |
-| .appinstaller | No |
+| Setup Exe | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| MSI | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| MSIX/Bundle | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) (see `Note 1`) |
+| .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 `Note 1` - Blender has a version in the Microsoft Store as an MSIX package.  At last check, it was not as functional as the full install.
 
 | Architecture | Available |
 |----|----|
-| 32-bit | No |
-| 64-bit | Yes |
-| AnyCPU | No |
-| Arm | No |
-| Arm-64 | No |
+| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 ## App Configuration Type
 
@@ -43,10 +43,10 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | Unknown |
-| File | Yes |
-| AD/GPO | No |
-| AAD/GPO | No |
+| Registry | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| File | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 
 ## Repackaging Summary

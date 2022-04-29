@@ -41,7 +41,7 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | Yes |
+| Registry | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | File | No |
 | AD/GPO | No |
 | AAD/GPO | No |
