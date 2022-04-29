@@ -12,6 +12,9 @@ The vendor documentation for installation, including silent install options, is 
 
 See this for defeating the updater: https://docs.conda.io/projects/conda/en/latest/user-guide/configuration/use-condarc.html#:~:text=EXAMPLE%3A%20To%20set%20the%20auto_update_conda%20option%20to%20False%2C,or%20Anaconda%20Prompt%20by%20running%20conda%20config%20--help.
 
+## SilentInstallHQ
+Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=Anaconda
+
 ## Typical Configuration Items 
 
 This identifies the most commonly interesting configuration items in the application.

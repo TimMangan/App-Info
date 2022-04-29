@@ -11,6 +11,9 @@ First install DosBox.  Then the target app is installed (unpacked) and we config
 
 The DosBox installer adds extra shortcuts we want to remove for production.  For extra credit, you change the DosBox shortcut to use an appropriate application icon and name.
 
+## SilentInstallHQ
+Silent Install HQ currently provides no information on the silent install of this app.
+
 ## Typical Configuration Items 
 
 This identifies the most commonly interesting configuration items in the application.

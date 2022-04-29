@@ -8,6 +8,9 @@ Silent installation is possible:
 * "/SP /VERYSILENT /SUPPRESSMSGBOXES" (capitalized) for silent installation. 
 * A preconfigured audacity.cfg file may be copied into the AppData\Roaming folder.
 
+## SilentInstallHQ
+Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=Audacity
+
 ## Typical Configuration Items 
 
 This identifies the most commonly interesting configuration items in the application.

@@ -6,6 +6,9 @@ By default the app will install into a `Calibre` folder under the apprpriate Pro
 
 Normal MSI parameters are available for quick/passive/silent installation.
 
+## SilentInstallHQ
+Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=Calibre
+
 ## Typical Configuration Items 
 
 This identifies the most commonly interesting configuration items in the application.

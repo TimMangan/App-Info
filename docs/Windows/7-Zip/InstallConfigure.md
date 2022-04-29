@@ -14,6 +14,9 @@ Normal MSI parameters are available for quick/passive/silent installation, and:
 * INSTALLDIR is supported.
 * ALLUSERS is supported.
 
+## SilentInstallHQ
+Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=7-zip
+
 ## Typical Configuration Items 
 
 This identifies the most commonly interesting configuration items in the application.

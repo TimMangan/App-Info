@@ -1,4 +1,4 @@
-# Installation and Configuration Notes for BeeKeeper Studio
+# Installation and Configuration Notes for Ensoft Shaft
 
 By default the app will install into the user programs folder by default.
 
@@ -7,9 +7,9 @@ By default the app will install into the user programs folder by default.
 
 
 The main exe installer supports passive installation:
-* Use '/passive' (upper case) for silent installation.
+* Use '/silent /hide [EULA_accept]=Yes /[License]=single'.
 
-The installer adds a shortcut to the start menu and to the desktop.
+The installer adds a shortcut to the start menu to uninstall that should be removed.
 
 ## SilentInstallHQ
 Silent Install HQ currently provides no information on the silent install of this app.
@@ -19,9 +19,9 @@ Silent Install HQ currently provides no information on the silent install of thi
 This identifies the most commonly interesting configuration items in the application.
 
 * The product does not have an autoupdater.
-* Other customizations were not tested.
+* The product does have a dongle license, we are testing in 'demo mode' without it.
 
 ## Installed Components worth noting
 
 * The application install uses both AppData\Local and AppData\Roaming folders. 
-* The app has an update check, but have not determined how to disable it yet.
+* There is one FTA (.sf8d) but no shell extensions.

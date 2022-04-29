@@ -7,6 +7,9 @@ By default the app will install into a `ConEmu` folder under the apprpriate Prog
 * For the 64-bit version use '/p:x64'
 * For silent installation use '/qn'
 
+## SilentInstallHQ
+Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=ConEmu
+
 ## Typical Configuration Items 
 
 This identifies the most commonly interesting configuration items in the application.

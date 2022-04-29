@@ -25,3 +25,6 @@ Shortcuts to Windows based apps documentation:
 | [Calibre](docs/Windows/Calibre/ReadMe.md) | Calibre |
 | [ConEmuPack](docs/Windows/ConEmu/ConEmuPack/ReadMe.md) | Conemu.gethub.io |
 | [DosBox & 16-bit App](docs/Windows/DosBox_Blockout/ReadMe.md) | DosBox and Apogee |
+| [Ensoft APile](docs/Windows/Ensoft/APile/ReadMe.md) | Ensoft APile |
+| [Ensoft LPile](docs/Windows/Ensoft/LPile/ReadMe.md) | Ensoft LPile |
+| [Ensoft Shaft](docs/Windows/Ensoft/Shaft/ReadMe.md) | Ensoft Shaft |

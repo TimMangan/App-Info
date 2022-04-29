@@ -8,6 +8,9 @@ To distribute this product inside your organization, you are required to registe
 
 Use the Customization Wizard to generate a MST file. Normal MSI parameters are available for quick/passive/silent installation.  By default, the installation uses Advertized Shortcuts, which should normally be disabled when repackaging into forms other than another MSI.
 
+## SilentInstallHQ
+Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=Adobe+Reader+DC
+
 ## Typical Configuration Items 
 
 This identifies the most commonly interesting configuration items in the application.

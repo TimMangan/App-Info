@@ -13,6 +13,8 @@ The main exe installer supports silent installation:
 
 The installer adds a shortcut to uninstall that should be removed.  It also adds a shortcut (url) to the vendor site which is commonly removed also.
 
+## SilentInstallHQ
+Silent Install HQ currently provides no information on the silent install of this app.
 
 ## Typical Configuration Items 
 
