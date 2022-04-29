@@ -29,3 +29,4 @@ Shortcuts to Windows based apps documentation:
 | [Ensoft LPile](docs/Windows/Ensoft/LPile/ReadMe.md) | Ensoft |
 | [Ensoft Shaft](docs/Windows/Ensoft/Shaft/ReadMe.md) | Ensoft |
 | [Fiddler (Classic)](docs/Windows/Fiddler/ReadMe.md) | Fiddler |
+| [Filezilla](docs/Windows/Filezilla/ReadMe.md) | Filezilla.org |

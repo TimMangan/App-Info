@@ -12,7 +12,7 @@ The main exe installer supports passive installation:
 The installer adds a shortcut to the start menu and to the desktop.
 
 ## SilentInstallHQ
-Silent Install HQ currently provides no information on the silent install of this app.
+Silent Install HQ provides this information on the silent install of this app: https://silentinstallhq.com/?s=fiddler 
 
 ## Typical Configuration Items 
 
