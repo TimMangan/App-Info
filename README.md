@@ -7,7 +7,7 @@ This repository is a community-based documentation store for information about a
 
 As a community project, we do not expect (but will welcome) involvement of the vendors that produce these applications.  Although some of the information on this repository might not be in alignment with the marketing or other goals of the vendor, code-of-conduct rules exist that contributors must agree to.
 
-This community project welcomes all contributors.
+This community project welcomes all contributors. **By participating you are agreeing to our [Code of Conduct](blob/main/CODE_OF_CONDUCT.md).**
 
 Shortcuts to Windows based apps documentation:
 
