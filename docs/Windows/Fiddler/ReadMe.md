@@ -1,4 +1,4 @@
-# App-Info Document DosBox_Blockout
+# App-Info Document Fiddler Studio
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -6,16 +6,14 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | DosBox+California Dreams |
-| Application Name| Blockout |
-| Application Version | ?? (released a really long time ago)|
-| Vendor/App Website| https://dosbox.com |
+| Vendor Name | Fiddler |
+| Application Name| Fiddler |
+| Application Version | 5.0.20204 (released 2021/07, newer versions available)|
+| Vendor/App Website| https://www.telerik.com |
 
 ## Application Purpose
 
-This application is an example of a 16-bit DOS application, which natively could no longer run on x64 systems.  We use DosBox as a way to host this app; packaging them together.
-
-Blockout is just a Tetris like game, but the concept here holds for a bunch of old 16-bit business apps that are still in use today, mostly by Small companies.  Often, these 16-bit apps are an ancient line of business app that they just can't live without and will continue to use until the owner of the business retires or passes away.
+A web tracing tool, largely used by developers in testing their websites, but also used by security personel.  The program has gone from free to licensed.
 
 ## Vendor Installer Types
 
@@ -31,9 +29,8 @@ This is where we can define the forms of installers available from the vendor.
 
 | Architecture | Available |
 |----|----|
-| 16-bit | Yes, when supported by DosBox |
-| 32-bit | Yes |
-| 64-bit | No |
+| 32-bit | No |
+| 64-bit | Yes |
 | AnyCPU | No |
 | Arm | No |
 | Arm-64 | No |
@@ -44,8 +41,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | No |
-| File | Yes |
+| Registry | Yes |
+| File | Unknown |
 | AD/GPO | No |
 | AAD/GPO | No |
 
@@ -64,12 +61,12 @@ This is where to list a summary of known success (or not) in repackaging info ce
 |----|----|
 | MSI | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | App-V | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
-| ThinApp | Unkno[<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png)wn |
+| ThinApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Citrix App Layers | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatIssues.png) |
+| MSIX | [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
