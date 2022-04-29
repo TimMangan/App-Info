@@ -1,4 +1,4 @@
-# App-Info Document Filezilla
+# App-Info Document Firefox
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -6,14 +6,14 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Filezilla |
-| Application Name| Filezilla |
-| Application Version | 3.55.0 (released 2021/07, newer versions available)|
-| Vendor/App Website| https://filezilla-project.org |
+| Vendor Name | Mozilla |
+| Application Name| Firefox |
+| Application Version | 90.0.2 (released 2021/07, newer versions available)|
+| Vendor/App Website| https://firefox.mozilla.org |
 
 ## Application Purpose
 
-A free FTP client tool.
+A free alternative web browser program.
 
 ## Vendor Installer Types
 
@@ -22,10 +22,12 @@ This is where we can define the forms of installers available from the vendor.
 | Type | Available |
 |----|----|
 | Setup Exe | Yes |
-| MSI | No |
+| MSI | Yes |
 | AppX/Bundle | No |
-| MSIX/Bundle | No |
+| MSIX/Bundle | Yes (See `Note 1') |
 | .appinstaller | No |
+
+`Note1`: Firefox is available prepackaged in MSIX from the Microsoft Store. Although not tested as part of this community site data, it appears to have full fidelity.
 
 | Architecture | Available |
 |----|----|
@@ -41,9 +43,9 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | No |
-| File | Yes |
-| AD/GPO | No |
+| Registry | Yes |
+| File | No |
+| AD/GPO | Unknown |
 | AAD/GPO | No |
 
 
@@ -66,7 +68,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| MSIX | [<img src="/media/CatMostlyWorks.png" alt="Mostly Works" />](/media/CatMostlyWorks.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
