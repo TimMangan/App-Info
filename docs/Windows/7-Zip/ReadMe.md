@@ -42,9 +42,9 @@ This is where to place a summary of how application configuration is stored.  It
 | Type | Used |
 |----|----|
 | Registry | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| File | No |
-| AD/GPO | No |
-| AAD/GPO | No |
+| File | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
 
 ## Repackaging Summary
