@@ -1,6 +1,7 @@
-# App-Info Document Gimp
 
-[<img src="/media/AppIcons/GIMPTwo-Square44x44Logo.targetsize-48.png" align="left" alt="Gimp logo"  />](/media/AppIcons/GIMPTwo-Square44x44Logo.targetsize-48.png) A free graphical image manipulation tool that became popular in the Linux world and is sometimes requested on Windows.
+# App-Info Document ImageGlass Kobe
+
+[<img src="/media/AppIcons/IMAGEGLASS-Square44x44Logo.scale-100.png" align="left" alt="Foxit Reader logo"  />](/media/AppIcons/IMAGEGLASS-Square44x44Logo.scale-100.png) ImageGlass is a free lightweight and versatile image viewer.  There is a paid for MSIX version in the Microsoft Store.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -8,10 +9,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Gimp.org |
-| Application Name| Gimp |
-| Application Version | 2.10.24 (released 2021/07, newer versions available)|
-| Vendor/App Website| https://www.gimp.org |
+| Vendor Name | ImageGlass.org |
+| Application Name| ImageGlass Kobe |
+| Application Version | 8.2.6.6 (released 2021/08, newer versions available)|
+| Vendor/App Website| https://imageglass.org |
 
 
 
@@ -24,13 +25,14 @@ This is where we can define the forms of installers available from the vendor.
 
 | Type | Available |
 |----|----|
-| Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Zip | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| Setup Exe | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| MSI | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| MSIX/Bundle | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) See `Note` |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
-`Note`: Although there have been MSIX versions in the Microsoft Store from time to time, these came from enthusiasts and not Gimp.org.  Check the vendor website for any updates on this status.
+`Note`: There is a paid for version in the Microsoft Store.
 
 </td>
 <td width=100></td>
@@ -44,8 +46,6 @@ This is where we can define the forms of installers available from the vendor.
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
-`Note`: The Windows 32-bit based exe installer has both 32-and 64 bit versions in it.
-
 </td>
 </tr>
 </table>
@@ -56,7 +56,7 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Registry |  [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | File | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
