@@ -1,6 +1,6 @@
 # App-Info Document Filezilla
 
-[<img src="/media/AppIcons/FILEZILLA-Square44x44Logo.scale-100.png" align="left" alt="Filezilla logo"  />](/media/AppIcons/FILEZILLZA-Square44x44Logo.scale-100.png) A free FTP client tool.
+[<img src="/media/AppIcons/GIMPTwo-Square44x44Logo.scale-100.png" align="left" alt="Gimp logo"  />](/media/AppIcons/GIMPTWO-Square44x44Logo.scale-100.png) A free graphical image manipulation tool that became popular in the Linux world and is sometimes requested on Windows.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -8,10 +8,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Filezilla |
-| Application Name| Filezilla |
-| Application Version | 3.55.0 (released 2021/07, newer versions available)|
-| Vendor/App Website| https://filezilla-project.org |
+| Vendor Name | Gimp.org |
+| Application Name| Gimp |
+| Application Version | 2.10.24 (released 2021/07, newer versions available)|
+| Vendor/App Website| https://www.gimp.org |
 
 
 
@@ -30,17 +30,21 @@ This is where we can define the forms of installers available from the vendor.
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
+`Note`: Although there have been MSIX versions in the Microsoft Store from time to time, these came from enthusiasts and not Gimp.org.  Check the vendor website for any updates on this status.
+
 </td>
 <td width=100></td>
 <td>
 
 | Architecture | Available |
 |----|----|
-| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| 32-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+
+`Note`: The Windows 32-bit based exe installer has both 32-and 64 bit versions in it.
 
 </td>
 </tr>
