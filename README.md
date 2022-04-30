@@ -28,7 +28,7 @@ Shortcuts to Windows based apps documentation:
 | [Ensoft APile](docs/Windows/Ensoft/APile) | Ensoft |
 | [Ensoft LPile](docs/Windows/Ensoft/LPile) | Ensoft |
 | [Ensoft Shaft](docs/Windows/Ensoft/Shaft) | Ensoft |
-| [Fiddler (Classic)](docs/Windows/Fiddler) | Fiddler |
+| [Fiddler (Classic)](docs/Windows/Telerik/Fiddler) | Telerik |
 | [Filezilla](docs/Windows/Filezilla) | Filezilla.org |
 | [Firefox](docs/Windows/Mozilla/Firefox) | Mozilla.org |
 | [Foxit Reader](docs/Windows/Foxit%20Software/Foxit%20Reader) | Foxit Software |
