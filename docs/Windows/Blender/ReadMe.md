@@ -1,5 +1,7 @@
 # App-Info Document Blender
 
+[<img src="/media/AppIcons/BLENDER-Square44x44Logo.scale-100.png" align="left" alt="Blender logo"  />](/media/AppIcons/BLENDER-Square44x44Logo.scale-100.png) This application is a free and quite functional animation editor/engine.  Requires a GPU and has many first and third party plugins.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 2.93.1 (released 2021/06, not the latest version.)|
 | Vendor/App Website| https://www.blender.org |
 
-## Application Purpose
-
-This application is a free and quite functional animation editor/engine.  Requires a GPU and has many first and third party plugins.
 
 ## Vendor Installer Types
 

@@ -1,5 +1,7 @@
 # App-Info Document Filezilla
 
+[<img src="/media/AppIcons/FILEZILLA-Square44x44Logo.scale-100.png" align="left" alt="Filezilla logo"  />](/media/AppIcons/FILEZILLZ-Square44x44Logo.scale-100.png) A free FTP client tool.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,7 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 3.55.0 (released 2021/07, newer versions available)|
 | Vendor/App Website| https://filezilla-project.org |
 
-## Application Purpose
 
-A free FTP client tool.
 
 ## Vendor Installer Types
 

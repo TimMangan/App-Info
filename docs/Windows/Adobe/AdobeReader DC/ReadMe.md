@@ -1,5 +1,7 @@
 # App-Info Document Adobe Reader DC
 
+[<img src="/media/AppIcons/ACRORDThreeTwo-Square44x44Logo.scale-100.png" align="left" alt="Actobat Reader logo"  />](/media/AppIcons/ACRORDThreeTwo-Square44x44Logo.scale-100.png) This application is a popular free utility to work with viewing PDF files.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 15.5.2 (released 2021/05, not latest version available)|
 | Vendor/App Website| https://www.adobe.com |
 
-## Application Purpose
-
-This application is a free utility to work with PDF files.
 
 ## Vendor Installer Types
 

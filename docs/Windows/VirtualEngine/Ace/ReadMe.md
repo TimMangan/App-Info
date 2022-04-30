@@ -1,5 +1,7 @@
 # App-Info Document Ace
 
+[<img src="/media/AppIcons/ACE-Square44x44Logo.scale-100.png" align="left" alt="ACE logo"  />](/media/AppIcons/ACE-Square44x44Logo.scale-100.png) This application is a freeware editor for App-V Deployment and User configuration files.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,7 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 1.4 (released 2015/08, latest version available)|
 | Vendor/App Website| https://virtualengine.co.uk/tag/ace/ |
 
-## Application Purpose
 
-This application is a freeware editor for App-V Deployment and User configuration files.
 
 ## Vendor Installer Types
 

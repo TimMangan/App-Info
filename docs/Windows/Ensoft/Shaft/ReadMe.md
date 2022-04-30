@@ -1,5 +1,7 @@
 # App-Info Document Ensoft Shaft
 
+[<img src="/media/AppIcons/WINSHTwoZeroOneSeven-Square44x44Logo.scale-100.png" align="left" alt="Shaft logo"  />](/media/AppIcons/WINSHTwoZeroOneSeven-Square44x44Logo.scale-100.png) This application is used in construction/architecture to determine the capabilities and stability of a "shaft" (a vertical drilled hole).
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,7 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 2017/11 (newer versions available)|
 | Vendor/App Website| https://ensoftinc.com |
 
-## Application Purpose
 
-This application is used in construction/architecture to determine the capabilities and stability of a "shaft" (a vertical drilled hole).
 
 ## Vendor Installer Types
 

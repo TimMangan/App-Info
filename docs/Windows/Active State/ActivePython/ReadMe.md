@@ -1,5 +1,7 @@
 # App-Info Document ActivePythos
 
+This application is a free (with registration) utility to install Python and manage dependencies.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 3.8 (released 2021/06, not latest version available)|
 | Vendor/App Website| https://www.activestate.com/products/python/ |
 
-## Application Purpose
-
-This application is a free (with registration) utility to install Python and manage dependencies.
 
 ## Vendor Installer Types
 

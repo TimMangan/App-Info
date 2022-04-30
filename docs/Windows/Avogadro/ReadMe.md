@@ -1,5 +1,7 @@
 # App-Info Document Avogadro
 
+[<img src="/media/AppIcons/AVOGADRO-Square44x44Logo.scale-100.png" align="left" alt="Avogadro logo"  />](/media/AppIcons/AVOGADRO-Square44x44Logo.scale-100.png) This application is a free (GNU) chemical molecule editor and visualizer.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,7 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 1.2.0n (released 2021/07, note: a V2 product is in the works but doesn't work well yet.)|
 | Vendor/App Website| http://Avogadro.cc |
 
-## Application Purpose
 
-This application is a free (GNU) chemical molecule editor and visualizer.
 
 ## Vendor Installer Types
 

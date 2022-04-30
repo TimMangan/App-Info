@@ -1,5 +1,7 @@
 # App-Info Document Beekeeper Studio
 
+[<img src="/media/AppIcons/BEEKEEPERSTUDIO-Square44x44Logo.scale-100.png" align="left" alt="Beekeeper Studio logo"  />](/media/AppIcons/BEEKEEPERSTUDIO-Square44x44Logo.scale-100.png) A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more.  This is the free/open-source community edition.  The licensed Ultimate Edition was not tested.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 1.13.2 (released 2021/08, newer versions available)|
 | Vendor/App Website| https://www.beekeeperstudio.io |
 
-## Application Purpose
-
-A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more.  This is the free/open-source community edition.  The licensed Ultimate Edition was not tested.
 
 ## Vendor Installer Types
 

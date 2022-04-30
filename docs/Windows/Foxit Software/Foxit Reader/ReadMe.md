@@ -1,5 +1,7 @@
 # App-Info Document Foxit Reader
 
+[<img src="/media/AppIcons/FOXITPDFREADER-Square44x44Logo.scale-100.png" align="left" alt="Foxit Reader logo"  />](/media/AppIcons/FOXITPDFREADER-Square44x44Logo.scale-100.png) A PDF Reader program (licensed product).
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,7 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 11.0.1.0 (released 2021/07, newer versions available)|
 | Vendor/App Website| https://foxitsoftware.com |
 
-## Application Purpose
 
-A PDF Reader program (licensed product).
 
 ## Vendor Installer Types
 

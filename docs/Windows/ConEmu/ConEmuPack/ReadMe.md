@@ -1,5 +1,7 @@
 # App-Info Document ConEmuPack
 
+[<img src="/media/AppIcons/CONEMUSizFour-Square44x44Logo.scale-100.png" align="left" alt="ConEmu logo"  />](/media/AppIcons/CONEMUSixFour-Square44x44Logo.scale-100.png) This application is a terminal emulator for windows.  It was previously a licensed product, but now looks for donations.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 21.7.18 (released 2021/07, not the latest version.)|
 | Vendor/App Website| https://conemu.github.io/ |
 
-## Application Purpose
-
-This application is a terminal emulator for windows.  It was previously a licensed product, but now looks for donations.
 
 ## Vendor Installer Types
 

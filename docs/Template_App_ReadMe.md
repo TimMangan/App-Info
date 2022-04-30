@@ -1,5 +1,7 @@
 # App-Info Document Template (replace this with your application name)
 
+(Logo here) This application is used for ...
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format.  Make a copy of this template saved into an appropriate subfolder and name it **ReadMe.md**.
 
 ## Documentation for
@@ -11,9 +13,7 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | Leave blank if version specific doc files exist. |
 | Vendor/App Website|  |
 
-## Application Purpose
 
-This application is used for ...
 
 ## Vendor Installer Types
 

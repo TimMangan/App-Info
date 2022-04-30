@@ -1,6 +1,8 @@
 # App-Info Document 7-Zip
 
-[<img src="/media/SevenZFM-Square44x44Logo.scale-100.png" align="left" alt="7-Zip logo"  />](/media/SevenZFM-Square44x44Logo.scale-100.png) This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+[<img src="/media/AppIcons/SevenZFM-Square44x44Logo.scale-100.png" align="left" alt="7-Zip logo"  />](/media/AppIcons/SevenZFM-Square44x44Logo.scale-100.png) This application is a freeware version of an archive (aka "Zip") compression/decompression tool issued via GNU license.  It has open-source code available.  It is popular among IT Pros as it also includes the ability to extract files from inside of WinPE files, such as to access an embedded MSI from the setup.exe installer, or icons from an exe or dll.
+
+This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
 
@@ -11,9 +13,6 @@
 | Application Version | 19.00 (released 2019/02, newer versions available)|
 | Vendor/App Website| www.7-zip.org |
 
-## Application Purpose
-
-This application is a freeware version of an archive (aka "Zip") compression/decompression tool issued via GNU license.  It has open-source code available.  It is popular among IT Pros as it also includes the ability to extract files from inside of WinPE files, such as to access an embedded MSI from the setup.exe installer, or icons from an exe or dll.
 
 ## Vendor Installer Types
 

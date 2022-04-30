@@ -1,5 +1,7 @@
 # App-Info Document Anaconda
 
+This application is a Data Science app for things like Jupyter Notebooks. For ML applications and R Server.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,7 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 3.6.2150.1013 (released 2021/05, not latest version available)|
 | Vendor/App Website| https://www.anaconda.com |
 
-## Application Purpose
 
-This application is a Data Science app. For ML applications and R Server.
 
 ## Vendor Installer Types
 

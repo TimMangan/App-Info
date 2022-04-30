@@ -1,5 +1,7 @@
 # App-Info Document Audacity
 
+[<img src="/media/AppIcons/AUDACITY-Square44x44Logo.scale-100.png" align="left" alt="Audacity logo"  />](/media/AppIcons/AUDACITY-Square44x44Logo.scale-100.png) This application is a freeware/open-source version of an multi-track audio file editor.  It has a wide variety of vendor and third party plugins available.
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 3.0.2 (released 2021/07, newer versions available)|
 | Vendor/App Website| https://www.audacityteam.org |
 
-## Application Purpose
-
-This application is a freeware/open-source version of an multi-track audio file editor.  It has a wide variety of vendor and third party plugins available.
 
 ## Vendor Installer Types
 

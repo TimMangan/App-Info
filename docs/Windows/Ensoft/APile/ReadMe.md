@@ -1,5 +1,7 @@
 # App-Info Document Ensoft APile
 
+This application is used in construction/architecture to determine the capabilities and stability of a "pile".
+
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
@@ -11,9 +13,6 @@ This is the high level file that describes the application summary.  Additional 
 | Application Version | 2015/07 (newer versions available)|
 | Vendor/App Website| https://ensoftinc.com |
 
-## Application Purpose
-
-This application is used in construction/architecture to determine the capabilities and stability of a "pile".
 
 ## Vendor Installer Types
 
