@@ -34,4 +34,4 @@ Shortcuts to Windows based apps documentation:
 | [Foxit Reader](docs/Windows/Foxit%20Software/Foxit%20Reader) | Foxit Software |
 | [Gimp](docs/Windows/Gimp) | Gimp |
 | [ImageGlass Kobe](docs/Windows/ImageGlass.org/ImageGlass%20Kobe) | ImageGlass.org |
-| [InstEd](docs/Windows/Camwood/Insted) | Camwood Studios |
+| [InstEd](docs/Windows/Camwood/InstEd) | Camwood Studios |
