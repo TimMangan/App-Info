@@ -35,3 +35,4 @@ Shortcuts to Windows based apps documentation:
 | [Gimp](docs/Windows/Gimp) | Gimp |
 | [ImageGlass Kobe](docs/Windows/ImageGlass.org/ImageGlass%20Kobe) | ImageGlass.org |
 | [InstEd](docs/Windows/Camwood/InstEd) | Camwood Studios |
+| [IrfanView](docs/Windows/IrfanView) | IrfanView (Irfan Skiljan ) |

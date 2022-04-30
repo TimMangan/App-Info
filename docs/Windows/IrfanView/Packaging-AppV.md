@@ -1,4 +1,4 @@
-# Packaging ImageGlass Kobe for App-V
+# Packaging IrfanView for App-V
 
 This app is easily packaged for App-V.
 
