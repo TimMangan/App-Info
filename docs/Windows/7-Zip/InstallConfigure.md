@@ -27,7 +27,7 @@ This identifies the most commonly interesting configuration items in the applica
 ## Installed Components worth noting
 
 * The application installs with two shortcuts, one for the program and another for the chm-based help file.  The help is alao available from in the program so the latter shortcut may be removed.
-* The application adds/updates a lot of file type associations for compressed file formats.  Most of these are for Shell Integration (verb/command) access.
+* The application adds/updates a lot of file type associations for compressed file formats, and consideration should be made if this app should become the default for these file types.  Most of these FTAs are for Shell Integration (verb/command) access.
 * The application has several shell extensions:
 * * 2 Context Menu handlers (one for all file types and another for Directories).
 * * A Drag&Drop handler.
