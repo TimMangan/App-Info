@@ -1,6 +1,6 @@
 # App-Info Document Filezilla
 
-[<img src="/media/AppIcons/GIMPTwo-Square44x44Logo.scale-100.png" align="left" alt="Gimp logo"  />](/media/AppIcons/GIMPTwo-Square44x44Logo.scale-100.png) A free graphical image manipulation tool that became popular in the Linux world and is sometimes requested on Windows.
+[<img src="/media/AppIcons/GIMPTwo-Square44x44Logo.targetsize-48.png" align="left" alt="Gimp logo"  />](/media/AppIcons/GIMPTwo-Square44x44Logo.targetsize-48.png) A free graphical image manipulation tool that became popular in the Linux world and is sometimes requested on Windows.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
