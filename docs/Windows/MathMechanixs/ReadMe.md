@@ -1,6 +1,8 @@
-# App-Info Document ACDC (v2)
+# App-Info Document MathMechanixs
 
-[<img src="/media/AppIcons/LOGINACDCTwo-Square44x44Logo.scale-100.png" align="left" alt="ACDC logo"  />](/media/AppIcons/LOGINACDCTwo-Square44x44Logo.scale-100.png) ACDC Version 2 is a help-desk tool for use on end-user systems that are using Microsoft App-V Versions 5 through 5.2.  It supports local configuration of the App-V Client and troubleshooting and repair functionality for applications virtualized under App-V.  (ACDC V1 supported App-V 4.x systems).
+[<img src="/media/AppIcons/MATHMECHANIXS-Square44x44Logo.scale-100.png" align="left" alt="Math Mechanixs logo"  />](/media/AppIcons/MATHMECHANIXS-Square44x44Logo.scale-100.png) Math Mechanxs is a general purpose math software we commonly see used in Univesity classroom settings.  The original software was from 2006 and graphics might look a bit dated as the authors focused on adding more advanced math calculations.
+
+The Lite version is free, the full version is licensed.
 
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
@@ -9,10 +11,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Login Consultants |
-| Application Name| ACDC V2 |
-| Application Version | 3.0.0.3 (released 2015/03, latest version available)|
-| Vendor/App Website| https://www.loginconsultants.com |
+| Vendor Name | MathMechanxs |
+| Application Name| MathMechanxs |
+| Application Version | 1.5.0.3 (released 2021/03, latest version available)|
+| Vendor/App Website| https://www.mathmechanixs.com |
 
 
 
@@ -27,8 +29,7 @@ This is where we can define the forms of Windows installers available from the v
 
 | Type | Available |
 |----|----|
-| Zip | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| Setup Exe | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
@@ -41,7 +42,7 @@ This is where we can define the forms of Windows installers available from the v
 | Architecture | Available |
 |----|----|
 | 32-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| 64-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
@@ -56,8 +57,8 @@ This is where to place a summary of how application configuration is stored.  Th
 
 | Type | Used |
 |----|----|
-| Registry | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| File | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Registry | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| File | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 

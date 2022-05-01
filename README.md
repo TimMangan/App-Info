@@ -48,3 +48,4 @@ Currently we have documentation on the following Windows based apps:
 | [IrfanView](docs/Windows/IrfanView) | IrfanView (Irfan Skiljan ) |
 | [Libre Office](docs/Windows/LibreOffice) | LibreOffice.org |
 | [Login ACDC (v2)](docs/Windows/LoginConsultants/ACDC%20v2) | Login Consultants |
+| [Math Mechanixs](docs/Windows/MathMechanixs) | MathMechanixs |
