@@ -46,3 +46,4 @@ Currently we have documentation on the following Windows based apps:
 | [ImageGlass Kobe](docs/Windows/ImageGlass.org/ImageGlass%20Kobe) | ImageGlass.org |
 | [InstEd](docs/Windows/Camwood/InstEd) | Camwood Studios |
 | [IrfanView](docs/Windows/IrfanView) | IrfanView (Irfan Skiljan ) |
+| [Libre Office](docs/Windows/LibreOffice) | LibreOffice.org |
