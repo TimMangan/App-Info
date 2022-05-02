@@ -1,17 +1,34 @@
 # App-Info Document Template (replace this with your application name)
 
-(Logo here) This application is used for ...
+When you add a new app into this repository, you will need to do the following:
+* Create a folder for the app (possibly under a folder for the vendor if they have multiple apps).
+* Create a ReadMe.md file for the app from this template file.
+* Create an InstallConfigure.md file from that template.
+* Create a Testing.md file from that template.
+* Create one or more Packaging-XXX.md files documenting how you packaged that app and the test results.  Test Results are also summarized in the ReadMe.md file for the app.
+* Upload a logo file into the media/AppIcons folder.  This should be a 44x44bit png file.
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format.  Make a copy of this template saved into an appropriate subfolder and name it **ReadMe.md**.
+The purpose of the App ReadMe file is to be the initial page viewed when someone looks for information on this application. It defines:
+* The vendor, app, and version, along with a link to the vendor website.
+* The types of installers available from the vendor.
+* Whether the app stores configuration in file or registry, or may be configured externally.
+* A summary of the results from any technology-specific repackage testing that was done (each reported result needs a separate Packaging-XXX file).
+
+Please remove the boiler plate at and above this line, then edit the example below.
+_____
+
+[<img src="/media/AppIcons/Template.png" align="left" alt="XXX logo"  />](/media/AppIcons/Template.png)  This application is used for XXX...
+
+This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
 ## Documentation for
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | |
-| Application Name| |
-| Application Version | Leave blank if version specific doc files exist. |
-| Vendor/App Website|  |
+| Vendor Name | XXX |
+| Application Name| XXX |
+| Application Version | XXX Leave blank if version specific doc files exist. |
+| Vendor/App Website| XXX |
 
 
 
