@@ -5,6 +5,8 @@ The purpose of the Testing file is to document a "smoke test" verification of th
 This style of test is usually different than a User Acceptance Test, which focuses on ensuring full functionality to perform the task. 
 
 Please remove the boiler plate at and above this line, then edit the example below.
+_____
+
 
 The following tests should be considered to determine the application fidelity when repackaging.
 
