@@ -7,5 +7,5 @@ Testing on Windows 7/10/11 indicates [<img src="/media/CatFullFidelity.png" alt=
 # Contributors
 
 |---|---|
-| [<img src="/media/Contributors/TimMangan.png" align="left" Height="128" />](/media/Contributors/TimMangan.png) | TimothyMangan |
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan |
 
