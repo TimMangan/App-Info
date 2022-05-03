@@ -50,3 +50,4 @@ Currently we have documentation on the following Windows based apps:
 | [Login ACDC (v2)](docs/Windows/LoginConsultants/ACDC%20v2) | Login Consultants |
 | [Math Mechanixs](docs/Windows/MathMechanixs) | MathMechanixs |
 | [Microsoft SSMS](docs/Windows/Microsoft/SSMS) | Microsoft |
+| [MikTex](docs/Windows/MikTex) | MikTex.org |
