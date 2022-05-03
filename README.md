@@ -53,3 +53,4 @@ Currently we have documentation on the following Windows based apps:
 | [Microsoft SSMS](docs/Windows/Microsoft/SSMS) | Microsoft |
 | [MikTex](docs/Windows/MikTex) | MikTex.org |
 | [Mozilla Thunderbird](docs/Windows/Mozilla/Thunderbird) | Mozilla Foundation |
+| [mRemoteNG](docs/Windows/RemoteNG) | RemoteNG.org |
