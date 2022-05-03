@@ -7,3 +7,11 @@ This app is easily packaged for App-V.
 
 
 Testing on Windows 7/10/11 indicates[<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) support of the app.  This is because we have not yet discovered how to disable the update check.
+
+
+## Contributors
+
+| Contributor | Name | Date |
+|----|----|----|
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | April 2022 |
+

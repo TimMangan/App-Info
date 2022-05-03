@@ -7,3 +7,13 @@ The app has been packaged in MSIX:
 
 Testing on Windows 10 indicates [<img src="/media/CatIssues.png" alt="Has Issues" />](/media/CatIssues.png) support of the app.
 * The app complains about the cfg file, althogh we see it being read. The app will only close.
+
+
+
+## Contributors
+
+| Contributor | Name | Date |
+|----|----|----|
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | April 2022 |
+
+

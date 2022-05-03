@@ -9,3 +9,11 @@ Testing on Windows 10/11 indicates [<img src="/media/CatIssues.png" alt="Has Iss
 
 * The issues seem to come from the Microsoft MSIX Packaging Tool, so perhaps repackaging using a different vendor might help.
 * It might be necessary to force the install to Program Files, however this was not attempted.
+
+
+## Contributors
+
+| Contributor | Name | Date |
+|----|----|----|
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | April 2022 |
+

@@ -3,3 +3,11 @@
 Adobe actively supports repackaging of Adobe Reader DC into App-V.  The vendor website includes a complete recipe. 
 
 Testing on Windows 7/10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) support of the app.
+
+
+## Contributors
+
+| Contributor | Name | Date |
+|----|----|----|
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | April 2022 |
+

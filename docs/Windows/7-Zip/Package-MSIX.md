@@ -9,3 +9,11 @@ Testing on Windows 10 indicates [<img src="/media/CatHighConfidence.png" alt="Hi
 
 Testing on Windows 11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) support of the app.
 * The shell extensions are available thanks to the Desktop9 schema extensions.
+
+
+## Contributors
+
+| Contributor | Name | Date |
+|----|----|----|
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | April 2022 |
+
