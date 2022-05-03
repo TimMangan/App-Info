@@ -38,6 +38,7 @@ Currently we have documentation on the following Windows based apps:
 | [Ensoft APile](docs/Windows/Ensoft/APile) | Ensoft |
 | [Ensoft LPile](docs/Windows/Ensoft/LPile) | Ensoft |
 | [Ensoft Shaft](docs/Windows/Ensoft/Shaft) | Ensoft |
+| [ExamDiff](docs/Windows/PrestoSoft/ExamDiff) | PrestoSoft |
 | [Fiddler (Classic)](docs/Windows/Telerik/Fiddler) | Telerik |
 | [Filezilla](docs/Windows/Filezilla) | Filezilla.org |
 | [Firefox](docs/Windows/Mozilla/Firefox) | Mozilla.org |
