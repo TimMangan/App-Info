@@ -26,6 +26,8 @@ Currently we have documentation on the following Windows based apps:
 |----|----|
 | [7-Zip](docs/Windows/7-Zip) | 7-Zip |
 | [ACE](docs/Windows/VirtualEngine/Ace) | Virtual Engine |
+| [AppV_Manage](docs/Windows/TMurgent/AppV_Manage) | TMurgent Technologies, LLP |
+| [AppV Manifest Editor (AVME)](docs/Windows/TMurgent/AppVManifestEditor) | TMurgent Technologies, LLP |
 | [Active Python](docs/Windows/Active%20State//ActivePython) | Active State |
 | [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC) | Adobe Systems |
 | [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda) | Continuum Analytics |
