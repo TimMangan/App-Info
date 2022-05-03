@@ -12,7 +12,7 @@ This is the high level file that describes the application summary.  Additional 
 | Vendor Name | ImageGlass.org |
 | Application Name| ImageGlass Kobe |
 | Application Version | 8.2.6.6 (released 2021/08, newer versions available)|
-| Vendor/App Website| https://imageglass.org |
+| Vendor/App Website| https://imageglass.org (Duong Dieu Phap) |
 
 
 
