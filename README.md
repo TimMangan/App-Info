@@ -18,6 +18,7 @@ This community project welcomes all contributors. **By participating you are agr
 * This looks wrong, and why it looks wrong and what it should look like.
 
 
+NOTE: You can always type the letter 't' to enable folder/file search.  Just type 't' and enter the name of the app you want!
 
 Currently we have documentation on the following Windows based apps:
 
