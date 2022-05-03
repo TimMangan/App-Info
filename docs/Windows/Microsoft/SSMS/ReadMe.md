@@ -2,7 +2,7 @@
 
 
 
-[<img src="/media/AppIcons/SSMS-Square44x44Logo.scale-100.png" align="left" alt="SSMS logo"  />](/media/AppIcons/SSMS-Square44x44Logo.scale-100.png)  This application is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.
+[<img src="/media/AppIcons/SSMS-Square44x44Logo.targetsize-48.png" align="left" alt="SSMS logo"  />](/media/AppIcons/SSMS-Square44x44Logo.targetsize-48.png)  This application is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.
 
 Use SSMS to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.
 
