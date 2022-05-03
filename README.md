@@ -52,4 +52,4 @@ Currently we have documentation on the following Windows based apps:
 | [Math Mechanixs](docs/Windows/MathMechanixs) | MathMechanixs |
 | [Microsoft SSMS](docs/Windows/Microsoft/SSMS) | Microsoft |
 | [MikTex](docs/Windows/MikTex) | MikTex.org |
-| [Mozilla Thunderbird](docs/Mozilla/Thunderbird) | Mozilla Foundation |
+| [Mozilla Thunderbird](docs/Windows/Mozilla/Thunderbird) | Mozilla Foundation |
