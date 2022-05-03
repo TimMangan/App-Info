@@ -6,6 +6,7 @@ Testing on Windows 7/10/11 indicates [<img src="/media/CatFullFidelity.png" alt=
 
 # Contributors
 
-|---|---|
-| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan |
+| Contributor | Name | Date |
+|----|----|----|
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | April 2022 |
 
