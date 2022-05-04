@@ -60,4 +60,5 @@ Currently we have documentation on the following Windows based apps:
 | [mRemoteNG](docs/Windows/mRemoteNG) | RemoteNG.org |
 | [Notepad++ Main app](docs/Windows/Notepad++/MainApp) | Notepad++ |
 | [Notepad++ PlugIn](docs/Windows/Notepad++/Plugin-Compare) | Notepad++ |
+| [OBS Studio](docs/Windows/ObsStudio) | ObsProject.com |
 

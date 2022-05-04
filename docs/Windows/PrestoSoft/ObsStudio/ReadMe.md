@@ -1,6 +1,6 @@
-# App-Info Document ExamDiff
+# App-Info Document OBS Studio
 
-[<img src="/media/AppIcons/EXAMDIFF-Square44x44Logo.scale-100.png" align="left" alt="ExamDiff logo"  />](/media/AppIcons/EXAMDIFF-Square44x44Logo.scale-100.png) Free version of app to show graphical differences in files.
+[<img src="/media/AppIcons/OBSSixFour-Square44x44Logo.scale-100.png" align="left" alt="ExamDiff logo"  />](/media/AppIcons/OBSSixFour-Square44x44Logo.scale-100.png) Free and open source software for video recording and live streaming.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -8,10 +8,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | PrestoSoft |
-| Application Name| ExamDiff |
-| Application Version | 19.3 (released ~2020, newer version not available) |
-| Vendor/App Website| https://www.prestosoft.com/edp_examdiff.asp#download |
+| Vendor Name | ObsProject.org |
+| Application Name| OBS Studio |
+| Application Version | 27.0.1 (released 2021/08, newer version available) |
+| Vendor/App Website| https://obsproject.com |
 
 
 
@@ -24,11 +24,14 @@ This is where we can define the forms of installers available from the vendor.
 
 | Type | Available |
 |----|----|
+| Zip | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) See `Note1` |
 | Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+
+`Note1`: Zip contains loose files of the x64 without installer.
 
 </td>
 <td width=100></td>
@@ -37,7 +40,7 @@ This is where we can define the forms of installers available from the vendor.
 | Architecture | Available |
 |----|----|
 | 32-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| 64-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
@@ -53,8 +56,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| File | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Registry | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| File | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
