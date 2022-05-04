@@ -2,7 +2,7 @@
 
 The app has been packaged in MSIX with or without PSF.
 * The app appears to work without the PSF.
-* For good meansure, using the PSF with FRF would be recommended as we suspect some files might get updated in production use, however, there is currently a issue with the FRF and this app.
+* For good meansure, using the PSF with FRF would be recommended as we suspect some files might get updated in production use.
 
 
 Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png).  
