@@ -37,6 +37,7 @@ Currently we have documentation on the following Windows based apps:
 | [Blender](docs/Windows/Blender) | Blender Foundation |
 | [Calibre](docs/Windows/Calibre) | Calibre |
 | [ConEmuPack](docs/Windows/ConEmu/ConEmuPack) | Conemu.gethub.io |
+| [CyberDuck](docs/Windows/CyberDuck) | Cyberduck.io |
 | [DosBox & 16-bit App](docs/Windows/DosBox_Blockout) | DosBox and California Dreams |
 | [Ensoft APile](docs/Windows/Ensoft/APile) | Ensoft |
 | [Ensoft LPile](docs/Windows/Ensoft/LPile) | Ensoft |
