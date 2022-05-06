@@ -64,4 +64,5 @@ Currently we have documentation on the following Windows based apps:
 | [Opera](docs/Windows/Opera) | Opera |
 | [Paint.Net Main app](docs/Windows/Paint.Net/Paint.Net%20MainApp) | Paint.Net |
 | [Paint.Net PlugIn](docs/Windows/Paint.Net/Paint.Net%20Plugins) | Paint.Net |
+| [Password Depot](docs/Windows/PasswordDepot) | AceBit |
 

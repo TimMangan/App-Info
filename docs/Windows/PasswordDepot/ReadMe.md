@@ -1,6 +1,6 @@
-# App-Info Document Opera
+# App-Info Document Password Depot
 
-[<img src="/media/AppIcons/Opera.png" align="left" alt="Opera logo"  />](/media/AppIcons/Opera.png) Opera is another of the free alternative browsers that are out there.
+[<img src="/media/AppIcons/PASSWORDDEPOT-Square44x44Logo.scale-100.png" align="left" alt="Password Depot logo"  />](/media/AppIcons/PASSWORDDEPOT-Square44x44Logo.scale-100.png) Password Depot is a password manager for secure management of all your passwords, credentials and confidential documents.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -8,10 +8,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Opera.com |
-| Application Name| Opera |
-| Application Version | 82.0.4227.43 (released 2022/01, newer version available)|
-| Vendor/App Website| https://www.opera.com |
+| Vendor Name | AceBit |
+| Application Name| Password Depot |
+| Application Version | 15.0.0.0 (released 2021/07, newer version available)|
+| Vendor/App Website| https://www.acebit.de/en/ |
 
 
 
@@ -24,8 +24,8 @@ This is where we can define the forms of installers available from the vendor.
 
 | Type | Available |
 |----|----|
-| Setup Exe | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| MSI | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
@@ -74,13 +74,13 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Type | Success |
 |----|----|
 | MSI | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| App-V | [<img src="/media/CatIssues.png" alt="Has Issues" />](/media/CatIssues.png) |
+| App-V |  [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
 | ThinApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Citrix App Layers | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX |  [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| MSIX |   [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
