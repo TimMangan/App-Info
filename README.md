@@ -61,4 +61,5 @@ Currently we have documentation on the following Windows based apps:
 | [Notepad++ Main app](docs/Windows/Notepad++/MainApp) | Notepad++ |
 | [Notepad++ PlugIn](docs/Windows/Notepad++/Plugin-Compare) | Notepad++ |
 | [OBS Studio](docs/Windows/ObsStudio) | ObsProject.com |
+| [Opera](docs/Windows/Opera) | Opera |
 
