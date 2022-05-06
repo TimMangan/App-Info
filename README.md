@@ -62,4 +62,6 @@ Currently we have documentation on the following Windows based apps:
 | [Notepad++ PlugIn](docs/Windows/Notepad++/Plugin-Compare) | Notepad++ |
 | [OBS Studio](docs/Windows/ObsStudio) | ObsProject.com |
 | [Opera](docs/Windows/Opera) | Opera |
+| [Paint.Net Main app](docs/Windows/Paint.Net/Paint.Net) | Paint.Net |
+| [Paint.Net PlugIn](docs/Windows/Paint.Net/Paint.Net-Plugins) | Paint.Net |
 
