@@ -66,4 +66,5 @@ Currently we have documentation on the following Windows based apps:
 | [Paint.Net PlugIn](docs/Windows/Paint.Net/Paint.Net%20Plugins) | Paint.Net |
 | [Password Depot](docs/Windows/PasswordDepot) | AceBit |
 | [Postman](docs/Windows/Postman) | Postman |
+| [Project Libre](docs/Windows/ProjectLibre) | Project Libre |
 
