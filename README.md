@@ -15,6 +15,7 @@ This community project welcomes all contributors.
 * * I'd like to see information on this app (but I'm too lazy to add it in myself).
 * * I'd like to know how to do X on this app.
 * * This looks wrong, and why it looks wrong and what it should look like.
+* Items that start as `Discussions` can get pulled into `Issues` when a contributer decides to take it on.
 
 
 **NOTE**: You can always type the letter 't' to enable folder/file search.  Just type 't' and enter the name of the app you want!
