@@ -17,7 +17,8 @@ This community project welcomes all contributors.
 * * This looks wrong, and why it looks wrong and what it should look like.
 * Items that start as `Discussions` can get pulled into `Issues` when a contributer decides to take it on.
 
-# # The Applications List
+
+## The Applications List
 ____
 **NOTE**: You can always type the letter 't' to enable folder/file search.  Just type 't' and enter the name of the app you want!
 
