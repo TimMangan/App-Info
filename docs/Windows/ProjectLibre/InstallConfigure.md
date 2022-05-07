@@ -8,7 +8,7 @@ By default the app will install under a `AceBit` folder in the Program Files fol
 The EXE installer may be silently installed:
  * For example: '/SP- /SILENT /SURPRESSMSGBOXES /ACCEPTEULA=1'
 
-The application may be configured via registry.  The app uses HKCU\Software\JavaSoft.  Here is an example .get file
+The application may be configured via registry.  The app uses HKCU\Software\JavaSoft.  Here is an example .reg file
 
 ```reg
 Windows Registry Editor Version 5.00
