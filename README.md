@@ -19,7 +19,7 @@ This community project welcomes all contributors.
 
 
 ## The Applications List
-____
+
 **NOTE**: You can always type the letter 't' to enable folder/file search.  Just type 't' and enter the name of the app you want!
 
 Currently we have documentation on the following Windows based apps:
