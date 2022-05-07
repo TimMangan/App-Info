@@ -12,7 +12,7 @@ Start by signing up for a free account.
 The site has a bunch of folders and makrdown files (those are the ones ending in a file extension `.md`).  When you are viewing a folder level, you'll see a list of the files and subfolders under it, and if there is a file in the folder called `readme.md`, the contents of that file are also shown.  This makes the readme file a great place to either provide instruction (as in the case of this one), or an overview of the folder iteself.
 
 Of particular interest
-* Ignore the folder called `Code`!  Yeah, you took a developer course once but you chose to be an IT Professional for a reason.
+* Ignore the folder called `CodeDontLookHere`!  Yeah, you took a developer course once but you chose to be an IT Professional for a reason.
 * Under the `docs` folder is a subfolder `docs/Windows`.  This folder is where all of the documentation for windows apps go.  We might only be interested in Windows apps today, but we're building in for any potential futures too.  Under the Windows folder will be subfolders for each Application.  If there is a vendor that has multiple applications then we'll give them a folder under the Windows folder and put the apps under that.
 * Each App folder has a minimum of 4 files (the purpose of which are described below):
 * * A `ReadMe.md` file.
