@@ -2,7 +2,7 @@
 
 The entire point of this site is for IT Pros to be able to contribute their experiences with preparing and deploying applications with their peers.  Together we can make the process much easier through sharing.
 
-GitHub was chosen because, even though we think of it as being for developers, it has features that make it a good fit for documentation.  Microsoft uses GitHub to open source their own documentation, and ues, you can submit fixes to the Microsoft documentation yourself!  But it is free for you to use, you can browse without even having an account or get a free account from GitHub to contribute.  The documentation is build on a simple markup language (actually called `markdown`) that is easy for you to pick up (even in Notepad) and it comes with an infrastructure that makes it easy for you to submit changes into the site.
+GitHub was chosen because, even though we think of it as being for developers, it has features that make it a good fit for documentation.  Microsoft uses GitHub to open source their own documentation, and yes, you can submit fixes to the Microsoft documentation yourself!  But it is free for you to use, you can browse without even having an account or get a free account from GitHub to contribute.  The documentation is build on a simple markup language (actually called `markdown`) that is easy for you to pick up (even in Notepad) and it comes with an infrastructure that makes it easy for you to submit changes into the site.
 
 ## Step 1: Get a GitHub account
 
@@ -12,7 +12,7 @@ Start by signing up for a free account.
 The site has a bunch of folders and makrdown files (those are the ones ending in a file extension `.md`).  When you are viewing a folder level, you'll see a list of the files and subfolders under it, and if there is a file in the folder called `readme.md`, the contents of that file are also shown.  This makes the readme file a great place to either provide instruction (as in the case of this one), or an overview of the folder iteself.
 
 Of particular interest
-* Ignore the folder called `Code`!  Yeah, you took a developer course once but you chose to be an IT Professional for a reason.
+* Ignore the folder called `CodeDontLookHere`!  Yeah, you took a developer course once but you chose to be an IT Professional for a reason.
 * Under the `docs` folder is a subfolder `docs/Windows`.  This folder is where all of the documentation for windows apps go.  We might only be interested in Windows apps today, but we're building in for any potential futures too.  Under the Windows folder will be subfolders for each Application.  If there is a vendor that has multiple applications then we'll give them a folder under the Windows folder and put the apps under that.
 * Each App folder has a minimum of 4 files (the purpose of which are described below):
 * * A `ReadMe.md` file.
