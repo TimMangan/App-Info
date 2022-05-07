@@ -2,7 +2,7 @@
 
 The entire point of this site is for IT Pros to be able to contribute their experiences with preparing and deploying applications with their peers.  Together we can make the process much easier through sharing.
 
-GitHub was chosen because, even though we think of it as being for developers, it has features that make it a good fit for documentation.  Microsoft uses GitHub to open source their own documentation, and ues, you can submit fixes to the Microsoft documentation yourself!  But it is free for you to use, you can browse without even having an account or get a free account from GitHub to contribute.  The documentation is build on a simple markup language (actually called `markdown`) that is easy for you to pick up (even in Notepad) and it comes with an infrastructure that makes it easy for you to submit changes into the site.
+GitHub was chosen because, even though we think of it as being for developers, it has features that make it a good fit for documentation.  Microsoft uses GitHub to open source their own documentation, and yes, you can submit fixes to the Microsoft documentation yourself!  But it is free for you to use, you can browse without even having an account or get a free account from GitHub to contribute.  The documentation is build on a simple markup language (actually called `markdown`) that is easy for you to pick up (even in Notepad) and it comes with an infrastructure that makes it easy for you to submit changes into the site.
 
 ## Step 1: Get a GitHub account
 
