@@ -1,5 +1,6 @@
-# App-Info Document R (Language)
-[<img src="/media/AppIcons/RGUI-Square44x44Logo.scale-100.png" align="left" alt="R logo"  />](/media/AppIcons/RGUI-Square44x44Logo.scale-100.png) ProjectLibre is an alternative to Microsoft Project.  This is the base engine for the R Language. Although there is a GUI to it, this is an application dependency that is generally used as part of another application. 
+# App-Info Document Remote Desktop Manager Free
+
+[<img src="/media/AppIcons/REMOTEDESKTOPMANAGERFREE-Square44x44Logo.scale-100.png" align="left" alt="Foxit Reader logo"  />](/media/AppIcons/REMOTEDESKTOPMANAGERFREE-Square44x44Logo.scale-100.png) Remote Desktop Manager is the free version of a tool to manage remote connections using multiple technologies. The paid for version has additional feature like connection sharing.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -7,29 +8,27 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Washington Univ of St Louis |
-| Application Name| R |
-| Application Version | 4.1.0 (released 2021/07, newer version available)|
-| Vendor/App Website| http://cran.wustl.edu |
+| Vendor Name | Devolutions |
+| Application Name| Remote Desktop Manager Free |
+| Application Version | 2022.1.27.0 (released 2022/01)|
+| Vendor/App Website| https://devolutions.net/remote-desktop-manager |
 
 
 
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor. 
-
 <table >
 <tr>
 <td>
 
 | Type | Available |
 |----|----|
-| Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Setup Exe | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| MSI | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-
 
 </td>
 <td width=100></td>
@@ -37,18 +36,15 @@ This is where we can define the forms of installers available from the vendor.
 
 | Architecture | Available |
 |----|----|
-| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) See `Note` |
-| 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| 32-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| 64-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
-`Note`: The 64-bit installers installs both the 64 and 32 bit versions.
-
 </td>
 </tr>
 </table>
-
 
 ## App Configuration Type
 
@@ -56,8 +52,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| File | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| Registry | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| File | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
@@ -75,13 +71,13 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Type | Success |
 |----|----|
 | MSI | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| App-V |  [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
-| ThinApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
+| App-V | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatUnknown.png) |
+| ThinApp | Unkno[<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png)wn |
 | Citrix App Layers | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX |    [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| MSIX | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.

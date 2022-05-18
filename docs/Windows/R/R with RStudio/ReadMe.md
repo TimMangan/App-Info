@@ -1,5 +1,5 @@
-# App-Info Document R (Language)
-[<img src="/media/AppIcons/RGUI-Square44x44Logo.scale-100.png" align="left" alt="R logo"  />](/media/AppIcons/RGUI-Square44x44Logo.scale-100.png) ProjectLibre is an alternative to Microsoft Project.  This is the base engine for the R Language. Although there is a GUI to it, this is an application dependency that is generally used as part of another application. 
+# App-Info Document R with RStudio
+[<img src="/media/AppIcons/RSTUDIO-Square44x44Logo.scale-100.png" align="left" alt="R Studio logo"  />](/media/AppIcons/RSTUDIO-Square44x44Logo.scale-100.png) This is the a GUI wrapper for working the R that includes an implementation of the R Language dependency.   It may be possible to package this dependency separately in some scenarios.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -7,10 +7,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Washington Univ of St Louis |
-| Application Name| R |
-| Application Version | 4.1.0 (released 2021/07, newer version available)|
-| Vendor/App Website| http://cran.wustl.edu |
+| Vendor Name | RStudio |
+| Application Name| RStudio |
+| Application Version | 1.14.1717 (released 2021/07, newer version available)|
+| Vendor/App Website| https://www.studio.com |
 
 
 
@@ -24,12 +24,14 @@ This is where we can define the forms of installers available from the vendor.
 
 | Type | Available |
 |----|----|
+| Zip | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
+`Note1`: Zip is just an archive of loose files.
 
 </td>
 <td width=100></td>
@@ -37,13 +39,11 @@ This is where we can define the forms of installers available from the vendor.
 
 | Architecture | Available |
 |----|----|
-| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) See `Note` |
+| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-
-`Note`: The 64-bit installers installs both the 64 and 32 bit versions.
 
 </td>
 </tr>
@@ -81,7 +81,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX |    [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| MSIX |    [<img src="/media/CatIssues.png" alt="Has Issues" />](/media/CatIssues.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
