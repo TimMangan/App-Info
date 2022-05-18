@@ -1,5 +1,5 @@
 # App-Info Document R with RStudio
-[<img src="/media/AppIcons/RSTUDIO-Square44x44Logo.scale-100.png" align="left" alt="R Studio logo"  />](/media/AppIcons/RSTUDIO-Square44x44Logo.scale-100.png) This is the a GUI wrapper for working the R that includes an implementation of the R Language dependency.   It may be possible to package this dependency separately in some scenarios.
+[<img src="/media/AppIcons/RSTUDIO-Square44x44Logo.scale-100.png" align="left" alt="R Studio logo"  />](/media/AppIcons/RSTUDIO-Square44x44Logo.scale-100.png) RStudio is the a GUI wrapper for working the R that includes an implementation of the R Language dependency.   It may be possible to package this dependency separately in some scenarios.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -81,7 +81,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX |    [<img src="/media/CatIssues.png" alt="Has Issues" />](/media/CatIssues.png) |
+| MSIX |   [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.

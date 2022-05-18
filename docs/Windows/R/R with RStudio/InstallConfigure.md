@@ -1,0 +1,32 @@
+# Installation and Configuration Notes for R and RStudio
+
+By default the app will install under a `R` folder in the Program Files folder.
+
+Install the R language first, then RStudio using the zip installation..
+
+## EXE based R language installer
+
+The EXE installer for R (Language) may be silently installed:
+ * For example: '/SP- /SILENT /SURPRESSMSGBOXES '
+
+The application has file-based configuration that is not generally used.
+
+##  ZIP based installation of RStudio.
+Unpack into "$($env:ProgramFiles)\R"
+
+## SilentInstallHQ
+
+Silent Install HQ provides no information on the silent install of this app.
+
+## Typical Configuration Items 
+
+This identifies the most commonly interesting configuration items in the application.
+
+* None.
+
+## Installed Components worth noting
+ 
+* The application installs into program files.
+* There are two shortcuts installed, one for 32-bit and one for 64-bit. They both point to an exe named RGui.exe in different folders.
+* There is a new FTA (.RData) that has a shell integration verb command.
+* There are no shell extensions, protocol handlers, or services.
