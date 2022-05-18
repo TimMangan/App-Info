@@ -17,11 +17,11 @@ One way to create a good package is to package using the Microsoft MSIX Packagin
 * * Then Add the PSF.
 * * * In PsfLauncher, select the `Exclude Console Apps` option.
 * * * Select the File Redirection Fixup with default options.
-* * Back on the Analysis page, ignore the manifest fixup for XXXXX.
+* * Back on the Analysis page, ignore the manifest fixup for FileTypeAssociation for .RData.
 * * Select the fixup for the missing Fonts.
-* * On the C.Files Tab, locate the R language folder XXXXX and right-click to select the YYYYY option.
+* * On the C.Files Tab, locate the R language folder for the x64 dlls for the version of R launguage, for example `VFS\ProgramFilesX64\R\R-4.1.0\bin\x64` and right-click to select the `Add folder to loaderSearhOrder` menu option.
 * * Save the package.
- 
+
 
 Testing on Windows 10/11 indicates  [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png).  
  
