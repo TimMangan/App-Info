@@ -69,4 +69,7 @@ Currently we have documentation on the following Windows based apps:
 | [Password Depot](docs/Windows/PasswordDepot) | AceBit |
 | [Postman](docs/Windows/Postman) | Postman |
 | [Project Libre](docs/Windows/ProjectLibre) | Project Libre |
+| [R (Language)](docs/Windows/R/R%20Language/) |Washington Univ of St Louis |
+| [R And RStudio](docs/Windows/R/R%20with%20RStudio/) | RStudio |
+| [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free/) | Devolutions |
 
