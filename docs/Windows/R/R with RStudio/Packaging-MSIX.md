@@ -22,6 +22,9 @@ One way to create a good package is to package using the Microsoft MSIX Packagin
 * * On the C.Files Tab, locate the R language folder for the x64 dlls for the version of R launguage, for example `VFS\ProgramFilesX64\R\R-4.1.0\bin\x64` and right-click to select the `Add folder to loaderSearhOrder` menu option.
 * * Save the package.
 
+**Link to Video showing how this was done: ** <a href="https:\\www.tmurgent.com\AppV\Tools\TMEditX\Video_2.3\RAndRStudio.mp4" target="_blank">Video on TMurgent.com</a>
+
+## Testing Results
 
 Testing on Windows 10/11 indicates  [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png).  
  
