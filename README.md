@@ -20,9 +20,10 @@ This community project welcomes all contributors.
 
 ## The Applications List
 
-**NOTE**: You can always type the letter 't' to enable folder/file search.  Just type 't' and enter the name of the app you want!
+<a href="https://github.com/TimMangan/App-Info/find/main"> <img src="media/Find.png" alt="Find" width="200" /> </a> 
 
-<a href="https://github.com/TimMangan/App-Info/find/main"> <img src="media/Find.png" alt="Find" width="200" /> </a>
+Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
+
 
 Currently we have documentation on the following Windows based apps:
 
