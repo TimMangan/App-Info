@@ -1,5 +1,5 @@
-# App-Info Document RegShot
-[<img src="/media/AppIcons/REGSHOTXSixFourANSI-Square44x44Logo.scale-100.png" align="left" alt="Regshot logo"  />](/media/AppIcons/REGSHOTXSixFourANSI-Square44x44Logo.scale-100.png) RegShot is an open source tool that consists of a simple gui tool for creating and comparing registry snapshots.
+# App-Info Document ReverseDNS
+[<img src="/media/AppIcons/REVERSEDNS-Square44x44Logo.scale-100.png" align="left" alt="ReverseDNS logo"  />](/media/AppIcons/REVERSEDNS-Square44x44Logo.scale-100.png) RegShot is an open source tool that consists of a simple gui tool for creating and comparing registry snapshots.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -7,10 +7,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Seabreg |
-| Application Name| RegShot |
-| Application Version | 1.9.0 (released 2013/02, currently newest available)|
-| Vendor/App Website| https://www.github.com/Seabreg/Regshot |
+| Vendor Name | Unknown |
+| Application Name| ReverseDNS |
+| Application Version | 1.0.1 (released 1999/07, currently newest known version available)|
+| Vendor/App Website| Unknown |
 
 
 
@@ -39,7 +39,7 @@ This is where we can define the forms of installers available from the vendor.
 | Architecture | Available |
 |----|----|
 | 32-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| 64-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
@@ -56,7 +56,7 @@ This is where to place a summary of how application configuration is stored.  It
 | Type | Used |
 |----|----|
 | Registry | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| File | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| File | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 

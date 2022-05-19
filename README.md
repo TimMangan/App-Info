@@ -71,6 +71,7 @@ Currently we have documentation on the following Windows based apps:
 | [Project Libre](docs/Windows/ProjectLibre) | Project Libre |
 | [R (Language)](docs/Windows/R/R%20Language) |Washington Univ of St Louis |
 | [R And RStudio](docs/Windows/R/R%20with%20RStudio) | RStudio |
-| [RegShot](docs/Windows/Seabreg/RegShot/) | Seabreg |
+| [RegShot](docs/Windows/Seabreg/RegShot) | Seabreg |
+| [ReverseDNS](docs/Windows/ReverseDNS) | Unknown |
 | [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free) | Devolutions |
 
