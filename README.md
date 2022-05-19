@@ -12,9 +12,9 @@ This community project welcomes all contributors.
 * To add a new application, or edit existing ones, see instructions here: [Template](/Templates).
 * The `Issues` feature of GitHub should ONLY be used in this repository if you plan to submit a pull request to fix the issue.
 * Please use the `Disuccsions` area (rather than issues) to dicuss topics like:
-* * I'd like to see information on this app (but I'm too lazy to add it in myself).
-* * I'd like to know how to do X on this app.
-* * This looks wrong, and why it looks wrong and what it should look like.
+> * I'd like to see information on this app (but I'm too lazy to add it in myself).
+> * I'd like to know how to do X on this app.
+> * This looks wrong, and why it looks wrong and what it should look like.
 * Items that start as `Discussions` can get pulled into `Issues` when a contributer decides to take it on.
 
 
