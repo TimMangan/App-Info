@@ -1,5 +1,5 @@
 # App-Info Document ReverseDNS
-[<img src="/media/AppIcons/REVERSEDNS-Square44x44Logo.scale-100.png" align="left" alt="ReverseDNS logo"  />](/media/AppIcons/REVERSEDNS-Square44x44Logo.scale-100.png) RegShot is an open source tool that consists of a simple gui tool for creating and comparing registry snapshots.
+[<img src="/media/AppIcons/REVERSE-Square44x44Logo.scale-100.png" align="left" alt="ReverseDNS logo"  />](/media/AppIcons/REVERSE-Square44x44Logo.scale-100.png) RegShot is an open source tool that consists of a simple gui tool for creating and comparing registry snapshots.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
