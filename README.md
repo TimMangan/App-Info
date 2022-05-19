@@ -22,7 +22,7 @@ This community project welcomes all contributors.
 
 **NOTE**: You can always type the letter 't' to enable folder/file search.  Just type 't' and enter the name of the app you want!
 
-<a href="https://github.com/TimMangan/App-Info/find/main"> [<img src="media/Find.png" alt="Find" width="200" />](media/Find.png) </a>
+<a href="https://github.com/TimMangan/App-Info/find/main"> <img src="media/Find.png" alt="Find" width="200" /> </a>
 
 Currently we have documentation on the following Windows based apps:
 
