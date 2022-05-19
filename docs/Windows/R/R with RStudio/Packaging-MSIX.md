@@ -16,13 +16,13 @@ One way to create a good package is to package using the Microsoft MSIX Packagin
 * * On the Analysis Page, first perform any package cleanup.
 * * Then Add the PSF.
 * * * In PsfLauncher, select the `Exclude Console Apps` option.
-* * * Select the File Redirection Fixup with default options.
-* * Back on the Analysis page, ignore the manifest fixup for FileTypeAssociation for .RData.
+* * * Select the `File Redirection Fixup` with default options.
+* * Back on the Analysis page, ignore the manifest fixup for FileTypeAssociation for .RData due to x86/x64 issues in the manifest schema.
 * * Select the fixup for the missing Fonts.
 * * On the C.Files Tab, locate the R language folder for the x64 dlls for the version of R launguage, for example `VFS\ProgramFilesX64\R\R-4.1.0\bin\x64` and right-click to select the `Add folder to loaderSearhOrder` menu option.
 * * Save the package.
 
-**Link to Video showing how this was done:** <a href="https:\\www.tmurgent.com\AppV\Tools\TMEditX\Video_2.3\RAndRStudio.mp4" target="">Video hosted on TMurgent.com</a>
+**Link to Video showing how this was done:** <a href="https:\\www.tmurgent.com\AppV\Tools\TMEditX\Video_2.3\RAndRStudio.mp4" target=""> Video hosted on TMurgent.com</a>
 
 ## Testing Results
 
