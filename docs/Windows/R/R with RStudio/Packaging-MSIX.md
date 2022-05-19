@@ -34,6 +34,6 @@ Testing on Windows 10/11 indicates  [<img src="/media/CatFullFidelity.png" alt="
 
 | Contributor | Name | Date |
 |----|----|----|
-| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | April 2022 |
+| [<img src="/media/Contributors/TimMangan.jpg" align="left" Height="128" />](/media/Contributors/TimMangan.jpg) | TimothyMangan | May 2022 |
 
 
