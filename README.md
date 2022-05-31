@@ -78,3 +78,7 @@ Currently we have documentation on the following Windows based apps:
 | [ReverseDNS](docs/Windows/ReverseDNS) | Unknown |
 | [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free) | Devolutions |
 
+
+## The Capture Filters List
+
+The [CaptureFilters](docs/CaptureFilters) area of this documentation site provides a place for us to gather information on things to filter out / clean out when repackaging applications.
