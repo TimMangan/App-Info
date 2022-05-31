@@ -1,5 +1,5 @@
 # App-Info
-A community sourced information store about applications.
+A community sourced information repository with documentation about applications for IT Professional Desktop Engineers.
 
 [<img src="media/App-Info.png" alt="App-Info logo" width="300" />](media/App-Info.png)
 
