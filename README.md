@@ -1,5 +1,5 @@
 # App-Info
-A community sourced information store about applications.
+A community sourced information repository with documentation about applications for IT Professional Desktop Engineers.
 
 [<img src="media/App-Info.png" alt="App-Info logo" width="300" />](media/App-Info.png)
 
@@ -12,15 +12,18 @@ This community project welcomes all contributors.
 * To add a new application, or edit existing ones, see instructions here: [Template](/Templates).
 * The `Issues` feature of GitHub should ONLY be used in this repository if you plan to submit a pull request to fix the issue.
 * Please use the `Disuccsions` area (rather than issues) to dicuss topics like:
-* * I'd like to see information on this app (but I'm too lazy to add it in myself).
-* * I'd like to know how to do X on this app.
-* * This looks wrong, and why it looks wrong and what it should look like.
+> * I'd like to see information on this app (but I'm too lazy to add it in myself).
+> * I'd like to know how to do X on this app.
+> * This looks wrong, and why it looks wrong and what it should look like.
 * Items that start as `Discussions` can get pulled into `Issues` when a contributer decides to take it on.
 
 
 ## The Applications List
 
-**NOTE**: You can always type the letter 't' to enable folder/file search.  Just type 't' and enter the name of the app you want!
+<a href="https://github.com/TimMangan/App-Info/find/main"> <img src="media/Find.png" alt="Find" width="200" /> </a> 
+
+Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
+
 
 Currently we have documentation on the following Windows based apps:
 
