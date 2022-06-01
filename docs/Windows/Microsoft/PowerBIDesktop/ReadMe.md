@@ -2,7 +2,7 @@
 
 
 
-[<img src="/media/AppIcons/PBIDesktop-Square44x44Logo.targetsize-48.png" align="left" alt="SSMS logo"  />](/media/AppIcons/PBIDesktop-Square44x44Logo.targetsize-48.png)  This application is used with Microsoft Power BI.
+[<img src="/media/AppIcons/PBIDesktop-Square44x44Logo.targetsize-48.png" align="left" alt="PBIDesktop logo"  />](/media/AppIcons/PBIDesktop-Square44x44Logo.scale-100.png)  This application is used with Microsoft Power BI.
 
 
 
