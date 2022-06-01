@@ -14,6 +14,7 @@ The information provided assumes packaging on x64 systems.
 | Entry | Explanation | Exceptions |
 |----|----|----|
 | Components | Unknown | None known. |
+| SOFTWARE\Microsoft\AppV | App-V. | None known. |
 | SOFTWARE\Microsoft\Cryptography | Cryptography. | None known. |
 | SOFTWARE\Microsoft\Microsoft Antimalware | Windows Defender. | None known. |
 | SOFTWARE\Microsoft\Microsoft Antimalware Setup | Windows Defender. | None known. |
@@ -36,6 +37,7 @@ The information provided assumes packaging on x64 systems.
 | SOFTWARE\Microsoft\WindowsUpdate | Happens when WU turns back on again. | None known. |
 | SOFTWARE\Microsoft\Policies\Microsoft\Microsoft Antimalware | Windows Defender. | None known. |
 | SOFTWARE\Microsoft\Policies\Microsoft\Windows Defender | Windows Defender. | None known. |
+| SOFTWARE\Wow6432Node\Microsoft\AppV | App-V. | None known. |
 | SOFTWARE\Wow6432Node\Microsoft\Cryptography | Cryptography. | None known. |
 | SOFTWARE\Wow6432Node\Microsoft\DownloadManager | Updates. | None known. |
 | SOFTWARE\Wow6432Node\Microsoft\EdgeUpdate | Microsoft Edge. | None known. |
@@ -72,6 +74,10 @@ The information provided assumes packaging on x64 systems.
 ## HKCU (REGISTRY\USER\[{AppVCurrentUserSID}])
 | Entry | Explanation | Exceptions |
 |----|----|----|
+| Classes\AppID\OneDrive.EXE | One Drive. | None known. |
+| Classes\OOBERequestHandler | Windows OOBE. | None known. |
+| Classes\SyncEngineFileInfoProvider | Unknown. | None known. |
+| Software\Microsoft\AppV | Microsoft App-V. | None known. |
 | Software\Microsoft\CTF | Unknown. | None known. |
 | Software\Microsoft\IdentityCRL | Unknown. | None known. |
 | Software\Microsoft\OneDrive | One Drive. | None known. |
@@ -79,13 +85,15 @@ The information provided assumes packaging on x64 systems.
 | Software\Microsoft\Speech_OneCore | Speach to text. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\CloudStore | Microsoft Store. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager | Updates. | None known. |
-| Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage | . | None known. |
+| Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage |  Windows File Explorer. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ps1\OpenWithList\MRUList | When FTA is used to launch a script. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ps1\OpenWithProgIDs | When FTA is used to launch a script. | . | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs | Windows File Explorer. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo | Windows File Explorer. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Explorer\SlowContextMenuEntries | Windows File Explorer. | None known. |
+| Software\Microsoft\Windows\CurrentVersion\Explorer\Streams |  Windows File Explorer. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist | Windows File Explorer. | None known. |
+| Software\Microsoft\Windows\CurrentVersion\Explorer\Wow3264Node\StreamMRU |  Windows File Explorer. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Feeds | Unknown. RSS? | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache | Browser. | None known. |
 | Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap | Browser. | None known. |
