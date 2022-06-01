@@ -11,8 +11,14 @@ Most capturing tools have some sort of filter that may be applied to help with t
 This folder is the highest level folder for information on setting up application capture filters. Please use appropriate subfolders to add your own submissions.  It is important not only to document the items we typically want cleaned out of repackaging efforts, but to:
 
 * Document what the thing(s) is/are being removed.
-* Why it isn't needed.
+* What is is/Why it isn't needed.
 * Any special situations where it should not be removed.
 
+The following categories of filters:
 
+| Link | Description |
+|----|----|
+| [File System](docs/CaptureFilters/FileSystem) | File-system Folder and File filters |
+| [Processes](docs/CaptureFilters/Processes) | Process filters |
+| [Registry](docs/CaptureFilters/Registry) | Windows Registry filters |
 
