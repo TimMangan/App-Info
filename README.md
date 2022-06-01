@@ -71,7 +71,7 @@ Currently we have documentation on the following Windows based apps:
 | [Paint.Net PlugIn](docs/Windows/Paint.Net/Paint.Net%20Plugins) | Paint.Net |
 | [Password Depot](docs/Windows/PasswordDepot) | AceBit |
 | [Postman](docs/Windows/Postman) | Postman |
-| [Project Libre](docs/Windows/ProjectLibre) | Project Libre |
+| [Power BI Desktop](docs/Windows/Microsoft\PowerBIDesktop) | Microsoft |
 | [R (Language)](docs/Windows/R/R%20Language) |Washington Univ of St Louis |
 | [R And RStudio](docs/Windows/R/R%20with%20RStudio) | RStudio |
 | [RegShot](docs/Windows/Seabreg/RegShot) | Seabreg |
