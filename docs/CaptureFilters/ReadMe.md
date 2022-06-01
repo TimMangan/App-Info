@@ -18,7 +18,7 @@ The following categories of filters:
 
 | Link | Description |
 |----|----|
-| [File System](docs/CaptureFilters/FileSystem) | File-system Folder and File filters |
-| [Processes](docs/CaptureFilters/Processes) | Process filters |
-| [Registry](docs/CaptureFilters/Registry) | Windows Registry filters |
+| [File System](/docs/CaptureFilters/FileSystem) | File-system Folder and File filters |
+| [Processes](/docs/CaptureFilters/Processes) | Process filters |
+| [Registry](/docs/CaptureFilters/Registry) | Windows Registry filters |
 
