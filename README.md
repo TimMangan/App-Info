@@ -17,6 +17,10 @@ This community project welcomes all contributors.
 > * This looks wrong, and why it looks wrong and what it should look like.
 * Items that start as `Discussions` can get pulled into `Issues` when a contributer decides to take it on.
 
+## App-Info Areas
+The site is currently divided into two areas:
+* Application Specific Information
+* Information on common repackaging tool filtering
 
 ## The Applications List
 
