@@ -2,10 +2,11 @@
 
 The app has been packaged in MSIX with the PSF FileRedirectionFixup.
 * After install, remove second shortcut for uninst000.
+* After install, create the %localappdata%\sigil-ebook\sigil folder and copy a modified sigil.ini file as described in InstallConfigure.
 * PsfLauncher is required as is the FRF.
 
 
-Testing on Windows 10/11 indicates [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png).  The application prompts for updates.  It might be possible to overcome by adding a configuration file to LocalAppData\sigil-ebook\sigil
+Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png). 
 
 
 ## Contributors

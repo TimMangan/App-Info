@@ -1,6 +1,6 @@
 # App-Info Document Sigil
 
-[<img src="/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png" align="left" alt="Sigil logo"  />](/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png) This is a free editor for creating, viewing, and managing E-Books.
+[<img src="/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png" align="left" alt="Sigil logo"  />](/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png) This is a free, open source, editor for creating and viewing E-Books.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -77,7 +77,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX | [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png) |
+| MSIX | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
