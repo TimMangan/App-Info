@@ -1,6 +1,6 @@
-# App-Info Document Sigil
+# App-Info Document TeamViewer
 
-[<img src="/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png" align="left" alt="Sigil logo"  />](/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png) This is a free, open source, editor for creating and viewing E-Books.
+[<img src="/media/AppIcons/TEAMVIEWER-Square44x44Logo.scale-100.png" align="left" alt="TeamViewer logo"  />](/media/AppIcons/TEAMVIEWER-Square44x44Logo.scale-100.png) Help-desk support tool.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -8,10 +8,10 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Sigil |
-| Application Name| Sigil |
-| Application Version | 1.7.0 (released 2021/07, newer versions available)|
-| Vendor/App Website| https://www.sigil-ebook.com |
+| Vendor Name | TeamViewer |
+| Application Name| TeamViewer |
+| Application Version | 15.20.06 (released 2021/08, newer versions available)|
+| Vendor/App Website| https://www.teamviewer.com/en-us/download/windows/ |
 
 
 
@@ -52,8 +52,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| File | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png)  |
+| Registry | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| File | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
