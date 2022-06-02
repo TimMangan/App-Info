@@ -81,6 +81,7 @@ Currently we have documentation on the following Windows based apps:
 | [RegShot](docs/Windows/Seabreg/RegShot) | Seabreg |
 | [ReverseDNS](docs/Windows/ReverseDNS) | Unknown |
 | [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free) | Devolutions |
+| [Sigil](docs/Windows/Sigil) | Sigil |
 
 
 ## The Capture Filters List
