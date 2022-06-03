@@ -1,4 +1,4 @@
-# Installation and Configuration Notes for Solbri Office
+# Installation and Configuration Notes for Solibri Office
 
 By default the app will install into the user programs folder by default.
 
@@ -25,7 +25,7 @@ sys.programGroupDisabled$Boolean=false
 sys.programGroupName=Solibri
 ```
 
-The installer adds two shortcuts to the start menu, one for the product and one for an uninstaller  Often removing the uninstall shortcut ('Solbri Uninstaller.lnk') is desired.
+The installer adds two shortcuts to the start menu, one for the product and one for an uninstaller  Often removing the uninstall shortcut ('Solibri Uninstaller.lnk') is desired.
 
 ## SilentInstallHQ
 Silent Install HQ provides no information on the silent install of this app.  

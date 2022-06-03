@@ -1,12 +1,13 @@
-# Packaging Solbri Office for MSIX
+# Packaging Solibri Office for MSIX
 
-The app has been packaged in MSIX with the PSF FileRedirection Fixup.
-* TMEditX was used to add in the 4 missing FTAs into the AppXManifest.
+The app has been packaged in MSIX with the PSF FileRedirection Fixup and DynamicLibraryFixup.
 * TMEditX was used to add FONTS into the AppXManifest.
 
 
 
-Testing on Windows 10/11 indicates [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png).
+Testing on Windows 10/11 indicates [<img src="/media/CatIssues.png" alt="Has Issues" />](/media/CatIssues.png).
+
+The app includes a copy of a Java JRE, however it isn't being found by the app when launched in the container.  This needs more investigation, but seems like it is the known runtime issue with the registry. 
 
 
 ## Contributors

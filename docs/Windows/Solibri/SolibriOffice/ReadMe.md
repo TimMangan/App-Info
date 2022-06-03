@@ -1,6 +1,6 @@
 # App-Info Document Solbri Office
 
-[<img src="/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png" align="left" alt="Solibri logo"  />](/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png) A product for checking 3d CAD models. From the vendor website "The core product for model checking and collaboration."
+[<img src="/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png" align="left" alt="Solibri logo"  />](/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png) A licensed product for checking 3d CAD models. From the vendor website "The core product for model checking and collaboration."
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -8,7 +8,7 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Solbri |
+| Vendor Name | Solbri (A Nemetschek company) |
 | Application Name| Solbri Office |
 | Application Version | 9.12.7.24 (released 2021/12)|
 | Vendor/App Website| https://www.solibri.com   |
@@ -77,7 +77,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| MSIX | [<img src="/media/CatIssues.png" alt="Has Issues" />](/media/CatIssues.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
