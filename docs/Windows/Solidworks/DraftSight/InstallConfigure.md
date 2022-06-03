@@ -1,4 +1,4 @@
-# Installation and Configuration Notes for DraftSite
+# Installation and Configuration Notes for DraftSight
 
 By default the app will install into the user programs folder by default.
 

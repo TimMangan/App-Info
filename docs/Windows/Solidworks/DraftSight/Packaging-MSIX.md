@@ -1,4 +1,4 @@
-# Packaging DraftSite for MSIX
+# Packaging DraftSight for MSIX
 
 The app has been packaged in MSIX with the PSF FileRedirectionFixup.
 * You must disable the Advertized Shortcuts for installation.
