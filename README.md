@@ -48,6 +48,7 @@ Currently we have documentation on the following Windows based apps:
 | [<img src="/media/AppIcons/CONEMUSixFour-Square44x44Logo.scale-100.png" align="left" Height="33" alt="ConEmu logo"  />](/media/AppIcons/CONEMUSixFour-Square44x44Logo.scale-100.png) | [ConEmuPack](docs/Windows/ConEmu/ConEmuPack) | Conemu.gethub.io |
 | [<img src="/media/AppIcons/CYBERDUCK-Square44x44Logo.scale-100.png" align="left" Height="33" alt="Foxit Reader logo"  />](/media/AppIcons/CYBERDUCK-Square44x44Logo.scale-100.png) | [CyberDuck](docs/Windows/CyberDuck) | Cyberduck.io |
 | [<img src="/media/AppIcons/DOSBOX-Square44x44Logo.scale-100.png" align="left" Height="33" alt="DosBox logo"  />](/media/AppIcons/DOSBOX-Square44x44Logo.scale-100.png) | [DosBox & 16-bit App](docs/Windows/DosBox_Blockout) | DosBox and California Dreams |
+| [<img src="/media/AppIcons/DRAFTSITE-Square44x44Logo.scale-100.png" align="left" Height="33" alt="Draftsite logo"  />](/media/AppIcons/DRAFTSITE-Square44x44Logo.scale-100.png) | [DraftSite](docs/Windows/Solidworks/DraftSite) | Solidworks (Dassault) |
 | | [Ensoft APile](docs/Windows/Ensoft/APile) | Ensoft |
 | | [Ensoft LPile](docs/Windows/Ensoft/LPile) | Ensoft |
 | [<img src="/media/AppIcons/WINSHTwoZeroOneSeven-Square44x44Logo.scale-100.png" align="left" Height="33" alt="Shaft logo"  />](/media/AppIcons/WINSHTwoZeroOneSeven-Square44x44Logo.scale-100.png) | [Ensoft Shaft](docs/Windows/Ensoft/Shaft) | Ensoft |
