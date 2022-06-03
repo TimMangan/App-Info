@@ -1,6 +1,6 @@
 # App-Info Document Calibre
 
-[<img src="/media/AppIcons/Calibre-Square44x44Logo.scale-100.png" align="left" alt="Calibre logo"  />](/media/AppIcons/Calibre-Square44x44Logo.scale-100.png) This application is a free e-book manager and editor.
+[<img src="/media/AppIcons/CALIBRE-Square44x44Logo.scale-100.png" align="left" alt="Calibre logo"  />](/media/AppIcons/CALIBRE-Square44x44Logo.scale-100.png) This application is a free e-book manager and editor.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
