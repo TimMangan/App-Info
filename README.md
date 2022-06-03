@@ -82,7 +82,7 @@ Currently we have documentation on the following Windows based apps:
 | | [ReverseDNS](docs/Windows/ReverseDNS) | Unknown |
 | | [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free) | Devolutions |
 | | [Sigil](docs/Windows/Sigil) | Sigil |
-| [<img src="/media/AppIcons/SOLBRI-Square44x44Logo.scale-100.png" align="left" Height="22" alt="TeamViewer logo"  />](/media/AppIcons/SOLBRI-Square44x44Logo.scale-100.png) | [SolbriOffice](docs/Windows/Solbri/SolbriOffice) | Solbri |
+| [<img src="/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png" align="left" Height="22" alt="Solibri logo"  />](/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png) | [SolibriOffice](docs/Windows/Solibri/SolibriOffice) | Solibri |
 | | [TeamViewer](docs/Windows/TeamViewer) | TeamViewer |
 
 
