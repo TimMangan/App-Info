@@ -1,5 +1,6 @@
-# App-Info Document R (Language)
-[<img src="/media/AppIcons/RGUI-Square44x44Logo.scale-100.png" align="left" alt="R logo"  />](/media/AppIcons/RGUI-Square44x44Logo.scale-100.png) This is an implmentation of the R language. 
+# App-Info Document Solbri Office
+
+[<img src="/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png" align="left" alt="Solibri logo"  />](/media/AppIcons/SOLIBRI-Square44x44Logo.scale-100.png) A product for checking 3d CAD models. From the vendor website "The core product for model checking and collaboration."
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -7,17 +8,16 @@ This is the high level file that describes the application summary.  Additional 
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Washington Univ of St Louis |
-| Application Name| R |
-| Application Version | 4.1.0 (released 2021/07, newer version available)|
-| Vendor/App Website| http://cran.wustl.edu |
+| Vendor Name | Solbri |
+| Application Name| Solbri Office |
+| Application Version | 9.12.7.24 (released 2021/12)|
+| Vendor/App Website| https://www.solibri.com   |
 
 
 
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor. 
-
 <table >
 <tr>
 <td>
@@ -30,25 +30,21 @@ This is where we can define the forms of installers available from the vendor.
 | MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
-
 </td>
 <td width=100></td>
 <td>
 
 | Architecture | Available |
 |----|----|
-| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) See `Note` |
+| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm-64 | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
-`Note`: The 64-bit installers installs both the 64 and 32 bit versions.
-
 </td>
 </tr>
 </table>
-
 
 ## App Configuration Type
 
@@ -56,8 +52,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| File | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
+| Registry | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| File | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 
@@ -75,13 +71,13 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Type | Success |
 |----|----|
 | MSI | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| App-V |  [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| App-V | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | ThinApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Citrix App Layers | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Cloud Volumes | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | FlexApp | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
 | Numecent | [<img src="/media/CatUnknown.png" alt="Unknown/Untested" />](/media/CatUnknown.png) |
-| MSIX |    [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
+| MSIX | [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
