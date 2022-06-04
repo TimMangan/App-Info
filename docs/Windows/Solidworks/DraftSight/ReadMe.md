@@ -1,6 +1,6 @@
 # App-Info Document Solidworks Draftsight
 
-[<img src="/media/AppIcons/DRAFTSIGHT-Square44x44Logo.scale-100.png" align="left" alt="DraftSight logo"  />](/media/AppIcons/DRAFTSIGHT-Square44x44Logo.scale-100.png) Licensed CAD program.
+[<img src="/media/AppIcons/DRAFTSIGHT-256.png" align="left" Height="128" alt="DraftSight logo"  />](/media/AppIcons/DRAFTSIGHT-256.png) Licensed CAD program.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
