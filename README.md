@@ -19,8 +19,14 @@ This community project welcomes all contributors.
 
 ## App-Info Areas
 The site is currently divided into two areas:
-* Application Specific Information
-* Information on common repackaging tool filtering
+* Information on common repackaging tool filtering.
+* Application Specific Information.
+
+
+## The Capture Filters List
+
+The [CaptureFilters](docs/CaptureFilters) area of this documentation site provides a place for us to gather information on things to filter out / clean out when repackaging applications.
+
 
 ## The Applications List
 
@@ -90,7 +96,3 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/SOLIBRI-256.png" align="left" Height="33" alt="Solibri logo"  /> | [SolibriOffice](docs/Windows/Solibri/SolibriOffice) | Solibri |
 | <img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" Height="33" alt="TeamViewer logo"  /> | [TeamViewer](docs/Windows/TeamViewer) | TeamViewer |
 
-
-## The Capture Filters List
-
-The [CaptureFilters](docs/CaptureFilters) area of this documentation site provides a place for us to gather information on things to filter out / clean out when repackaging applications.
