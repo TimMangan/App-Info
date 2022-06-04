@@ -14,9 +14,9 @@ This Readme.md is the high level file that describes the application summary.  A
 | Category | Value |
 |-----|-------------------------------------------------------|
 | Vendor Name | Aurelitec |
-| Application Name| Thumbico |
-| Application Version | 15.5.0.25 (no newer versions available)|
-| Vendor/App Website| http://www.aurelitec.com |
+| Application Name | Thumbico |
+| Application Version | 15.5.0.25 (no newer versions available) |
+| Vendor/App Website | http://www.aurelitec.com |
 
 
 
@@ -57,7 +57,7 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Type | Used |
 |----|----|
-| Registry |[<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
+| Registry | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
 | File | [<img src="/media/Unknown.png" alt="Unknown" />](/media/Unknown.png) |
 | AD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | AAD/GPO | [<img src="/media/No.png" alt="No" />](/media/No.png) |
