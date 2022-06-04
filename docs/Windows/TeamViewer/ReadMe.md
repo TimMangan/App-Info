@@ -1,8 +1,13 @@
 # App-Info Document TeamViewer
 
-[<img src="/media/AppIcons/TEAMVIEWER-Square44x44Logo.scale-100.png" align="left" alt="TeamViewer logo"  />](/media/AppIcons/TEAMVIEWER-Square44x44Logo.scale-100.png) Help-desk support tool.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" height="100" alt="TeamViewer logo"  /> Help-desk support tool providing remote access to end-user computers.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p> 
 
 ## Documentation for
 

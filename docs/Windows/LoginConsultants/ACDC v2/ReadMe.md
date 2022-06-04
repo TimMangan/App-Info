@@ -1,9 +1,14 @@
 # App-Info Document ACDC (v2)
 
-[<img src="/media/AppIcons/LOGINACDCTwo-Square44x44Logo.scale-100.png" align="left" alt="ACDC logo"  />](/media/AppIcons/LOGINACDCTwo-Square44x44Logo.scale-100.png) ACDC Version 2 is a help-desk tool for use on end-user systems that are using Microsoft App-V Versions 5 through 5.2.  It supports local configuration of the App-V Client and troubleshooting and repair functionality for applications virtualized under App-V.  (ACDC V1 supported App-V 4.x systems).
+<div>
+
+<img src="/media/AppIcons/LOGINACDCTwo-256.png" align="left" height="100" alt="ACDC logo"  /> ACDC Version 2 is a help-desk tool for use on end-user systems that are using Microsoft App-V Versions 5 through 5.2.  It supports local configuration of the App-V Client and troubleshooting and repair functionality for applications virtualized under App-V.  (ACDC V1 supported App-V 4.x systems).
 
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

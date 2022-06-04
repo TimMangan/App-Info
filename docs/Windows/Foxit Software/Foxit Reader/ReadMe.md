@@ -1,8 +1,13 @@
 # App-Info Document Foxit Reader
 
-[<img src="/media/AppIcons/FOXITPDFREADER-Square44x44Logo.scale-100.png" align="left" alt="Foxit Reader logo"  />](/media/AppIcons/FOXITPDFREADER-Square44x44Logo.scale-100.png) A PDF Reader program (licensed product).
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/FOXITPDFREADER-256.png" align="left" height="100" alt="Foxit Reader logo"  /> Foxit Reader is another PDF Reader program (licensed product).
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p> 
 
 ## Documentation for
 

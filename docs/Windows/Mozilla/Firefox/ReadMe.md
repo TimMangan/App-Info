@@ -1,8 +1,13 @@
 # App-Info Document Firefox
 
-[<img src="/media/AppIcons/FIREFOX-Square44x44Logo.scale-100.png" align="left" alt="Firefox logo"  />](/media/AppIcons/FIREFOX-Square44x44Logo.scale-100.png) A popular free alternative web browser program.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/FIREFOX-256.png" align="left" height="top" alt="Firefox logo"  /> Firefox is a popular free alternative web browser program.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

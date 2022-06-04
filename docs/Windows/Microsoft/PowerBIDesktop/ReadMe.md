@@ -1,12 +1,15 @@
 # App-Info Document Microsoft Power BI Desktop
 
+<div>
+
+<img src="/media/AppIcons/PBIDESKTOP-256.png" align="left" height="100" alt="PBIDesktop logo"  /> This application is used with Microsoft Power BI.
 
 
-[<img src="/media/AppIcons/PBIDESKTOP-Square44x44Logo.scale-100.png" align="left" alt="PBIDesktop logo"  />](/media/AppIcons/PBIDESKTOP-Square44x44Logo.scale-100.png) This application is used with Microsoft Power BI.
 
-
-
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

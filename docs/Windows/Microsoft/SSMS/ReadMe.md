@@ -1,12 +1,16 @@
 # App-Info Document Template Microsoft SSMS (Sql Server Management Studio)
 
 
+<div>
 
-[<img src="/media/AppIcons/SSMS-Square44x44Logo.targetsize-48.png" align="left" alt="SSMS logo"  />](/media/AppIcons/SSMS-Square44x44Logo.targetsize-48.png)  This application is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.
+<img src="/media/AppIcons/SSMS-256.png" align="left" height="100" alt="SSMS logo"  />  Microsoft SMSS is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.
 
 Use SSMS to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

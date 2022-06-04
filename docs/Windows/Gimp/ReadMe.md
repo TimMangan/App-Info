@@ -1,8 +1,13 @@
 # App-Info Document Gimp
 
-[<img src="/media/AppIcons/GIMPTwo-Square44x44Logo.targetsize-48.png" align="left" alt="Gimp logo"  />](/media/AppIcons/GIMPTwo-Square44x44Logo.targetsize-48.png) A free graphical image manipulation tool that became popular in the Linux world and is sometimes requested on Windows.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/GIMPTwo-256.png" align="left" height="100" alt="Gimp logo"  /> A free graphical image manipulation tool that became popular in the Linux world and is sometimes requested on Windows.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p> 
 
 ## Documentation for
 

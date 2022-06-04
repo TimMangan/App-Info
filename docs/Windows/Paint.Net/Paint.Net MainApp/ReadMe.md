@@ -1,8 +1,13 @@
 # App-Info DocumentPaint.Net (Main app)
 
-[<img src="/media/AppIcons/PAINTDOTNET-Square44x44Logo.scale-100.png" align="left" alt="Paint.Net logo"  />](/media/AppIcons/PAINTDOTNET-Square44x44Logo.scale-100.png) Paint.Net is a free graphic image editor.  It has a large community that produces plugins.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/PAINTDOTNET-256.png" align="left" height="100" alt="Paint.Net logo"  /> Paint.Net is a free graphic image editor.  It has a large community that produces plugins.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p> 
 
 ## Documentation for
 

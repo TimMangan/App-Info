@@ -1,10 +1,15 @@
 # App-Info Document DosBox_Blockout
 
-[<img src="/media/AppIcons/DOSBOX-Square44x44Logo.scale-100.png" align="left" alt="DosBox logo"  />](/media/AppIcons/DOSBOX-Square44x44Logo.scale-100.png) This application is an example of a 16-bit DOS application, which natively could no longer run on x64 systems.  We use DosBox as a way to host this app; packaging them together.
+<div>
 
-Blockout is just a Tetris like game, but the concept here holds for a bunch of old 16-bit business apps that are still in use today, mostly by Small companies.  Often, these 16-bit apps are an ancient line of business app that they just can't live without and will continue to use until the owner of the business retires or passes away.
+<img src="/media/AppIcons/DOSBOX-256.png" align="left" height="100" alt="DosBox logo"  /> This package is an example of a 16-bit DOS application, which natively could no longer run on x64 systems.  We include DosBox as a way to host this app; packaging them together and using DosBox as the shortcut that automatically launches the 16-bit app in its emulator.
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+The specific 16-bit app in this package is Blockout, a Tetris like game, but the concept here holds for a bunch of old 16-bit business apps that are still in use today, mostly by Small companies.  Often, these 16-bit apps are an ancient line of business app that they just can't live without and will continue to use until the owner of the business retires or passes away.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p> 
 
 ## Documentation for
 

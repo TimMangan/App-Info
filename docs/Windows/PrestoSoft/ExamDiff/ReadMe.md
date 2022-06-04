@@ -1,8 +1,13 @@
 # App-Info Document ExamDiff
 
-[<img src="/media/AppIcons/EXAMDIFF-Square44x44Logo.scale-100.png" align="left" alt="ExamDiff logo"  />](/media/AppIcons/EXAMDIFF-Square44x44Logo.scale-100.png) Free version of app to show graphical differences in files.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/EXAMDIFF-256.png" align="left" height="100" alt="ExamDiff logo"  /> ExamDiff is a free version of app to show graphical differences in files.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

@@ -1,8 +1,13 @@
 # App-Info Document MikTex
 
-[<img src="/media/AppIcons/MIKTEXCONSOLE-Square44x44Logo.scale-100.png" align="left" alt="MikTex logo"  />](/media/AppIcons/MIKTEXCONSOLE-Square44x44Logo.scale-100.png) MiKTeX is a modern TeX distribution for Windows, Linux and macOS. It is an open-source project. It is mostly used in university environments for the production of scientific papers.  Some publishing journals require the use of LaTex format, and MikTex has a substantial library of add-ons to help people meet the demanding requirements of specific publications.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/MIKTEXCONSOLE-256.png" align="left" height="100" alt="MikTex logo"  /> MiKTeX is a modern TeX distribution for Windows, Linux and macOS. It is an open-source project. It is mostly used in university environments for the production of scientific papers.  Some publishing journals require the use of LaTex format, and MikTex has a substantial library of add-ons to help people meet the demanding requirements of specific publications.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

@@ -1,8 +1,13 @@
 # App-Info Document Sigil
 
-[<img src="/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png" align="left" alt="Sigil logo"  />](/media/AppIcons/SIGIL-Square44x44Logo.scale-100.png) This is a free, open source, editor for creating and viewing E-Books.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/SIGIL-256.png" align="left" height="100" alt="Sigil logo"  /> This is a free, open source, editor for creating and viewing E-Books.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

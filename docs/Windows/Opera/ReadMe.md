@@ -1,8 +1,13 @@
 # App-Info Document Opera
 
-[<img src="/media/AppIcons/Opera.png" align="left" alt="Opera logo"  />](/media/AppIcons/Opera.png) Opera is another of the free alternative browsers that are out there.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/OPERA-256.png" align="left" height="100" alt="Opera logo"  /> Opera is another of the free alternative browsers that are out there.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

@@ -1,8 +1,13 @@
 # App-Info Document Blender
 
-[<img src="/media/AppIcons/BLENDER-Square44x44Logo.scale-100.png" align="left" alt="Blender logo"  />](/media/AppIcons/BLENDER-Square44x44Logo.scale-100.png) This application is a free and quite functional animation editor/engine.  Requires a GPU and has many first and third party plugins.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/BLENDER-256.png" align="left" height="100" alt="Blender logo"  /> Blender is a free and quite popular and functional animation editor/engine.  It requires that a GPU be present on the runtime system.  It has many first and third party plugins.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 

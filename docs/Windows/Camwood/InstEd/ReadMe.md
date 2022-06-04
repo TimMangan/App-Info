@@ -1,8 +1,13 @@
 # App-Info Document InstEd
 
-[<img src="/media/AppIcons/INSTED-Square44x44Logo.scale-100.png" align="left" alt="Insted logo"  />](/media/AppIcons/INSTED-Square44x44Logo.scale-100.png) This application is a free low-end MSI file editor.  There was a paid for version with more capability, but that appears this may have been abandoned. Packagers often use this tool to pop open an MSI file to see what the available parameters are for silent installation.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/INSTED-256.png" align="left" height="100" alt="Insted logo"  /> InstEdit is the free version of a low-end MSI file editor.  There is also a paid for version available with more capability. Packagers often use this tool to pop open an MSI file to see what the available parameters are for silent installation, or for simple editing.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p> 
 
 ## Documentation for
 

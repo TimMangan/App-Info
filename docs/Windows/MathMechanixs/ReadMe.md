@@ -1,11 +1,16 @@
 # App-Info Document MathMechanixs
 
-[<img src="/media/AppIcons/MATHMECHANIXS-Square44x44Logo.scale-100.png" align="left" alt="Math Mechanixs logo"  />](/media/AppIcons/MATHMECHANIXS-Square44x44Logo.scale-100.png) Math Mechanxs is a general purpose math software we commonly see used in Univesity classroom settings.  The original software was from 2006 and graphics might look a bit dated as the authors focused on adding more advanced math calculations.
+<div>
+
+<img src="/media/AppIcons/MATHMECHANIXS-256.png" align="left" height="100" alt="Math Mechanixs logo"  /> Math Mechanixs is a general purpose math software we commonly see used in Univesity classroom settings.  The original software was from 2006 and graphics might look a bit dated as the authors focused on adding more advanced math calculations.
 
 The Lite version is free, the full version is licensed.
 
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 
