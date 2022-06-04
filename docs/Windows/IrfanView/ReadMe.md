@@ -3,7 +3,7 @@
 
 <div>
 
-<img src="/media/AppIcons/IVIEWSixFour-256.png" align="left" height="100" alt="IrfanView logo"  /> IrfanView is a free image viewer that is popular mostly because it has been around for so long and supports so many file formats.  It also has plugins.
+<img src="/media/AppIcons/IVIEWSixFour-256.png" align="left" height="256" alt="IrfanView logo"  /> IrfanView is a free image viewer that is popular mostly because it has been around for so long and supports so many file formats.  It also has plugins.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/PAINTDOTNET-256.png" align="left" height="100" alt="Paint.Net logo"  /> Paint.Net is a free graphic image editor.  It has a large community that produces plugins.
+<img src="/media/AppIcons/PAINTDOTNET-256.png" align="left" height="256" alt="Paint.Net logo"  /> Paint.Net is a free graphic image editor.  It has a large community that produces plugins.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

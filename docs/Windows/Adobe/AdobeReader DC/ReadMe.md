@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/ACRORDThreeTwo-256.png" align="left" height="100" alt="Actobat Reader logo"  /> Adobe Reader DC is a popular free utility to work with viewing PDF files.
+<img src="/media/AppIcons/ACRORDThreeTwo-256.png" align="left" height="256" alt="Actobat Reader logo"  /> Adobe Reader DC is a popular free utility to work with viewing PDF files.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

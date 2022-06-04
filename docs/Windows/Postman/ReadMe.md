@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/POSTMAN-256.png" align="left" height="100" alt="Postman logo"  /> Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster. It is used by Developers.
+<img src="/media/AppIcons/POSTMAN-256.png" align="left" height="256" alt="Postman logo"  /> Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster. It is used by Developers.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

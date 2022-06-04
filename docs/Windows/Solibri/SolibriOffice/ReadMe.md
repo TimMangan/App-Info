@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/SOLIBRI-256.png" align="left" alt="Solibri logo"  /> A licensed product for checking 3d CAD models. From the vendor website "The core product for model checking and collaboration."
+<img src="/media/AppIcons/SOLIBRI-256.png" align="left" height="256" alt="Solibri logo"  /> A licensed product for checking 3d CAD models. From the vendor website "The core product for model checking and collaboration."
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

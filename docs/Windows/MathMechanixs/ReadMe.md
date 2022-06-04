@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/MATHMECHANIXS-256.png" align="left" height="100" alt="Math Mechanixs logo"  /> Math Mechanixs is a general purpose math software we commonly see used in Univesity classroom settings.  The original software was from 2006 and graphics might look a bit dated as the authors focused on adding more advanced math calculations.
+<img src="/media/AppIcons/MATHMECHANIXS-256.png" align="left" height="256" alt="Math Mechanixs logo"  /> Math Mechanixs is a general purpose math software we commonly see used in Univesity classroom settings.  The original software was from 2006 and graphics might look a bit dated as the authors focused on adding more advanced math calculations.
 
 The Lite version is free, the full version is licensed.
 

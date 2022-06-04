@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/APPVMANIFESTEDITOR-256.png" align="left" height="100" alt="App-V Manifest Editor logo"  /> AppV Manifest Editor (AVME) is a free tool for helping create App-V packages.  It is typically used in the App-V Sequencer to edit the internal AppXManifest file to fix issue, fine-tune packages, and add package scripts.
+<img src="/media/AppIcons/APPVMANIFESTEDITOR-256.png" align="left" height="256" alt="App-V Manifest Editor logo"  /> AppV Manifest Editor (AVME) is a free tool for helping create App-V packages.  It is typically used in the App-V Sequencer to edit the internal AppXManifest file to fix issue, fine-tune packages, and add package scripts.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

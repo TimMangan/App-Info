@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" height="100" alt="TeamViewer logo"  /> Help-desk support tool providing remote access to end-user computers.
+<img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" height="256" alt="TeamViewer logo"  /> Help-desk support tool providing remote access to end-user computers.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

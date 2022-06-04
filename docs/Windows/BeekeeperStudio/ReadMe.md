@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/BEEKEEPERSTUDIO-256.png" align="left" height="100" alt="Beekeeper Studio logo"  /> Beekeeper Studio is a modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more.  This is the free/open-source community edition.  The licensed Ultimate Edition was not tested.
+<img src="/media/AppIcons/BEEKEEPERSTUDIO-256.png" align="left" height="256" alt="Beekeeper Studio logo"  /> Beekeeper Studio is a modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more.  This is the free/open-source community edition.  The licensed Ultimate Edition was not tested.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

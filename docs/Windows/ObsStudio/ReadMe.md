@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/OBSSixFour-256.png" align="left" height="100" alt="ObsStudio logo"  /> ObsStudio ia a popular free and open source software for video recording and especially live streaming.
+<img src="/media/AppIcons/OBSSixFour-256.png" align="left" height="256" alt="ObsStudio logo"  /> ObsStudio ia a popular free and open source software for video recording and especially live streaming.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

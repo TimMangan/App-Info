@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/NOTEPADPP-256.png" align="left" height="100" alt="Notepad++ logo"  /> Notepad++ is a free (free as in both "free speech" and "free beer") source code editor and Notepad replacement that supports several programming languages and natural languages. Running in the MS Windows environment, its use is governed by GPL License.
+<img src="/media/AppIcons/NOTEPADPP-256.png" align="left" height="256" alt="Notepad++ logo"  /> Notepad++ is a free (free as in both "free speech" and "free beer") source code editor and Notepad replacement that supports several programming languages and natural languages. Running in the MS Windows environment, its use is governed by GPL License.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

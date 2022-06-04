@@ -1,7 +1,7 @@
 # App-Info Document RegShot
 <div>
 
-<img src="/media/AppIcons/REGSHOTXSixFourANSI-256.png" align="left" alt="Regshot logo"  /> RegShot is an open source tool that consists of a simple gui tool for creating and comparing registry snapshots.
+<img src="/media/AppIcons/REGSHOTXSixFourANSI-256.png" align="left" height="256" alt="Regshot logo"  /> RegShot is an open source tool that consists of a simple gui tool for creating and comparing registry snapshots.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

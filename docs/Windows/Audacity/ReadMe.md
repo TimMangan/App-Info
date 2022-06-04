@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/AUDACITY-256.png" align="left" height="100" alt="Audacity logo"  /> This application is a freeware/open-source version of an multi-track audio file editor.  It has a wide variety of vendor and third party plugins available.
+<img src="/media/AppIcons/AUDACITY-256.png" align="left" height="256" alt="Audacity logo"  /> This application is a freeware/open-source version of an multi-track audio file editor.  It has a wide variety of vendor and third party plugins available.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

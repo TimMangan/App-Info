@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/MREMOTENG-256.png" align="left" height="100" alt="mRemoteNG logo"  /> mRemoteNG is a fork of mRemote: an open source, tabbed, multi-protocol, remote connections manager for Windows. mRemoteNG adds bug fixes and new features to mRemote and allows you to view all of your remote connections in a simple yet powerful tabbed interface.
+<img src="/media/AppIcons/MREMOTENG-256.png" align="left" height="256" alt="mRemoteNG logo"  /> mRemoteNG is a fork of mRemote: an open source, tabbed, multi-protocol, remote connections manager for Windows. mRemoteNG adds bug fixes and new features to mRemote and allows you to view all of your remote connections in a simple yet powerful tabbed interface.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

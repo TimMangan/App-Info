@@ -1,7 +1,7 @@
 # App-Info Document R (Language)
 <div>
 
-<img src="/media/AppIcons/RGUI00-256.png" align="left" height="100" alt="RGui logo"  /> This is an implmentation of the R language. It includes both an x86 and x64 implementation.
+<img src="/media/AppIcons/RGUI00-256.png" align="left" height="256" alt="RGui logo"  /> This is an implmentation of the R language. It includes both an x86 and x64 implementation.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

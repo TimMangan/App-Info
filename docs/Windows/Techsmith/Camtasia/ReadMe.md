@@ -2,7 +2,7 @@
 
 <div>
   
-  <img src="/media/AppIcons/CAMTASIASTUDIO-256.png" align="left" Height="100" alt="Camtasia logo"  /> Camtasia is a licensed video recording and creation tool from TechSmith.
+  <img src="/media/AppIcons/CAMTASIASTUDIO-256.png" align="left" Height="256" alt="Camtasia logo"  /> Camtasia is a licensed video recording and creation tool from TechSmith.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

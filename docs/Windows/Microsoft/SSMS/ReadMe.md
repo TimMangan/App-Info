@@ -3,7 +3,7 @@
 
 <div>
 
-<img src="/media/AppIcons/SSMS-256.png" align="left" height="100" alt="SSMS logo"  />  Microsoft SMSS is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.
+<img src="/media/AppIcons/SSMS-256.png" align="left" height="256" alt="SSMS logo"  />  Microsoft SMSS is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.
 
 Use SSMS to query, design, and manage your databases and data warehouses, wherever they are - on your local computer, or in the cloud.
 

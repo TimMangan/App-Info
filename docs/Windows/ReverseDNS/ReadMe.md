@@ -1,7 +1,7 @@
 # App-Info Document ReverseDNS
 <div>
 
-<img src="/media/AppIcons/REVERSE-256.png" align="left" Height="100" alt="ReverseDNS logo"  /> ReverseDNS is an old free standalone tool that consists of a simple gui tool for looking up IP addresses.
+<img src="/media/AppIcons/REVERSE-256.png" align="left" Height="256" alt="ReverseDNS logo"  /> ReverseDNS is an old free standalone tool that consists of a simple gui tool for looking up IP addresses.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

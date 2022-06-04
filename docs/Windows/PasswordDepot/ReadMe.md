@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/PASSWORDDEPOT-256.png" align="left" alt="Password Depot logo"  /> Password Depot is a password manager for secure management of all your passwords, credentials and confidential documents.
+<img src="/media/AppIcons/PASSWORDDEPOT-256.png" align="left" height="256" alt="Password Depot logo"  /> Password Depot is a password manager for secure management of all your passwords, credentials and confidential documents.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

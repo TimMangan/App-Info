@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/FIDDLER-256.png" align="left" height="100" alt="Fiddler logo"  /> Fiddler is a web tracing tool, largely used by developers in testing their websites, but also used by security personel.  It does not have any device drivers, making it easier to deploy than some of the other popular options for protocol tracing. The program has gone from free to licensed.
+<img src="/media/AppIcons/FIDDLER-256.png" align="left" height="256" alt="Fiddler logo"  /> Fiddler is a web tracing tool, largely used by developers in testing their websites, but also used by security personel.  It does not have any device drivers, making it easier to deploy than some of the other popular options for protocol tracing. The program has gone from free to licensed.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

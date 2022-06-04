@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/SWRITER-256.png" align="left" height="100" alt="Libre Office logo"  /> LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice).  It is used in some organizations as an alternative to Microsoft Office.
+<img src="/media/AppIcons/SWRITER-256.png" align="left" height="256" alt="Libre Office logo"  /> LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice).  It is used in some organizations as an alternative to Microsoft Office.
 
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.

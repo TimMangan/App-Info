@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/APPVMANAGE-256.png" align="left" height="100" alt="AppV_Manage logo"  /> AppV_Manage is a free tool for testing App-V packages.  It also has a mode that may be used as a replacement for ACDC for your help desk.
+<img src="/media/AppIcons/APPVMANAGE-256.png" align="left" height="256" alt="AppV_Manage logo"  /> AppV_Manage is a free tool for testing App-V packages.  It also has a mode that may be used as a replacement for ACDC for your help desk.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

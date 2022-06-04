@@ -1,7 +1,7 @@
 # App-Info Document R with RStudio
 <div>
 
-<img src="/media/AppIcons/RSTUDIO-256.png" align="left" height="100" alt="R Studio logo"  /> RStudio is the a GUI wrapper for working the R that includes an implementation of the R Language dependency.   It may be possible to package this dependency separately in some scenarios.
+<img src="/media/AppIcons/RSTUDIO-256.png" align="left" height="256" alt="R Studio logo"  /> RStudio is the a GUI wrapper for working the R that includes an implementation of the R Language dependency.   It may be possible to package this dependency separately in some scenarios.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

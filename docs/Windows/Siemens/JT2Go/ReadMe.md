@@ -1,7 +1,7 @@
 # App-Info Document JT2Go
 <div>
 
-<img src="/media/AppIcons/JT2Go-256.png" align="left" height="100" alt="JT2Go logo"  /> JT2Go is a free viewer app for viewing Jupyter Transform models.  Siemens also has a commercial version.
+<img src="/media/AppIcons/JT2Go-256.png" align="left" height="256" alt="JT2Go logo"  /> JT2Go is a free viewer app for viewing Jupyter Transform models.  Siemens also has a commercial version.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

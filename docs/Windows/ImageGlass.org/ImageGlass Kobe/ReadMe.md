@@ -1,9 +1,14 @@
 
 # App-Info Document ImageGlass Kobe
 
-[<img src="/media/AppIcons/IMAGEGLASS-Square44x44Logo.scale-100.png" align="left" alt="Foxit Reader logo"  />](/media/AppIcons/IMAGEGLASS-Square44x44Logo.scale-100.png) ImageGlass is a free lightweight and versatile image viewer.  There is a paid for MSIX version in the Microsoft Store.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/IMAGEGLASS-256.png" align="left" height="256" alt="Foxit Reader logo"  /> ImageGlass is a free lightweight and versatile image viewer.  There is a paid for MSIX version in the Microsoft Store.
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>  
 
 ## Documentation for
 

@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/PBIDESKTOP-256.png" align="left" height="100" alt="PBIDesktop logo"  /> This application is used with Microsoft Power BI.
+<img src="/media/AppIcons/PBIDESKTOP-256.png" align="left" height="256" alt="PBIDesktop logo"  /> This application is used with Microsoft Power BI.
 
 
 

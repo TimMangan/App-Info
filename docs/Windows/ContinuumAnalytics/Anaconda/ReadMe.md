@@ -1,8 +1,13 @@
 # App-Info Document Anaconda
 
+<div>
+
 This application is a Data Science app for things like Jupyter Notebooks. For ML applications and R Server.
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+TThis Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p> 
 
 ## Documentation for
 

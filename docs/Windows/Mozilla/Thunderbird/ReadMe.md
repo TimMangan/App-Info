@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/THUNDERBIRD-256.png" align="left" height="100" alt="Thunderbird logo"  /> Mozilla Thunderbird is a popular free alternative email client program. Thunderbird claims to be the leading open source cross-platform email and calendaring client, free for business and personal use (but they'd love a donation).
+<img src="/media/AppIcons/THUNDERBIRD-256.png" align="left" height="256" alt="Thunderbird logo"  /> Mozilla Thunderbird is a popular free alternative email client program. Thunderbird claims to be the leading open source cross-platform email and calendaring client, free for business and personal use (but they'd love a donation).
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

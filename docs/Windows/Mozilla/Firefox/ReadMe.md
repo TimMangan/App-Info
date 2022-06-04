@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/FIREFOX-256.png" align="left" height="top" alt="Firefox logo"  /> Firefox is a popular free alternative web browser program.
+<img src="/media/AppIcons/FIREFOX-256.png" align="left" height="256" alt="Firefox logo"  /> Firefox is a popular free alternative web browser program.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

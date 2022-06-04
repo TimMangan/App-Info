@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/PAINTDOTNET-256.png" align="left" height="100" alt="Paint.Net logo"  /> This is an example of a plug-in to the Paint.Net program.  Shape3d plugin is used to create a 2d projection of a 3d object like a sphere, cylander, or cone.  This, and other such plugins, may be included in a Paint.Net repackaging effort directly, but sometimes it is fun to package up separately for delivery.
+<img src="/media/AppIcons/PAINTDOTNET-256.png" align="left" height="256" alt="Paint.Net logo"  /> This is an example of a plug-in to the Paint.Net program.  Shape3d plugin is used to create a 2d projection of a 3d object like a sphere, cylander, or cone.  This, and other such plugins, may be included in a Paint.Net repackaging effort directly, but sometimes it is fun to package up separately for delivery.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

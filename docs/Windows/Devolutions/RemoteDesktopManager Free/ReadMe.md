@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/REMOTEDESKTOPMANAGERFREE-256.png" align="left" height="100" alt="Remote Desktop Free logo"  /> Remote Desktop Manager Free is the free version of a tool to manage remote connections using multiple technologies. The paid for version has additional feature like connection sharing.
+<img src="/media/AppIcons/REMOTEDESKTOPMANAGERFREE-256.png" align="left" height="256" alt="Remote Desktop Free logo"  /> Remote Desktop Manager Free is the free version of a tool to manage remote connections using multiple technologies. The paid for version has additional feature like connection sharing.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

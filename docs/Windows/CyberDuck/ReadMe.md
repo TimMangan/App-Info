@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/CYBERDUCK-256.png" align="left" height="100" alt="CyberDuck logo"  /> Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+<img src="/media/AppIcons/CYBERDUCK-256.png" align="left" height="256" alt="CyberDuck logo"  /> Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  

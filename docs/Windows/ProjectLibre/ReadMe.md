@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/PROJECTLIBRE-256.png" align="left" height="100" alt="Project Libre logo"  /> ProjectLibre is an alternative to Microsoft Project.  There is both a free community edition and a subscription license version.
+<img src="/media/AppIcons/PROJECTLIBRE-256.png" align="left" height="256" alt="Project Libre logo"  /> ProjectLibre is an alternative to Microsoft Project.  There is both a free community edition and a subscription license version.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
