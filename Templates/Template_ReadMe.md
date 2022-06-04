@@ -5,9 +5,14 @@
 Please remove the boiler plate at and above this line, then edit the example below.
 _____
 
-[<img src="/media/AppIcons/Template.png" align="left" alt="XXX logo"  />](/media/AppIcons/Template.png)  This application is used for XXX...
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/Template.png" align="left" height="256" alt="XXX logo"  />  This application is used for XXX...
+
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder. 
+
+</div>
+<p> </p>
 
 ## Documentation for
 
