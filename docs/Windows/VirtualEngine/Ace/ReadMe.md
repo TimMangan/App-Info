@@ -1,9 +1,13 @@
 # App-Info Document Ace
 
-[<img src="/media/AppIcons/ACE-Square44x44Logo.scale-100.png" align="left" alt="ACE logo"  />](/media/AppIcons/ACE-Square44x44Logo.scale-100.png) This application is a freeware editor for App-V Deployment and User configuration files.
+<div>
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
+<img src="/media/AppIcons/ACE-256.png" align="left" height="100" alt="ACE logo"  /> ACE (Application Configuration Editor) is a freeware editor for App-V Deployment and User configuration files.
 
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 ## Documentation for
 
 | Category | Value |
