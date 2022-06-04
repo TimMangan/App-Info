@@ -2,6 +2,8 @@
 <div>
 
 <img src="/media/AppIcons/JT2Go-256.png" align="left" height="256" alt="JT2Go logo"  /> JT2Go is a free viewer app for viewing Jupyter Transform models.  Siemens also has a commercial version.
+ 
+From the vendor: "JT2GO Desktop App provides the richest feature set of all the supported platforms. The Desktop App will display not only .jt files but .vfz session files authorized in the Siemens Digital Industry Software Flagship TeamCenter Visualization product. Supported features include; Product Structure, LMI including model views, CAE results, and Cross sectioning."
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
