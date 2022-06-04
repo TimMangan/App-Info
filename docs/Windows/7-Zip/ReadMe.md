@@ -6,8 +6,6 @@
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
-</div>
-<p> </p>
 
 ## Documentation for
 
@@ -18,6 +16,8 @@ This Readme.md is the high level file that describes the application summary.  A
 | Application Version | 19.00 (released 2019/02, newer versions available)|
 | Vendor/App Website| www.7-zip.org |
 
+</div>
+<p> </p>
 
 ## Vendor Installer Types
 
