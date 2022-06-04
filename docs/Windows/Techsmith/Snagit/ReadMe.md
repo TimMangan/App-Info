@@ -1,8 +1,8 @@
-# App-Info Document Techsmith Camtasia
+# App-Info Document Techsmith Snagit
 
 <div>
   
-  <img src="/media/AppIcons/CAMTASIASTUDIO-256.png" align="left" Height="256" alt="Camtasia logo"  /> Camtasia is a licensed video recording and creation tool from TechSmith.
+  <img src="/media/AppIcons/SNAGITEDITOR-256.png" align="left" Height="256" alt="Snagit logo"  /> Snagit is a licensed screenshot capture and editing tool from TechSmith.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
@@ -14,8 +14,8 @@ This Readme.md is the high level file that describes the application summary.  A
 | Category | Value |
 |-----|-------------------------------------------------------|
 | Vendor Name | Techsmith |
-| Application Name| Camtasia |
-| Application Version | 21.0.5.32207 (released 2021/06, newer versions available)|
+| Application Name| Snagit |
+| Application Version | 21.4.3.11096 (released 2021/07, newer versions available)|
 | Vendor/App Website| https://www.techsmith.com |
 
 
@@ -41,7 +41,7 @@ This is where we can define the forms of installers available from the vendor.
 
 | Architecture | Available |
 |----|----|
-| 32-bit | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| 32-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | 64-bit | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
 | AnyCPU | [<img src="/media/No.png" alt="No" />](/media/No.png) |
 | Arm | [<img src="/media/No.png" alt="No" />](/media/No.png) |
@@ -87,4 +87,4 @@ This is where to list a summary of known success (or not) in repackaging info ce
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
 
-* The Techsmith Deployment Tool may be used to configure the application by creating an MST file for the installer.  See https://assets.techsmith.com/Downloads/accessories/TechSmith_Deployment_Tool_Documentation.pdf
+* The Techsmith Deployment Tool may be used to configure the application by creating an MST file for the installer.  See https://assets.techsmith.com/Downloads/accessories/TechSmith_Deployment_Tool_Documentation.pdf 

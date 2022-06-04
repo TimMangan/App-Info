@@ -1,4 +1,4 @@
-# Installation and Configuration Notes for TeamViewer
+# Installation and Configuration Notes for Camtasia
 
 By default the app will install into the user programs folder by default.
 
@@ -23,7 +23,8 @@ The dependency exe installer supports silent installation:
 ## MSI Main installer 
 
 The primary installer supports passive and silent installation.  This may be performed using the transform file. Techsmith provides a tool to help you create the transform file and it supports full configuration of the installation.
-* Use arguments 'TRANSFORMS="camtasia.mst" /passive /promptrestart' for a passive installation.  Substitute '/q' for '/passive' for a silent installation.
+* The Techsmith Deployment Tool may be used to configure the application by creating an MST file for the installer.  See https://assets.techsmith.com/Downloads/accessories/TechSmith_Deployment_Tool_Documentation.pdf
+* For the msi installation,use arguments 'TRANSFORMS="camtasia.mst" DISABLEADVTSHORTCUTS=1 /passive /promptrestart' for a passive installation.  Substitute '/q' for '/passive' for a silent installation.
 
 It is important to disable the autoupdater (for other than MSI packaging). Certain features do not work under App-V or MSIX, however these are features that the enterprise often prefers to disable anyway.
 
