@@ -95,4 +95,5 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/SNAGITEDITOR-256.png" align="left" Height="33" alt="Snagit logo"  /> | [SnagIt](docs/Windows/Techsmith/Snagit) | Techsmith |
 | <img src="/media/AppIcons/SOLIBRI-256.png" align="left" Height="33" alt="Solibri logo"  /> | [SolibriOffice](docs/Windows/Solibri/SolibriOffice) | Solibri |
 | <img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" Height="33" alt="TeamViewer logo"  /> | [TeamViewer](docs/Windows/TeamViewer) | TeamViewer |
+| <img src="/media/AppIcons/THUMBICO-256.png" align="left" Height="33" alt="Thumbico logo"  /> | [ThumbIco](docs/Windows/Aurelitec/Thumico) | Aurelitec |
 
