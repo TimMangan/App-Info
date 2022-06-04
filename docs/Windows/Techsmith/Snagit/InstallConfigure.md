@@ -1,9 +1,9 @@
 # Installation and Configuration Notes for Snagit
 
-By default the app will install into the user programs folder by default.
+By default the app will install into the program files folder by default.
 
 
-## MSI Main installer 
+## MSI installer 
 
 The primary installer supports passive and silent installation.  This may be performed using the transform file. Techsmith provides a tool to help you create the transform file and it supports full configuration of the installation.
 * The Techsmith Deployment Tool may be used to configure the application by creating an MST file for the installer.  See https://assets.techsmith.com/Downloads/accessories/TechSmith_Deployment_Tool_Documentation.pdf 

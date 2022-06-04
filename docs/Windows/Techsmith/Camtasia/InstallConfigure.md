@@ -1,6 +1,6 @@
 # Installation and Configuration Notes for Camtasia
 
-By default the app will install into the user programs folder by default.
+By default the app will install into the program files folder by default.
 
 
 ## EXE Dependency based installer for WebView2
