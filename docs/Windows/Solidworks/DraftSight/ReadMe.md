@@ -4,7 +4,7 @@
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
-
+<p></p>
 ## Documentation for
 
 | Category | Value |
