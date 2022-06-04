@@ -2,7 +2,9 @@
 
 <div>
 
-<img src="/media/AppIcons/AVOGADRO-256.png" align="left" height="256" alt="Avogadro logo"  /> Avogadro is a free (GNU) chemical molecule editor and visualizer.
+<img src="/media/AppIcons/AVOGADRO-256.png" align="left" height="256" alt="Avogadro logo"  /> Avogadro is an advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas. It offers flexible high quality rendering and a powerful plugin architecture.  It is sometime used in university or reasearch lab settings as part of documenting work for publishing to conferences.
+ 
+The software is free (GNU licensed), and it has open-source code available.  Being designed as cross-platform, it is highly suitable for packaging.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
