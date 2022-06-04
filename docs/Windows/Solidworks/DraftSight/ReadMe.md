@@ -1,10 +1,13 @@
 # App-Info Document Solidworks Draftsight
 
-[<img src="/media/AppIcons/DRAFTSIGHT-256.png" align="left" Height="128" alt="DraftSight logo"  />](/media/AppIcons/DRAFTSIGHT-256.png) DraftSight is a Licensed CAD program.  Originally from Solidworks, that company is now owned by Dessault Systems.
+<div>
+  
+  <img src="/media/AppIcons/DRAFTSIGHT-256.png" align="left" Height="100" alt="DraftSight logo"  /> DraftSight is a Licensed CAD program.  Originally from Solidworks, that company is now owned by Dessault Systems.
 
-This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
-
-<p></p>
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+ 
+</div>
+<p> </p>
 
 ## Documentation for
 
