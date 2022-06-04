@@ -61,7 +61,7 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/GIMPTwo-256.png" align="left" Height="33" alt="Gimp logo"  /> | [Gimp](docs/Windows/Gimp) | Gimp |
 | <img src="/media/AppIcons/IMAGEGLASS-256.png" align="left" Height="33" alt="Foxit Reader logo"  /> | [ImageGlass Kobe](docs/Windows/ImageGlass.org/ImageGlass%20Kobe) | ImageGlass.org |
 | <img src="/media/AppIcons/INSTED-256.png" align="left" Height="33" alt="Insted logo"  /> | [InstEd](docs/Windows/Camwood/InstEd) | Camwood Studios |
-| <img src="/media/AppIcons/IVIEW64-256.png" align="left" Height="33" alt="IrfanView logo"  /> | [IrfanView](docs/Windows/IrfanView) | IrfanView (Irfan Skiljan ) |
+| <img src="/media/AppIcons/IVIEWSixFour-256.png" align="left" Height="33" alt="IrfanView logo"  /> | [IrfanView](docs/Windows/IrfanView) | IrfanView (Irfan Skiljan ) |
 | <img src="/media/AppIcons/SWRITER-256.png" align="left" Height="33" alt="Libre Office logo"  /> | [Libre Office](docs/Windows/LibreOffice) | LibreOffice.org |
 | <img src="/media/AppIcons/LOGINACDCTwo-256.png" align="left" Height="33" alt="ACDC logo"  /> | [Login ACDC (v2)](docs/Windows/LoginConsultants/ACDC%20v2) | Login Consultants |
 | <img src="/media/AppIcons/MATHMECHANIXS-256.png" align="left" Height="33" alt="Math Mechanixs logo"  /> | [Math Mechanixs](docs/Windows/MathMechanixs) | MathMechanixs |
