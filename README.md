@@ -44,7 +44,7 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/AVOGADRO-256.png" align="left" Height="33" alt="Avogadro logo"  /> | [Avogadro](docs/Windows/Avogadro) | Avogadro |
 | <img src="/media/AppIcons/BEEKEEPERSTUDIO-256.png" align="left" Height="33" alt="Beekeeper Studio logo"  /> | [BeeKeeper Studio](docs/Windows/BeekeeperStudio) | BeeKeeperStudio.io |
 | <img src="/media/AppIcons/BLENDER-256.png" align="left" Height="33" alt="Blender logo"  /> | [Blender](docs/Windows/Blender) | Blender Foundation |
-| <img src="/media/AppIcons/CALIBRE-S256.png" align="left" Height="33" alt="Calibre logo"  /> | [Calibre](docs/Windows/Calibre) | Calibre |
+| <img src="/media/AppIcons/CALIBRE-256.png" align="left" Height="33" alt="Calibre logo"  /> | [Calibre](docs/Windows/Calibre) | Calibre |
 | <img src="/media/AppIcons/CAMTASIASTUDIO-256.png" align="left" Height="33" alt="Camtasia logo"  /> | [Camtasia](docs/Windows/Techsmith/Camtasia) | Techsmith |
 | <img src="/media/AppIcons/CONEMUSixFour-256.png" align="left" Height="33" alt="ConEmu logo"  /> | [ConEmuPack](docs/Windows/ConEmu/ConEmuPack) | Conemu.gethub.io |
 | <img src="/media/AppIcons/CYBERDUCK-256.png" align="left" Height="33" alt="Foxit Reader logo"  /> | [CyberDuck](docs/Windows/CyberDuck) | Cyberduck.io |
