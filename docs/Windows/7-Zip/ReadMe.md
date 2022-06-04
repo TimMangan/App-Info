@@ -6,7 +6,7 @@
 
 <p> </p>
 
-It is popular among IT Pros because it includes the ability to extract files from inside of WinPE files, such as to access embedded MSI from the setup.exe installers, or icons from an exe or dll.
+This software is popular among IT Pros because it also includes the ability to extract files from inside of WinPE files.  For example, such as to access embedded MSI from the setup.exe installers.  Ot so extract icons and other resources from an exe or dll file.
 
 <p> </p>
 
