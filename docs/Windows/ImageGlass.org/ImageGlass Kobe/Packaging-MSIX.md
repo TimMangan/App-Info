@@ -1,11 +1,11 @@
 # Packaging ImageGlass Kobe for MSIX
 
-The app has been packaged in MSIX with the PSF.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.330 and enhanced by editing with TMEditX to inject the PSF.
 * Follow generic InstallConfigure instructions.
 * PsfLauncher is required as is the FRF.  
 
 
-Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png).  
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) .  
 
 
 ## Contributors
