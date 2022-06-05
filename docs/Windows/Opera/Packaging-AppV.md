@@ -6,7 +6,7 @@ This app is easily packaged for App-V.
 * Remove AppData\Local exclusion
 
 
-Testing on Windows 7/10/11 indicates  [<img src="/media/CatIssues.png" alt="Has Issues" />](/media/CatIssues.png) support of the app.
+Testing on Windows 7/10/11 indicates  ![badge](https://img.shields.io/badge/-Major%20Issues-critical?style=for-the-badge) support of the app.  The app used to work well under App-V but newer versioins have a yet-to-be-diagnosed issue.
 
 
 ## Contributors
