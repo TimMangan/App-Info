@@ -7,7 +7,7 @@ _____
 
 <div>
 
-<img src="/media/AppIcons/App-Info.png" align="left" height="256" alt="XXX logo"  />  This application is used for XXX...
+<img src="/media/AppIcons/App-Info.png" align="left" height="256" alt="XXX logo"  />  This application is used for some purpose. I like to include information on if it is free or a licensed app.  And if there is open source available, if I know about it.
 
 Maybe some more text as you want enough to get the 256 bit icons to be covered before the documentation header below.  This can mean about 10 lines of text.
 
