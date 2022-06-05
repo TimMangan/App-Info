@@ -29,13 +29,13 @@ This is where we can define the forms of installers available from the vendor.
 <tr>
 <td>
 
-| Type | Available |
-|----|----|
-| Setup Exe | [<img src="/media/Yes.png" alt="Yes" />](/media/Yes.png) |
-| MSI | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| AppX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| MSIX/Bundle | [<img src="/media/No.png" alt="No" />](/media/No.png) |
-| .appinstaller | [<img src="/media/No.png" alt="No" />](/media/No.png) |
+| Installer Type Availabilty |
+|----|
+| ![badge](https://img.shields.io/badge/Setup%20Exe-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSI-YYes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/AppX%2FBundle-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSIX%2FBundle-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
 
 </td>
 <td width=100></td>
