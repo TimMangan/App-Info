@@ -34,8 +34,8 @@ This is where we can define the forms of installers available from the vendor.
 
 | Installer Type Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/Setup%20Exe-Unknown-lightgrey?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSI-Unknown-lightgrey?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Setup%20Exe-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSI-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AppX%2FBundle-Unknown-lightgrey?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/MSIX%2FBundle-Unknown-lightgrey?style=for-the-badge)) |
 | ![badge](https://img.shields.io/badge/appinstaller-Unknown-lightgrey?style=for-the-badge) |
