@@ -1,4 +1,4 @@
-# App-Info Document ActivePythos
+# App-Info Document ActivePython
 
 This application is a free (with registration) utility to install Python and manage dependencies.
 
