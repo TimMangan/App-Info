@@ -1,11 +1,11 @@
 # Packaging OBS Studio for MSIX
 
-The app has been packaged in MSIX with or without PSF.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.330 with or without PSF.
 * The app appears to work without the PSF.
 * For good meansure, using the PSF with FRF would be recommended as we suspect some files might get updated in production use.
 
 
-Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png).  
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge).  
 
 
 ## Contributors
