@@ -1,6 +1,6 @@
 # Packaging Notepad++ Plugin for MSIX
 
-The app has been packaged in MSIX.  
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.330 and edited in TMEditX.  
 * Adding the PSF to this package is not appropriate as it does not have any entry points.
 * Unlike the App-V Sequencer, there is no "expand package" functionality built into the Microsoft MSIX Packageing Tool (MMPT), so you must install NotePad++ on the packaging system priot to starting the packaging process (install the same way it was installed in your NotepadPlusPlus package).
 * Do one of the following:
@@ -8,7 +8,7 @@ The app has been packaged in MSIX.
 * * In the MMPT, select the New Application Package. You don't reference the main package. At the client, installs may be installed in any order, but you'll need to add a "Shared Package Container" to bring the apps together (Requires Windows 11).
 
 
-Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) by using the Modification method.  
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) by using the Modification method.  
 
 
 ## Contributors
