@@ -7,7 +7,7 @@ _____
 
 <div>
 
-<img src="/media/AppIcons/Template.png" align="left" height="256" alt="XXX logo"  />  This application is used for XXX...
+<img src="/media/AppIcons/App-Info.png" align="left" height="256" alt="XXX logo"  />  This application is used for XXX...
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder. 
 
@@ -37,7 +37,7 @@ This is where we can define the forms of installers available from the vendor.
 | ![badge](https://img.shields.io/badge/Setup%20Exe-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/MSI-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AppX%2FBundle-Unknown-lightgrey?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSIX%2FBundle-Unknown-lightgrey?style=for-the-badge)) |
+| ![badge](https://img.shields.io/badge/MSIX%2FBundle-Unknown-lightgrey?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/appinstaller-Unknown-lightgrey?style=for-the-badge) |
 
 </td>
