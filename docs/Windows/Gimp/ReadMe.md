@@ -26,16 +26,15 @@ This is where we can define the forms of installers available from the vendor.
 <table >
 <tr>
 <td>
+
 | Installer Type Availabilty |
 |----|
 | ![badge](https://img.shields.io/badge/Setup%20Exe-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/MSI-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AppX%2FBundle-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSIX%2FBundle-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSIX%2FBundle-No-red?style=for-the-badge) See `Note 1` |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
 
-
-`Note`: Although there have been MSIX versions in the Microsoft Store from time to time, these came from enthusiasts and not Gimp.org.  Check the vendor website for any updates on this status.
 
 </td>
 <td width=100></td>
@@ -43,13 +42,16 @@ This is where we can define the forms of installers available from the vendor.
 
 | Code Architecture Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/x86-Yes-green?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/x64-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/x86-Yes-green?style=for-the-badge)  See `Note 2` |
+| ![badge](https://img.shields.io/badge/x64-Yes-green?style=for-the-badge) See `Note 2` |
 | ![badge](https://img.shields.io/badge/AnyCPU-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm64-No-red?style=for-the-badge) |
 
-`Note`: The Windows 32-bit based exe installer has both 32-and 64 bit versions in it.
+
+`Note 1`: Although there have been MSIX versions in the Microsoft Store from time to time, these came from enthusiasts and not Gimp.org.  Check the vendor website for any updates on this status.
+
+`Note 2`: The Windows 32-bit based exe installer has both 32-and 64 bit versions in it.
 
 </td>
 </tr>
