@@ -9,6 +9,8 @@ _____
 
 <img src="/media/AppIcons/App-Info.png" align="left" height="256" alt="XXX logo"  />  This application is used for XXX...
 
+Maybe some more text as you want enough to get the 256 bit icons to be covered before the documentation header below.  This can mean about 10 lines of text.
+
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder. 
 
 </div>
