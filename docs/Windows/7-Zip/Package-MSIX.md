@@ -4,6 +4,8 @@ The app is easily packaged in MSIX and requires little special treatment:
 
 * The shortcut to the .chm file may be ignored by some packaging tools. This is usually OK, but the PSF PsfLauncher may be used to make this available. 
 
+This app was packaged using the Microsoft MSIX Packaging Tool version 1.2022.330.  It was enhanced by editing with TMEditX to inject the PSF Launcher to make the chm file shortcut available.
+
 Testing on Windows 10 indicates ![badge](https://img.shields.io/badge/-High%20Confidence-green?style=for-the-badge) support of the app.
 * Some of the Shell Extensions are not available. 
 
