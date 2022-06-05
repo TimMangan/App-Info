@@ -49,13 +49,14 @@ This is where we can define the forms of installers available from the vendor.
 | ![badge](https://img.shields.io/badge/Arm64-No-red?style=for-the-badge) |
 
 
-`Note 1`: Although there have been MSIX versions in the Microsoft Store from time to time, these came from enthusiasts and not Gimp.org.  Check the vendor website for any updates on this status.
-
-`Note 2`: The Windows 32-bit based exe installer has both 32-and 64 bit versions in it.
-
 </td>
 </tr>
 </table>
+
+
+`Note 1`: Although there have been MSIX versions in the Microsoft Store from time to time, these came from enthusiasts and not Gimp.org.  Check the vendor website for any updates on this status.
+
+`Note 2`: The Windows 32-bit based exe installer has both 32-and 64 bit versions in it.
 
 ## App Configuration Type
 
