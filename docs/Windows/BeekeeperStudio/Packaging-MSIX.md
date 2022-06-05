@@ -1,9 +1,9 @@
 # Packaging BeeKeeperStudio for MSIX
 
-The app has been packaged in MSIX with the PSF.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.330 and enhanced by editing with TMEditX to inject the PSF.
 * PsfLauncher is required as is the FRF.
 
-Testing on Windows 10/11 indicates [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png).  This is because we have not yet discovered how to disable the update check.
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-High%20Confidence-green?style=for-the-badge).  This is because we have not yet discovered how to disable the update check.
 
 
 ## Contributors
