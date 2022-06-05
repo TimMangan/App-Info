@@ -36,8 +36,6 @@ This is where we can define the forms of installers available from the vendor.
 | ![badge](https://img.shields.io/badge/MSIX%2FBundle-Yes-green?style=for-the-badge) See `Note` |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
 
-`Note`: There are free for versions (x86 and x64) in the Microsoft Store.  PlugIns are not availble to the store version currently.
-
 </td>
 <td width=100></td>
 <td>
@@ -53,6 +51,8 @@ This is where we can define the forms of installers available from the vendor.
 </td>
 </tr>
 </table>
+
+`Note`: There are free for versions (x86 and x64) in the Microsoft Store.  PlugIns are not availble to the store version currently.
 
 ## App Configuration Type
 
