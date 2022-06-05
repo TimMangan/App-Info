@@ -1,8 +1,8 @@
 # Packaging CyberDuck for MSIX
 
-The app has been packaged in MSIX without the PSF.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.330 without the PSF.
 * If pre-configuration is needed, the PSF with FRF would be required.
-* Modification of the AppXManifest to add ExecutionAlias is recommended:
+* Modification of the AppXManifest to add ExecutionAlias is recommended. This may be done manually in the manifest editor of the MMPT or button-click in TMEditX:
 
 ``` xml
 <Package ...>
@@ -25,7 +25,7 @@ The app has been packaged in MSIX without the PSF.
 </Package>
 ```
 
-Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png).
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge).
 
 
 
