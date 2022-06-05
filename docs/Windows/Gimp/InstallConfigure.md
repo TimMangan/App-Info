@@ -4,6 +4,9 @@ By default the app will install under a `Gimp 2` folder in the Program Files fol
 
 This application has many available plugins built-in.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#gimp 
+
 
 ## EXE based installer
 

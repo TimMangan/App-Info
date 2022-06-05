@@ -2,10 +2,15 @@
 
 By default the exe installer for this app will install into several folders under both Program Files and Program Files (x86). In both, there are both a Bonjour folder and a CyberDuck folder.
 
-The MSI version of the installer seems to skip the Bonjour service installation (even though files are in the package).
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#cyberduck 
+
+
 
 ## MSI based installer
 The MSI installer appears to only have the typical MSI options.
+
+The MSI version of the installer seems to skip the Bonjour service installation (even though files are in the package).
 
 ## EXE based installer
 

@@ -2,6 +2,8 @@
 
 There is no installer from the vendor for this app, just a standalone EXE. There are both 32 and x64 builds, and each are available in ANSI versus Unicode builds.  The x64 Ansi version is probably what you want.  Also grab the `language.ini` file.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
 
 
 ## Manual Install

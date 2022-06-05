@@ -2,6 +2,9 @@
 
 The application is delivered in a setup exe installer or zip.    
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 
 ## ZIP based installer
 The ZIP based installer contains a different setup exe than what may be directly downloaded. You use this installer in a two step process, first to download and then to install.  The commands are:

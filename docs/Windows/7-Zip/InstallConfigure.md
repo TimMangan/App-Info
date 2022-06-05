@@ -1,6 +1,9 @@
 # Installation and Configuration Notes for 7-zip
 By default the app will install into a `7-Zip` folder under the apprpriate Program Files folder.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#7zip 
+
 ## Exe based installer
 
 Silent installation is possible:  
@@ -16,6 +19,8 @@ Normal MSI parameters are available for quick/passive/silent installation, and:
 
 ## SilentInstallHQ
 Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=7-zip
+
+
 
 ## Typical Configuration Items 
 

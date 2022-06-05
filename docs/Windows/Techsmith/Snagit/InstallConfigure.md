@@ -2,6 +2,9 @@
 
 By default the app will install into the program files folder by default.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#techsmithsnagit 
+
 
 ## MSI installer 
 

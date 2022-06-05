@@ -20,7 +20,13 @@ ____
 
 # Installation and Configuration Notes for XXX
 
-The application is delivered in a setup exe or MSI installer.  
+The application is delivered in a setup exe or MSI installer. By default it installs to the Progam Files area.  
+
+
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+or 
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#... 
 
 
 ## EXE based installer

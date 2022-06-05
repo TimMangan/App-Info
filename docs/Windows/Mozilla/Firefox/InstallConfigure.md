@@ -4,6 +4,10 @@ By default the app will install under a `Firefox` folder in the Program Files fo
 
 The software has an updater that is implemented as a windows service.  Disable the service to disable updates.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#mozillafirefox 
+
+
 ## EXE based installer
 
 The main exe installer supports silent installation:

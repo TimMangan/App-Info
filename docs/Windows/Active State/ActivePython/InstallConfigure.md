@@ -1,6 +1,9 @@
 # Installation and Configuration Notes
 By default the app will install into a `C:\Python3x` folder under the apprpriate Program Files folder.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 ## MSI based installer
 
 Normal MSI parameters are available for quick/passive/silent installation.

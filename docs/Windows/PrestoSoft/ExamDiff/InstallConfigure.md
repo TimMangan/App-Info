@@ -2,7 +2,8 @@
 
 By default the app will install under a `ExamDiff` folder in the Program Files (x86) folder.
 
-
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
 
 
 ## EXE based installer

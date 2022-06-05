@@ -4,6 +4,9 @@ By default the app will install under a `R` folder in the Program Files folder.
 
 Install the R language first, then RStudio using the zip installation..
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for RStudio only https://stealthpuppy.com/apptracker/#rstudio
+
 ## EXE based R language installer
 
 The EXE installer for R (Language) may be silently installed:

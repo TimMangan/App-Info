@@ -2,6 +2,9 @@
 
 By default the app will install into the program files folder by default.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 
 ## EXE installer 
 

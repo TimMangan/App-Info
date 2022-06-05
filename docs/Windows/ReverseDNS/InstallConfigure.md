@@ -2,6 +2,8 @@
 
 There is no installer from the vendor for this app, just a standalone EXE. 
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
 
 
 ## Manual Install

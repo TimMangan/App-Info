@@ -2,6 +2,9 @@
 
 By default the app will install into the user programs folder `Notepad++` by default.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#notepadplusplus 
+
 
 ## EXE based installer
 

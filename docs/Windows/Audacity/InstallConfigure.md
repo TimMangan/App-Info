@@ -1,6 +1,9 @@
 # Installation and Configuration Notes for Audacity
 By default the app will install into a `Audacity` folder under the apprpriate Program Files folder.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#audacity 
+
 ## Exe based installer
 
 Silent installation is possible:  

@@ -2,6 +2,9 @@
 
 The application is delivered in a setup exe installer.  
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 
 ## EXE based installer
 

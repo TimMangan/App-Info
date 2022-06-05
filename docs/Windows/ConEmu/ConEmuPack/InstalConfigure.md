@@ -1,6 +1,9 @@
 # Installation and Configuration Notes for ConEmuPack
 By default the app will install into a `ConEmu` folder under the apprpriate Program Files folder.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 
 ## EXE based installer
 

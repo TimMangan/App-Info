@@ -2,6 +2,9 @@
 
 By default the app will install under a `mRemoteNG` folder in the Program Files (x86) folder.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#mremoteng
+
 
 ## ZIP based installer
 

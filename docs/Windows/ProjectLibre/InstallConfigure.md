@@ -2,6 +2,9 @@
 
 By default the app will install under a `AceBit` folder in the Program Files folder.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#projectlibre 
+
 
 ## EXE based installer
 

@@ -4,6 +4,9 @@ By default the app will install under a `R` folder in the Program Files folder.
 
 This documentation is only for the R Language only.  Quite often this might be packaged with another app that depends on R, or deployed as a connected group.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 ## EXE based installer
 
 The EXE installer may be silently installed:

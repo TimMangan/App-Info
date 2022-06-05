@@ -2,6 +2,9 @@
 
 By default the app will install into the user programs folder `paint.net` by default.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#paintdotnetofflineinstaller 
+
 
 ## EXE based installer
 

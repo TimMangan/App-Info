@@ -2,6 +2,9 @@
 
 The application is delivered in a zip file without an installer.  In the archive will be a 32 and 64 bit version of the application exe, and a PDF Documentation file.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 
 ## ZIP based installer
 

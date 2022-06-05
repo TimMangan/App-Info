@@ -2,6 +2,9 @@
 
 By default the app will install into a `C:\Anaconda` folder.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#anaconda 
+
 
 ## EXE based installer
 

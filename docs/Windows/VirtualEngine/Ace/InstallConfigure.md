@@ -1,6 +1,8 @@
 # Installation and Configuration Notes for ACE
 By default the app will install into a `Virtual Engine\ACE` folder under the apprpriate 32-bit Program Files folder.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
 
 ## MSI based installer
 

@@ -3,6 +3,10 @@
 By default the app will install into a `C:\Program Files (x86)\Avogadro` folder.
 
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
+
 ## EXE based installer
 
 There is a dependency VC Runtime that must be installed prior to the main install. It is the 2010 x86 version 10.0.40219.325 installer.

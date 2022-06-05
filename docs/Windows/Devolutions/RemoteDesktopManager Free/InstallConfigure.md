@@ -2,6 +2,9 @@
 
 By default the exe installer for this app will install into folder under  `Program Files (x86)\Devolutions\Remote Desktop Manager Free`. 
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 
 ## MSI based installer
 The MSI installer appears to only have the typical MSI options.

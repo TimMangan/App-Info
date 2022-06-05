@@ -2,6 +2,9 @@
 
 By default the app will install under a `AceBit` folder in the Program Files folder.
 
+## Project Evergreen
+Project Evergreen AppTracker does not provide information and sources for installers for this app when last checked.
+
 
 ## EXE based installer
 

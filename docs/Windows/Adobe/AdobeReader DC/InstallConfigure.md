@@ -3,6 +3,9 @@ By default the app will install into a `Adobe` folder under the apprpriate Progr
 
 To distribute this product inside your organization, you are required to register for this purpose (free).  This registration makes the Abobe Customization Wizard available to you, as well as the MSI based installer.
 
+## Project Evergreen
+Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#adobeacrobatdc  
+
 
 ## MSI based installer
 
