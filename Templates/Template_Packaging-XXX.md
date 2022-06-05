@@ -5,7 +5,7 @@ The app has been packaged in YYY.
 * Special details
 
 
-Testing on Windows 10/11 indicates[<img src="/media/CatUnknown.png" alt="Has Issues" />](/media/CatUnknown.png).  
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Major%20Issues-critical?style=for-the-badge).  
 
 
 
