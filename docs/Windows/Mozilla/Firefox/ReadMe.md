@@ -31,7 +31,7 @@ This is where we can define the forms of installers available from the vendor.
 |----|
 | ![badge](https://img.shields.io/badge/Setup%20Exe-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/MSI-Yes-green?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/AppX%2FBundle-No-redstyle=for-the-badge) |
+| ![badge](https://img.shields.io/badge/AppX%2FBundle-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/MSIX%2FBundle-Yes-green?style=for-the-badge) (See `Note 1') |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
 
@@ -62,7 +62,7 @@ This is where to place a summary of how application configuration is stored.  It
 |----
 | ![badge](https://img.shields.io/badge/Registry-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/File-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/AD%2FGPO-Unknown-lightgreystyle=for-the-badge) |
+| ![badge](https://img.shields.io/badge/AD%2FGPO-Unknown-lightgrey?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AAD%2FGPO-No-red?style=for-the-badge) |
 
 
