@@ -69,7 +69,6 @@ This is where to place a summary of how application configuration is stored.  It
 | ![badge](https://img.shields.io/badge/AD%2FGPO-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AAD%2FGPO-Unknown-lightgrey?style=for-the-badge) |
 
-
 ## Repackaging Summary
 
 This is where to list a summary of known success (or not) in repackaging info certain formats.  If repackaging the application is not straightforward, a specific documentation file covering the details for that repackaging format is suggested. Values in the Success field are somewhat subjective, but we recommend that the summary use the following value:
