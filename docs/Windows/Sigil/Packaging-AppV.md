@@ -7,7 +7,7 @@ This app is easily packaged for App-V.
 * After install, create the %localappdata%\sigil-ebook\sigil folder and copy a modified sigil.ini file as described in InstallConfigure.
 
 
-Testing on Windows 7/10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) support of the app.
+Testing on Windows 7/10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) support of the app.
 
 
 ## Contributors
