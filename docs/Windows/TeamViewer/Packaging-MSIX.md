@@ -1,12 +1,12 @@
 # Packaging TeamViewer for MSIX
 
-The app has been packaged in MSIX without the PSF.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.512 without the PSF.
 * After install, import reg file with desired settings.
 * Remove the unwanted Teamviewer.lnk file from the desktop if desired.
 
 
 
-Testing on Windows 10/11 indicates [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png).
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge).
 
 
 ## Contributors

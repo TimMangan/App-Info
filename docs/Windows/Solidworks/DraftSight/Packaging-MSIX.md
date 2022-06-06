@@ -1,6 +1,6 @@
 # Packaging DraftSight for MSIX
 
-TThe software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.512 with the PSF using TMEditX with the PSF FileRedirectionFixup.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.512 with the PSF using TMEditX with the PSF FileRedirectionFixup.
 * You must disable the Advertized Shortcuts for installation.
 * Remove the unwanted shortcut from the desktop if desired.
 * PsfLauncher is required for the shortcut in order to support the required command line argument.
