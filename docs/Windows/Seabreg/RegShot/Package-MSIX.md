@@ -1,8 +1,10 @@
 # Packaging RegShot for MSIX
 
-The app is easily packaged in MSIX and requires no special treatment when used on recent Operating Systems.  If used on older versions of Windows 10, the FileRedirectionFixup might be required should the user need to modify configuration (unlikely).
+The app is easily packaged in MSIX and requires no special treatment when used on recent Operating Systems.  
 
-Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) support of the app.
+If used on older versions of Windows 10, the FileRedirectionFixup might be required should the user need to modify configuration (unlikely).
+
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) support of the app.
 
 
 ## Contributors
