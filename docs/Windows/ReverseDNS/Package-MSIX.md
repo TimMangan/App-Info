@@ -2,7 +2,7 @@
 
 The app is easily packaged in MSIX and requires no special treatment when used on recent Operating Systems.  
 
-Testing on Windows 10/11 indicates [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png) support of the app.
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) support of the app.
 
 
 ## Contributors
