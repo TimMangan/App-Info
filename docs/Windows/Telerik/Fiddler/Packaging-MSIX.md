@@ -1,13 +1,13 @@
 # Packaging Fiddler for MSIX
 
-The app has been packaged in MSIX with the PSF.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.512 with the PSF using TMeditX.
 * After install, import reg file with desired settings.
 * Remove the uninst.exe from the program folder.
 * While monitoring, run 'EnableLoopback.exe -All'
 * PsfLauncher is required as is the RegLegacy, and EnvVar fixups.
 
 
-Testing on Windows 10/11 indicates [<img src="/media/CatHighConfidence.png" alt="High Confidence" />](/media/CatHighConfidence.png).
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-High%20Confidence-green?style=for-the-badge).
 
 
 ## Contributors
