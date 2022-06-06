@@ -1,9 +1,9 @@
 # Packaging Project Libre for MSIX
 
-The app has been packaged in MSIX without the PSF.
+The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.512 with or without the PSF.
 
 
-Testing on Windows 10/11 indicates  [<img src="/media/CatFullFidelity.png" alt="Full Fidelity" />](/media/CatFullFidelity.png).  
+Testing on Windows 10/11 indicates  ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge).  
  
 
 
