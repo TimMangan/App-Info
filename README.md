@@ -92,7 +92,7 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/REMOTEDESKTOPMANAGERFREE-256.png" align="left" Height="33" alt="Remote Desktop Free logo"  /> | [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free) | Devolutions |
 | <img src="/media/AppIcons/JT2Go-256.png" align="left" Height="33" alt="JT2Go logo"  /> | [Siemens JT2Go](docs/Windows/Siemens/JT2Go) | Siemens |
 | <img src="/media/AppIcons/SIGIL-256.png" align="left" Height="33" alt="Sigil logo"  /> | [Sigil](docs/Windows/Sigil) | Sigil |
-| <img src="/media/AppIcons/SketchupViewer-256.png" align="left" Height="33" alt="SketchViewer logo"  /> | [ThumbIco](docs/Windows/Trimble/SketcupViewer) | Trimble |
+| <img src="/media/AppIcons/SketchupViewer-256.png" align="left" Height="33" alt="SketchViewer logo"  /> | [SketchupViewer](docs/Windows/Trimble/SketchupViewer) | Trimble |
 | <img src="/media/AppIcons/SNAGITEDITOR-256.png" align="left" Height="33" alt="Snagit logo"  /> | [SnagIt](docs/Windows/Techsmith/Snagit) | Techsmith |
 | <img src="/media/AppIcons/SOLIBRI-256.png" align="left" Height="33" alt="Solibri logo"  /> | [SolibriOffice](docs/Windows/Solibri/SolibriOffice) | Solibri |
 | <img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" Height="33" alt="TeamViewer logo"  /> | [TeamViewer](docs/Windows/TeamViewer) | TeamViewer |
