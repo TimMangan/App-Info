@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/ACE-256.png" align="left" height="256" alt="ACE logo"  /> ACE (Application Configuration Editor) is a freeware editor for App-V Deployment and User configuration files.
+<img src="/media/AppIcons/SketchupViewer-256.png" align="left" height="256" alt="Sketchup Viewer logo"  /> Sketchup Viewer is a viewer for an architectural 3d CAD program.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
@@ -13,10 +13,10 @@ This Readme.md is the high level file that describes the application summary.  A
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Virtual Engines |
-| Application Name| Ace |
-| Application Version | 1.4 (released 2015/08, latest version available)|
-| Vendor/App Website| https://virtualengine.co.uk/tag/ace/ |
+| Vendor Name | Trimble |
+| Application Name| Sketchup Viewer |
+| Application Version | 2021.1.1 (released 2021/01, newer version available)|
+| Vendor/App Website| https://www.sketchup.com/products/sketchup-viewer/downloads |
 
 
 
@@ -29,8 +29,8 @@ This is where we can define the forms of installers available from the vendor.
 
 | Installer Type Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/Setup%20Exe-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSI-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Setup%20Exe-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSI-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AppX%2FBundle-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/MSIX%2FBundle-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
@@ -41,8 +41,8 @@ This is where we can define the forms of installers available from the vendor.
 
 | Code Architecture Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/x86-Yes-green?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/x64-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/x86-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/x64-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AnyCPU-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm64-No-red?style=for-the-badge) |
@@ -51,18 +51,20 @@ This is where we can define the forms of installers available from the vendor.
 </tr>
 </table>
 
+`Note`: Also available for the Mac.
+
 ## App Configuration Type
 
 This is where to place a summary of how application configuration is stored.  Items of configuration of common interest should be documented in a separate file.
 
 | Configuration Style Availability |
 |----
-| ![badge](https://img.shields.io/badge/Registry-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/File-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Registry-Unknown-lightgrey?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/File-Unknown-lightgrey?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AD%2FGPO-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AAD%2FGPO-No-red?style=for-the-badge) |
 
-The product has no configuration options.
+
 
 ## Repackaging Summary
 
