@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="/media/AppIcons/UVC-256.png" align="left" height="256" alt="UltraVNC logo"  /> UltraVNC is a remote support tool.  
+<img src="/media/AppIcons/VNCVIEWER-256.png" align="left" height="256" alt="UltraVNC logo"  /> UltraVNC is a remote support tool.  
 
 From the vendor:
 > "UltraVNC Server and Viewer are a powerful, easy to use, free software that can display the screen of one computer (Server) on the screen of another (Viewer). The program allows the viewer to use their mouse and keyboard to control the Server Computer remotely. 
