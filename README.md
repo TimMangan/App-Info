@@ -98,4 +98,5 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" Height="33" alt="TeamViewer logo"  /> | [TeamViewer](docs/Windows/TeamViewer) | TeamViewer |
 | <img src="/media/AppIcons/THUMBICO-256.png" align="left" Height="33" alt="Thumbico logo"  /> | [ThumbIco](docs/Windows/Aurelitec/Thumbico) | Aurelitec |
 | <img src="/media/AppIcons/TMEDIT-256.png" align="left" Height="33" alt="TMEdit logo"  /> | [TMEdit](docs/Windows/TMurgent/TMEdit) | TMurgent |
+| <img src="/media/AppIcons/UEDITSixFour-256.png" align="left" Height="33" alt="UltraEdit logo"  /> | [UltraEdit](docs/Windows/IDMComputerSolutions/UltraEdit) | IDM Computer Solutions |
 
