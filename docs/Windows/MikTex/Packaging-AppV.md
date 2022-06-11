@@ -1,4 +1,4 @@
-# Packaging Math Mechanixs for App-V
+# Packaging MikTex for App-V
 
 This app has been packaged for App-V successfully.
 

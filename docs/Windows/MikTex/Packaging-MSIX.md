@@ -1,4 +1,4 @@
-# Packaging Math Mechanixs for MSIX
+# Packaging MikTex for MSIX
 
 The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.512 both with and without the PSF using TMEditX.
 * The PSF Launcher, FRF, and EnvVar fixups are suggested.
