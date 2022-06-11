@@ -4,7 +4,7 @@ The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool
 * The PsfLauncher and FRF are needed (file based configuration in Program Files) if any pre-configration is attempted. 
 
 
-Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge).  
+Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge).  
 
 
 ## Contributors
