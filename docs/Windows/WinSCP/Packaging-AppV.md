@@ -1,4 +1,4 @@
-# Packaging WinMerge for App-V
+# Packaging WinSCP for App-V
 
 This app is easily packaged for App-V.
 
