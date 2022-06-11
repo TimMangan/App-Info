@@ -1,6 +1,6 @@
 # App-Info Document ActivePython
 
-This application is a free (with registration) utility to install Python and manage dependencies.
+<img src="/media/AppIcons/CMD-256.png" align="left" valign="top" height="256" alt="Cmd prompt logo"  /> This application is a free (with registration) utility to install Python and manage dependencies.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 

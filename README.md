@@ -43,7 +43,7 @@ Currently we have documentation on the following **67** Windows based apps:
 | <img src="/media/AppIcons/ACE-256.png" align="left" Height="33" alt="ACE logo"  /> | [ACE](docs/Windows/VirtualEngine/Ace) | Virtual Engine |
 | <img src="/media/AppIcons/APPVMANAGE-256.png" align="left" Height="33" alt="AppV_Manage logo"  /> | [AppV_Manage](docs/Windows/TMurgent/AppV_Manage) | TMurgent Technologies, LLP |
 | <img src="/media/AppIcons/APPVMANIFESTEDITOR-256.png" align="left" Height="33" alt="App-V_Manifest Editor logo"  /> | [AppV Manifest Editor (AVME)](docs/Windows/TMurgent/AppVManifestEditor) | TMurgent Technologies, LLP |
-| | [Active Python](docs/Windows/Active%20State//ActivePython) | Active State |
+| <img src="/media/AppIcons/CMD-256.png" align="left" Height="33" alt="Cmd Prompt logo"  /> | [Active Python](docs/Windows/Active%20State//ActivePython) | Active State |
 | <img src="/media/AppIcons/ACRORDThreeTwo-256.png" align="left" Height="33" alt="Actobat Reader logo"  /> | [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC) | Adobe Systems |
 | | [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda) | Continuum Analytics |
 | <img src="/media/AppIcons/AUDACITY-256.png" align="left" Height="33" alt="Audacity logo"  /> | [Audacity](docs/Windows/Audacity) | Audacity |
