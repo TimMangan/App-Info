@@ -1,4 +1,4 @@
-# Testing APP
+# Testing APP Microsoft SMSS
 
 
 The following tests should be considered to determine the application fidelity when repackaging.
