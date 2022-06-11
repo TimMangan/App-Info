@@ -52,7 +52,7 @@ This is where we can define the forms of installers available from the vendor.
 </tr>
 </table>
 
-`Note 1`: The vendor now has a paid-for version up in the Microsoft Store.  It has not been investigated, but this would seem to be an MSIX package. See [StoreAndModificationPackage-MSIX](docs/Windows/WinSCP/StoreAndModificationPackage-MSIX.md) for more information.
+`Note 1`: The vendor now has a paid-for version up in the Microsoft Store.  It has not been investigated, but this would seem to be an MSIX package. See [StoreAndModificationPackage-MSIX](/docs/Windows/WinSCP/StoreAndModificationPackage-MSIX.md) for more information.
 
 ## App Configuration Type
 
