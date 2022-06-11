@@ -48,7 +48,7 @@ This is where we can define the forms of installers available from the vendor.
 | ![badge](https://img.shields.io/badge/x86-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/x64-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AnyCPU-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/Arm-Yes-greenstyle=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Arm-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm64-No-red?style=for-the-badge) |
 
 </td>
