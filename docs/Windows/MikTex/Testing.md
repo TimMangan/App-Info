@@ -1,4 +1,4 @@
-# Testing Math Mechanixs
+# Testing MikTex
 
 The following tests should be considered to determine the application fidelity when repackaging.
 
