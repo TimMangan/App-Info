@@ -53,11 +53,11 @@ This is where we can define the forms of Windows installers available from the v
 </table>
 
 
-`NOTE`: There is a basic and fuller version of the setup exe installer. The zip file installation provides a command line option to choose which installation set. See [InstallConfigure](InstallConfigure.md) for more information.
+`NOTE`: There is a basic and fuller version of the setup exe installer. The zip file installation provides a command line option to choose which installation set.
 
 ## App Configuration Type
 
-This is where to place a summary of how application configuration is stored.  The application has no configuration of it's own.
+This is where to place a summary of how application configuration is stored.  The application has no configuration of it's own. See [InstallConfigure](InstallConfigure.md) for more information.
 
 | Configuration Style Availability |
 |----
