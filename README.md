@@ -101,4 +101,5 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/UEDITSixFour-256.png" align="left" Height="33" alt="UltraEdit logo"  /> | [UltraEdit](docs/Windows/IDMComputerSolutions/UltraEdit) | IDM Computer Solutions |
 | <img src="/media/AppIcons/VLC-256.png" align="left" Height="33" alt="Vlc Player logo"  /> | [Vlc Player](docs/Windows/VideoLan/VlcPlayer) | VideoLan |
 | <img src="/media/AppIcons/VNCVIEWER-256.png" align="left" Height="33" alt="UltraVNC logo"  /> | [UltraVNC](docs/Windows/UltraVNC) | UltraVNC |
+| <img src="/media/AppIcons/VSCODE-256.png" align="left" Height="33" alt="VSCode logo"  /> | [UltraVNC](docs/Windows/Microsoft/VSCode) | Microsoft |
 
