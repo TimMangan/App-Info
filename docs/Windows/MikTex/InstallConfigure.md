@@ -1,4 +1,4 @@
-# Installation and Configuration Notes for Math Mechanixs
+# Installation and Configuration Notes for MikTex
 
 The application is delivered in a setup exe installer or zip.    
 
