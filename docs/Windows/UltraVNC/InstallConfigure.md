@@ -1,4 +1,4 @@
-# Installation and Configuration Notes for UltraEdit
+# Installation and Configuration Notes for UltraVNC
 By default the app will install under the apprpriate Program Files folder.
 
 ## Project Evergreen
