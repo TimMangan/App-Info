@@ -8,15 +8,16 @@ This application has many available plugins built-in.
 Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#gimp 
 
 
+## SilentInstallHQ
+Silent Install HQ provides this information on the silent install of this app: https://silentinstallhq.com/?s=gimp 
+
+
 ## EXE based installer
 
 The main exe installer supports passive installation:
 * Use  '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' for silent installation.
 
 
-
-## SilentInstallHQ
-Silent Install HQ provides this information on the silent install of this app: https://silentinstallhq.com/?s=gimp 
 
 ## Typical Configuration Items 
 
@@ -27,6 +28,7 @@ This identifies the most commonly interesting configuration items in the applica
 * The only registry use is for the FTAs, whch there are a lot of (67 at one count).  These are all shell integration commands and there are no shell extensions.
 * There is an updater that can be turned off in the Edit->Preferences dialog (System screen). This will write to the gimprc file in the AppData/Roaming area.  The line that is transformed is:
 
+| From | To |
 |----|----|
 | (check-updates yes) | (check-updates no) |
 
