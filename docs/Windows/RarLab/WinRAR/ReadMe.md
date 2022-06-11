@@ -85,7 +85,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | FlexApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Numecent | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| MSIX | ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) on Win10 ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) on Win 11 |
+| MSIX | ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.

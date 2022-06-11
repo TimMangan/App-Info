@@ -7,7 +7,7 @@ The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool
 
 Testing on Windows 10 indicates ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) Support of the app.  This is due to missing Shell Context Menu which is pretty important to many users for this app.
 
-Testing on Windows 11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) support of the app.
+Testing on Windows 11 indicates ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) support of the app.  Although the context menus look correctly formed in the manifest, they are not working.  Additionally, the open with like FTA for the app is now missing...
 
 
 ## Contributors
