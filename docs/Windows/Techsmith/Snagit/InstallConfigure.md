@@ -52,3 +52,4 @@ This identifies the most commonly interesting configuration items in the applica
 * There is a RegisteredApplications registration.
 * There is a run key to launch snagit (unless disabled).
 * There are fonts.
+* The Screen capture exe has an internal manifest with uiaccess="true".  This provides a minor elevation without prompt as long as the exe is in a "well known location".
