@@ -98,7 +98,7 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" Height="33" alt="TeamViewer logo"  /> | [TeamViewer](docs/Windows/TeamViewer) | TeamViewer |
 | <img src="/media/AppIcons/THUMBICO-256.png" align="left" Height="33" alt="Thumbico logo"  /> | [ThumbIco](docs/Windows/Aurelitec/Thumbico) | Aurelitec |
 | <img src="/media/AppIcons/TMEDIT-256.png" align="left" Height="33" alt="TMEdit logo"  /> | [TMEdit](docs/Windows/TMurgent/TMEdit) | TMurgent |
-| <img src="/media/AppIcons/TMEDIT-X256.png" align="left" Height="33" alt="TMEditX logo"  /> | [TMEditX](docs/Windows/TMurgent/TMEditX) | TMurgent |
+| <img src="/media/AppIcons/TMEDITX-256.png" align="left" Height="33" alt="TMEditX logo"  /> | [TMEditX](docs/Windows/TMurgent/TMEditX) | TMurgent |
 | <img src="/media/AppIcons/UEDITSixFour-256.png" align="left" Height="33" alt="UltraEdit logo"  /> | [UltraEdit](docs/Windows/IDMComputerSolutions/UltraEdit) | IDM Computer Solutions |
 | <img src="/media/AppIcons/VLC-256.png" align="left" Height="33" alt="Vlc Player logo"  /> | [Vlc Player](docs/Windows/VideoLan/VlcPlayer) | VideoLan |
 | <img src="/media/AppIcons/VNCVIEWER-256.png" align="left" Height="33" alt="UltraVNC logo"  /> | [UltraVNC](docs/Windows/UltraVNC) | UltraVNC |
