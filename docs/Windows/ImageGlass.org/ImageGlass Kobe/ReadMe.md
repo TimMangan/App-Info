@@ -37,7 +37,6 @@ This is where we can define the forms of installers available from the vendor.
 | ![badge](https://img.shields.io/badge/MSIX%2FBundle-Yes-green?style=for-the-badge)  See `Note` |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
 
-`Note`: There is a paid for version available in the Microsoft Store.  It has not been examined.
 
 </td>
 <td width=100></td>
@@ -54,6 +53,9 @@ This is where we can define the forms of installers available from the vendor.
 </td>
 </tr>
 </table>
+
+
+`Note`: There is a paid for version available in the Microsoft Store.  It has not been examined.
 
 ## App Configuration Type
 
