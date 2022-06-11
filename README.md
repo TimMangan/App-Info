@@ -35,7 +35,7 @@ The [CaptureFilters](docs/CaptureFilters) area of this documentation site provid
 Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
 
 
-Currently we have documentation on the following Windows based apps:
+Currently we have documentation on the following **67** Windows based apps:
 
 | | Application | Vendor |
 |----|----|----|
