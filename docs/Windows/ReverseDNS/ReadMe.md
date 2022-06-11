@@ -60,7 +60,7 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Configuration Style Availability |
 |----
-| ![badge](https://img.shields.io/badge/Registry-o-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Registry-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/File-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AD%2FGPO-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AAD%2FGPO-o-red?style=for-the-badge) |
