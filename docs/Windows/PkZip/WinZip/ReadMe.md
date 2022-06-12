@@ -13,7 +13,7 @@ This Readme.md is the high level file that describes the application summary.  A
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | PkZip |
+| Vendor Name | PkZip (now Corell) |
 | Application Name| WinZip |
 | Application Version | 26.0 (released 2022/06, newer version available)|
 | Vendor/App Website| https://www.winzip.com/en/download/alternative/ |
