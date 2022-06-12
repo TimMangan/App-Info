@@ -35,7 +35,7 @@ The [CaptureFilters](docs/CaptureFilters) area of this documentation site provid
 Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
 
 
-Currently we have documentation on the following **68** Windows based apps:
+Currently we have documentation on the following **69** Windows based apps:
 
 | | Application | Vendor |
 |----|----|----|
@@ -107,4 +107,5 @@ Currently we have documentation on the following **68** Windows based apps:
 | <img src="/media/AppIcons/WINRAR-256.png" align="left" Height="33" alt="WinRAR logo"  /> | [WinRAR](docs/Windows/RarLab/WinRAR) | RAR Lab |
 | <img src="/media/AppIcons/WINSCP-256.png" align="left" Height="33" alt="WinSCP logo"  /> | [WinSCP](docs/Windows/WinSCP) | winscp.net |
 | <img src="/media/AppIcons/WINZIPSixFour-256.png" align="left" Height="33" alt="WinZip logo"  /> | [WinZip](docs/Windows/PkZip/WinZip) | PkZip (now Corell) |
+| <img src="/media/AppIcons/ZOOM-256.png" align="left" Height="33" alt="Zoom logo"  /> | [Zoom Client](docs/Windows/Zoom/Client) | Zoom Communications |
 
