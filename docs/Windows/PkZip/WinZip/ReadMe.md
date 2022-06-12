@@ -85,7 +85,7 @@ See [Testing](Testing.md) for details on the testing performed on this app.
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | FlexApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Numecent | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-|  ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) |
+| [MSIX](Packaging-MSIX.md) | ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
