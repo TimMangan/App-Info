@@ -1,4 +1,4 @@
-# Packaging ImageGlass Kobe for MSIX
+# Packaging IrfanView for MSIX
 
 The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.330 without the PSF.
 * Follow generic InstallConfigure instructions.

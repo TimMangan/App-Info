@@ -1,6 +1,6 @@
 # App-Info Document ActivePython
 
-This application is a free (with registration) utility to install Python and manage dependencies.
+<img src="/media/AppIcons/CMD-256.png" align="left" valign="top" height="256" alt="Cmd prompt logo"  /> This application is a free (with registration) utility to install Python and manage dependencies.
 
 This is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. 
 
@@ -48,7 +48,7 @@ This is where we can define the forms of installers available from the vendor.
 
 ## App Configuration Type
 
-This is where to place a summary of how application configuration is stored.  Items of configuration of common interest should be documented in a separate file.
+This is where to place a summary of how application configuration is stored.  Items of configuration of common interest should be documented in a separate file. See [InstallConfigure](InstallConfigure.md) for more information.
 
 | Configuration Style Availability |
 |----
@@ -69,17 +69,18 @@ This is where to list a summary of known success (or not) in repackaging info ce
 * ![badge](https://img.shields.io/badge/-Major%20Issues-critical?style=for-the-badge) - Application is known to not work in this form (so far).
 * ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) - No information is available.
 
+See [Testing](Testing.md) for details on the testing performed on this app.
 
 | Repackaging type | Tested result |
 |----|----|
 | MSI | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| App-V | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
+| [App-V](Packaging-AppV.md) | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
 | ThinApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Citrix App Layers | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | FlexApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Numecent | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| MSIX | ![badge](https://img.shields.io/badge/-Major%20Issues-critical?style=for-the-badge) |
+| [MSIX](Packaging-MSIX.md) | ![badge](https://img.shields.io/badge/-Major%20Issues-critical?style=for-the-badge) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.

@@ -1,4 +1,4 @@
-# Packaging ActivePython for ActivePython
+# Packaging ActivePython for App-V
 
 The app is easily packaged in App-V and requires no special treatment.
 

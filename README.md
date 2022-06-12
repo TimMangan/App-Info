@@ -35,7 +35,7 @@ The [CaptureFilters](docs/CaptureFilters) area of this documentation site provid
 Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
 
 
-Currently we have documentation on the following Windows based apps:
+Currently we have documentation on the following **69** Windows based apps:
 
 | | Application | Vendor |
 |----|----|----|
@@ -43,7 +43,7 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/ACE-256.png" align="left" Height="33" alt="ACE logo"  /> | [ACE](docs/Windows/VirtualEngine/Ace) | Virtual Engine |
 | <img src="/media/AppIcons/APPVMANAGE-256.png" align="left" Height="33" alt="AppV_Manage logo"  /> | [AppV_Manage](docs/Windows/TMurgent/AppV_Manage) | TMurgent Technologies, LLP |
 | <img src="/media/AppIcons/APPVMANIFESTEDITOR-256.png" align="left" Height="33" alt="App-V_Manifest Editor logo"  /> | [AppV Manifest Editor (AVME)](docs/Windows/TMurgent/AppVManifestEditor) | TMurgent Technologies, LLP |
-| | [Active Python](docs/Windows/Active%20State//ActivePython) | Active State |
+| <img src="/media/AppIcons/CMD-256.png" align="left" Height="33" alt="Cmd Prompt logo"  /> | [Active Python](docs/Windows/Active%20State//ActivePython) | Active State |
 | <img src="/media/AppIcons/ACRORDThreeTwo-256.png" align="left" Height="33" alt="Actobat Reader logo"  /> | [Adobe Reader DC](docs/Windows/Adobe/AdobeReader%20DC) | Adobe Systems |
 | | [Anaconda](docs/Windows/ContinuumAnalytics/Anaconda) | Continuum Analytics |
 | <img src="/media/AppIcons/AUDACITY-256.png" align="left" Height="33" alt="Audacity logo"  /> | [Audacity](docs/Windows/Audacity) | Audacity |
@@ -92,8 +92,20 @@ Currently we have documentation on the following Windows based apps:
 | <img src="/media/AppIcons/REMOTEDESKTOPMANAGERFREE-256.png" align="left" Height="33" alt="Remote Desktop Free logo"  /> | [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free) | Devolutions |
 | <img src="/media/AppIcons/JT2Go-256.png" align="left" Height="33" alt="JT2Go logo"  /> | [Siemens JT2Go](docs/Windows/Siemens/JT2Go) | Siemens |
 | <img src="/media/AppIcons/SIGIL-256.png" align="left" Height="33" alt="Sigil logo"  /> | [Sigil](docs/Windows/Sigil) | Sigil |
+| <img src="/media/AppIcons/SketchupViewer-256.png" align="left" Height="33" alt="SketchViewer logo"  /> | [SketchupViewer](docs/Windows/Trimble/SketchupViewer) | Trimble |
 | <img src="/media/AppIcons/SNAGITEDITOR-256.png" align="left" Height="33" alt="Snagit logo"  /> | [SnagIt](docs/Windows/Techsmith/Snagit) | Techsmith |
 | <img src="/media/AppIcons/SOLIBRI-256.png" align="left" Height="33" alt="Solibri logo"  /> | [SolibriOffice](docs/Windows/Solibri/SolibriOffice) | Solibri |
 | <img src="/media/AppIcons/TEAMVIEWER-256.png" align="left" Height="33" alt="TeamViewer logo"  /> | [TeamViewer](docs/Windows/TeamViewer) | TeamViewer |
 | <img src="/media/AppIcons/THUMBICO-256.png" align="left" Height="33" alt="Thumbico logo"  /> | [ThumbIco](docs/Windows/Aurelitec/Thumbico) | Aurelitec |
+| <img src="/media/AppIcons/TMEDIT-256.png" align="left" Height="33" alt="TMEdit logo"  /> | [TMEdit](docs/Windows/TMurgent/TMEdit) | TMurgent |
+| <img src="/media/AppIcons/TMEDITX-256.png" align="left" Height="33" alt="TMEditX logo"  /> | [TMEditX](docs/Windows/TMurgent/TMEditX) | TMurgent |
+| <img src="/media/AppIcons/UEDITSixFour-256.png" align="left" Height="33" alt="UltraEdit logo"  /> | [UltraEdit](docs/Windows/IDMComputerSolutions/UltraEdit) | IDM Computer Solutions |
+| <img src="/media/AppIcons/VNCVIEWER-256.png" align="left" Height="33" alt="UltraVNC logo"  /> | [UltraVNC](docs/Windows/UltraVNC) | UltraVNC |
+| <img src="/media/AppIcons/VLC-256.png" align="left" Height="33" alt="Vlc Player logo"  /> | [Vlc Player](docs/Windows/VideoLan/VlcPlayer) | VideoLan |
+| <img src="/media/AppIcons/VSCODE-256.png" align="left" Height="33" alt="VSCode logo"  /> | [VSCode](docs/Windows/Microsoft/VSCode) | Microsoft |
+| <img src="/media/AppIcons/WINMERGEU-256.png" align="left" Height="33" alt="WinMerge logo"  /> | [WinMerge](docs/Windows/WinMerge) | WinMerge.org |
+| <img src="/media/AppIcons/WINRAR-256.png" align="left" Height="33" alt="WinRAR logo"  /> | [WinRAR](docs/Windows/RarLab/WinRAR) | RAR Lab |
+| <img src="/media/AppIcons/WINSCP-256.png" align="left" Height="33" alt="WinSCP logo"  /> | [WinSCP](docs/Windows/WinSCP) | winscp.net |
+| <img src="/media/AppIcons/WINZIPSixFour-256.png" align="left" Height="33" alt="WinZip logo"  /> | [WinZip](docs/Windows/PkZip/WinZip) | PkZip (now Corell) |
+| <img src="/media/AppIcons/ZOOM-256.png" align="left" Height="33" alt="Zoom logo"  /> | [Zoom Client](docs/Windows/Zoom/Client) | Zoom Communications |
 

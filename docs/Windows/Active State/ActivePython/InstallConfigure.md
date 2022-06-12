@@ -1,4 +1,4 @@
-# Installation and Configuration Notes
+# Installation and Configuration Notes for ActivePython
 By default the app will install into a `C:\Python3x` folder under the apprpriate Program Files folder.
 
 ## Project Evergreen
