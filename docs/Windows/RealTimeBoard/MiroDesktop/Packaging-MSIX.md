@@ -8,7 +8,7 @@ The MSI version of the installer (without updates) was used.
 * That command will run in the background.  It is necessary to wait for it to complete. If using an installation script, a sleep for 3 minutes should be sufficient.
 
 
-Testing on Windows 10/11 indicates ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) support of the app, with the following notes:
+Testing on Windows 10/11 indicates [MSIX](Packaging-MSIX.md) | ![badge](https://img.shields.io/badge/-Work%20In%20Progress-blue?style=for-the-badge) support of the app, with the following notes:
 
 * First launch of the app by the user was slow.  Subsequent launches seem fine.
 * No account was available to test, so UAT testing is really needed to confirm this result.
