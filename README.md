@@ -35,7 +35,7 @@ The [CaptureFilters](docs/CaptureFilters) area of this documentation site provid
 Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
 
 
-Currently we have documentation on the following **70** Windows based apps:
+Currently we have documentation on the following **71** Windows based apps:
 
 | | Application | Vendor |
 |----|----|----|
@@ -73,6 +73,7 @@ Currently we have documentation on the following **70** Windows based apps:
 | <img src="/media/AppIcons/MATHMECHANIXS-256.png" align="left" Height="33" alt="Math Mechanixs logo"  /> | [Math Mechanixs](docs/Windows/MathMechanixs) | MathMechanixs |
 | <img src="/media/AppIcons/SSMS-256.png" align="left" Height="33" alt="SSMS logo"  /> | [Microsoft SSMS](docs/Windows/Microsoft/SSMS) | Microsoft |
 | <img src="/media/AppIcons/MIKTEXCONSOLE-256.png" align="left" Height="33" alt="MikTex logo"  /> | [MikTex](docs/Windows/MikTex) | MikTex.org |
+| <img src="/media/AppIcons/MIRO-256.png" align="left" Height="33" alt="Miro logo"  /> | [Miro Desktop](docs/Windows/RealTimeBoard/MiroDesktop) | Miro (formerly RealTimeBoard Inc) |
 | <img src="/media/AppIcons/THUNDERBIRD-256.png" align="left" Height="33" alt="Thunderbird logo"  /> | [Mozilla Thunderbird](docs/Windows/Mozilla/Thunderbird) | Mozilla Foundation |
 | <img src="/media/AppIcons/MREMOTENG-256.png" align="left" Height="33" alt="mRemoteNG logo"  /> | [mRemoteNG](docs/Windows/mRemoteNG) | RemoteNG.org |
 | <img src="/media/AppIcons/NOTEPADPP-256.png" align="left" Height="33" alt="NotePad++ logo"  /> | [Notepad++ Main app](docs/Windows/Notepad++/MainApp) | Notepad++ |
