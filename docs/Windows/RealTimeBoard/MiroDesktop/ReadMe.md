@@ -55,7 +55,7 @@ This is where we can define the forms of installers available from the vendor.
 
 `Note 1`: There are two versions of the MSI, with and without autoupdates.
 
-`Note 2`: The vendor has a free version available in the Microsoft Store.  The vendor clearly states in their online documentation that this is not fully featured.  The file is an AppXBundle file, however the packages are actually MSIX.
+`Note 2`: The vendor has a free version available in the Microsoft Store.  The vendor clearly states in their online documentation that this is not fully featured.  The file is an AppXBundle file, however the packages are actually MSIX. See `App Restrictions` on vendor page: https://help.miro.com/hc/en-us/articles/360017572854-Desktop-app
 
 `Note 3`: The MSI seems to install an x86 version.
 
