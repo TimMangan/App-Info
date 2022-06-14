@@ -37,6 +37,7 @@ We simplify the interprettion of testing results into four possible result categ
 * ![badge](https://img.shields.io/badge/-High%20Confidence-green?style=for-the-badge) means that you have high confidence that most companies would still be willing to deploy this app and you should describe the minor issue(s).
 * ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) means that while base functionality works, most companies will probably not deploy this app due to the issues, but there are some that will (because they don't use the feature or have no other choice).  Again, describe the issue(s).
 * ![badge](https://img.shields.io/badge/-Major%20Issues-critical?style=for-the-badge) means that there is insufficient functinality for anyone to deploy in this state.
+* ![badge](https://img.shields.io/badge/-Work%20In%20Progress-blue?style=for-the-badge) - Work in progress. Maybe some work has been done, and some information is provided on the progress, but it isn't finished yet.
 * ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) result is used when testing results for this scenario are not known.  This is typically used on the application summary readme where we want a consistent looking result summary list.
 
 ## Setp 3: Make a simple change
