@@ -35,7 +35,7 @@ The [CaptureFilters](docs/CaptureFilters) area of this documentation site provid
 Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
 
 
-Currently we have documentation on the following **69** Windows based apps:
+Currently we have documentation on the following **70** Windows based apps:
 
 | | Application | Vendor |
 |----|----|----|
@@ -87,6 +87,7 @@ Currently we have documentation on the following **69** Windows based apps:
 | <img src="/media/AppIcons/PROJECTLIBRE-256.png" align="left" Height="33" alt="Project Libre logo"  /> | [Project Libre](docs/Windows/ProjectLibre) | Project Libre |
 | <img src="/media/AppIcons/RGUI00-256.png" align="left" Height="33" alt="RGui logo"  /> | [R (Language)](docs/Windows/R/R%20Language) | Washington Univ of St Louis |
 | <img src="/media/AppIcons/RSTUDIO-256.png" align="left" Height="33" alt="R Studio logo"  /> | [R And RStudio](docs/Windows/R/R%20with%20RStudio) | RStudio |
+| <img src="/media/AppIcons/RDAnalyzer-256.png" align="left" Height="33" alt="RDAnalyzer logo"  /> | [RDAnalyzer](docs/Windows/RDAnalyzer) | Uknown |
 | <img src="/media/AppIcons/REGSHOTXSixFourANSI-256.png" align="left" Height="33" alt="Regshot logo"  /> | [RegShot](docs/Windows/Seabreg/RegShot) | Seabreg |
 | <img src="/media/AppIcons/REVERSE-256.png" align="left" Height="33" alt="ReverseDNS logo"  /> | [ReverseDNS](docs/Windows/ReverseDNS) | Unknown |
 | <img src="/media/AppIcons/REMOTEDESKTOPMANAGERFREE-256.png" align="left" Height="33" alt="Remote Desktop Free logo"  /> | [Remote Desktop Manager Free](docs/Windows/Devolutions/RemoteDesktopManager%20Free) | Devolutions |
