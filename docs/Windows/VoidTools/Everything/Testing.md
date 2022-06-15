@@ -1,4 +1,4 @@
-# Testing WinMerge
+# Testing Everything (the app, that is)
 
 The following tests should be considered to determine the application fidelity when repackaging.
 
