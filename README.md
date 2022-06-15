@@ -35,7 +35,7 @@ The [CaptureFilters](docs/CaptureFilters) area of this documentation site provid
 Click the button above (or type the letter 't') to enable folder/file search.  Just enter the name of the app you want!
 
 
-Currently we have documentation on the following **71** Windows based apps:
+Currently we have documentation on the following **72** Windows based apps:
 
 | | Application | Vendor |
 |----|----|----|
@@ -59,6 +59,7 @@ Currently we have documentation on the following **71** Windows based apps:
 | | [Ensoft APile](docs/Windows/Ensoft/APile) | Ensoft |
 | | [Ensoft LPile](docs/Windows/Ensoft/LPile) | Ensoft |
 | <img src="/media/AppIcons/WINSHTwoZeroOneSeven-256.png" align="left" Height="33" alt="Shaft logo"  /> | [Ensoft Shaft](docs/Windows/Ensoft/Shaft) | Ensoft |
+| <img src="/media/AppIcons/Everything-256.png" align="left" Height="33" alt="Everything logo"  /> | [Everything](docs/Windows/VoidTools/Everything) | VoidTools |
 | <img src="/media/AppIcons/EXAMDIFF-256.png" align="left" Height="33" alt="ExamDiff logo"  /> | [ExamDiff](docs/Windows/PrestoSoft/ExamDiff) | PrestoSoft |
 | <img src="/media/AppIcons/FIDDLER-256.png" align="left" Height="33" alt="Fiddler logo"  /> | [Fiddler (Classic)](docs/Windows/Telerik/Fiddler) | Telerik |
 | <img src="/media/AppIcons/FILEZILLA-256.png" align="left" Height="33" alt="Filezilla logo"  /> | [Filezilla](docs/Windows/Filezilla) | Filezilla.org |
