@@ -3,7 +3,7 @@
 The software was packaged on Windows 10 21H2 using Microsoft MSIX Packaging Tool 1.2022.330 with or without PSF using TMEditX.
 * PsfLauncher is required if the additional shortcuts to the read me or what's new or manual are left in the package.
 * PsfLauncher and RegLegacyFixup are needed. There is an issue with being able to set and save some registry configuration.  The FRF is not required if WinRAR is not used multilingually.
-If multiple languages are to be supported, the language files "*.lng" must be redirected via FRF and the corresponding "*.lng" files of the language must be copied into the FileRedirection path via Powershell Startup script.
+If multiple languages are to be supported, the language files "*.lng" must be redirected via FRF and the corresponding "*.lng" files of the language must be copied into the FileRedirection path via Powershell Startup script.  See Adrian's example of how to do this here: https://techcommunity.microsoft.com/t5/msix/language-dependent-files-in-vfs/m-p/3548684
 
 * Missing LoaderSearchOrder and ExecutionAlias are added into the manifest.
 
