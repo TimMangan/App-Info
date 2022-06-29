@@ -1,8 +1,8 @@
-# App-Info Document Blender
+# App-Info Document DBeaver (free version)
 
 <div>
 
-<img src="/media/AppIcons/BLENDER-256.png" align="left" height="256" alt="Blender logo"  /> Blender is a free and quite popular and functional animation editor/engine.  It requires that a GPU be present on the runtime system.  It has many first and third party plugins.
+<img src="/media/AppIcons/DBEAVER-256.png" align="left" height="256" alt="dbeaver logo"  /> Dbeaver is the popular free (Community Edition) open-source version of a database management utility.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
@@ -13,10 +13,11 @@ This Readme.md is the high level file that describes the application summary.  A
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Blender Foundation |
-| Application Name| Blender |
-| Application Version | 2.93.1 (released 2021/06, not the latest version.)|
-| Vendor/App Website| https://www.blender.org |
+| Vendor Name | Dbeaver Corporation |
+| Application Name| dbeaver |
+| Application Version | 21.1.0 (released 2022/06)|
+| Vendor/App Website| https://github.com/dbeaver/dbeaver |
+
 
 
 ## Vendor Installer Types
@@ -28,10 +29,11 @@ This is where we can define the forms of installers available from the vendor.
 
 | Installer Type Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/Setup%20Exe-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSI-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Zip-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Setup%20Exe-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSI-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AppX%2FBundle-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSIX%2FBundle-Yes-green?style=for-the-badge) (see `Note 1`)  |
+| ![badge](https://img.shields.io/badge/MSIX%2FBundle-Yes-green?style=for-the-badge) See `Note 1` |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
 
 </td>
@@ -40,7 +42,7 @@ This is where we can define the forms of installers available from the vendor.
 
 | Code Architecture Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/x86-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/x86-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/x64-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AnyCPU-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm-No-red?style=for-the-badge) |
@@ -50,7 +52,7 @@ This is where we can define the forms of installers available from the vendor.
 </tr>
 </table>
 
-`Note 1` - Blender has a version in the Microsoft Store as an MSIX package.  See [MicrosoftStoreAndModificationPackage-MSIX](MicrosoftStoreAndModificationPackage-MSIX.md) for more infomration.
+`Note 1`: There are indications in the review that the Microsoft Store version is often older and some features might not work (or at least they didn't know a workflow to get the features to work).  See [MicrosoftStoreAndModificationPackage-MSIX.md](MicrosoftStoreAndModificationPackage-MSIX.md) for more information.
 
 ## App Configuration Type
 
@@ -58,8 +60,8 @@ This is where to place a summary of how application configuration is stored.  It
 
 | Configuration Style Availability |
 |----
-| ![badge](https://img.shields.io/badge/Registry-Unknown-lightgrey?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/File-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/Registry-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/File-Unknown-lightgrey?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AD%2FGPO-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AAD%2FGPO-No-red?style=for-the-badge) |
 
@@ -79,7 +81,7 @@ See [Testing](Testing.md) for details on the testing performed on this app.
 | Repackaging type | Tested result |
 |----|----|
 | MSI | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| [App-V](Packaging-AppV.md) | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
+| App-V | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | ThinApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Citrix App Layers | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
