@@ -7,9 +7,15 @@ Project Evergreen AppTracker does not provide information and sources for instal
 
 
 ## ZIP based installer
-The ZIP based installer contains a different setup exe than what may be directly downloaded. You use this installer in a two step process, first to download and then to install.  The commands are:
+The ZIP based installer contains a different setup exe than what may be directly downloaded. You use this installer in a two step process, first to download and then to install.  
+
+The commands are:
 * miktexsetup_standalone.exe --quiet --local-package-repository=C:\miktexRepository --package-set=complete  download
-* miktexsetup_standalone.exe --quiet --local-package-repository=C:\miktexRepository  --shared=no --use-registry=yes install
+* miktexsetup_standalone.exe --quiet --local-package-repository=C:\miktexRepository  --shared=yes --use-registry=yes install
+
+After this installation, you may remove the package repository folder.  
+
+If you want to prevent the end-user from attempting self updating, you should remove the shortcut to the `MiKTex Console` shortcut. 
 
 ## EXE based installer
 
