@@ -17,8 +17,9 @@ The exe installer appears to use their own installer framework. A '/s' (lower ca
 
 This identifies the most commonly interesting configuration items in the application.
 
-* None, except or default language if needed.
-* Registry based pre-configuration is available. 
+* None, except for default language if needed.
+* Registry based pre-configuration is available.
+* Repackaging techniques that involve recapture will only support a single language.  Some packaging forms allow for a script to be run on package installation or first run of the application.  In that case, adding additional launguage files in a side folder of the package could be used with a package script to detect the OS launguage and copy files appropriately. 
 
 ## Installed Components worth noting
  
