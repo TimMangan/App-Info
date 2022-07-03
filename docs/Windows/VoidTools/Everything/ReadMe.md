@@ -1,38 +1,38 @@
-# App-Info Document JT2Go
+# App-Info Document Everything
+
 <div>
 
-<img src="/media/AppIcons/JT2Go-256.png" align="left" height="256" alt="JT2Go logo"  /> JT2Go is a free viewer app for viewing Jupyter Transform models.  Siemens also has a commercial version.
- 
-From the vendor: "JT2GO Desktop App provides the richest feature set of all the supported platforms. The Desktop App will display not only .jt files but .vfz session files authorized in the Siemens Digital Industry Software Flagship TeamCenter Visualization product. Supported features include; Product Structure, LMI including model views, CAE results, and Cross sectioning."
+<img src="/media/AppIcons/Everything-256.png" align="left" height="256" alt="Everything logo"  /> Everything is an enhanced version of windows search.  It searches everything.  It is free but takes donations.
+
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
 </div>
-<p> </p> 
+<p> </p>
 
 ## Documentation for
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Siemens |
-| Application Name| JT2Go |
-| Application Version | 13.2.0 (released 2021/06, not latest available)|
-| Vendor/App Website| https://www.plm.automation.siemens.com/global/en/products/plm-components/jt2go.html |
+| Vendor Name | VoidTools|
+| Application Name| Everything |
+| Application Version | 1.4.1.1017 (released 2022/06)|
+| Vendor/App Website| https://www.voidtools.com |
 
 
 
 ## Vendor Installer Types
 
-This is where we can define the forms of installers available from the vendor. 
-
+This is where we can define the forms of installers available from the vendor.
 <table >
 <tr>
 <td>
 
 | Installer Type Availabilty |
 |----|
+| ![badge](https://img.shields.io/badge/Zip-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Setup%20Exe-Yes-green?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSI-No-red-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSI-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AppX%2FBundle-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/MSIX%2FBundle-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
@@ -43,7 +43,7 @@ This is where we can define the forms of installers available from the vendor.
 
 | Code Architecture Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/x86-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/x86-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/x64-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AnyCPU-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm-No-red?style=for-the-badge) |
@@ -52,7 +52,6 @@ This is where we can define the forms of installers available from the vendor.
 </td>
 </tr>
 </table>
-
 
 ## App Configuration Type
 
@@ -64,6 +63,8 @@ This is where to place a summary of how application configuration is stored.  It
 | ![badge](https://img.shields.io/badge/File-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AD%2FGPO-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AAD%2FGPO-No-red?style=for-the-badge) |
+
+File configuration defaults to the user's appdata/roaming folder.
 
 ## Repackaging Summary
 
@@ -80,13 +81,13 @@ See [Testing](Testing.md) for details on the testing performed on this app.
 | Repackaging type | Tested result |
 |----|----|
 | MSI | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| [App-V](Packaging-AppV.md) | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
+| App-V | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | ThinApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Citrix App Layers | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | FlexApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Numecent | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
+| [MSIX](Packaging-MSIX.md) | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.

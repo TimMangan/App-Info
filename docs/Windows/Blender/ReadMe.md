@@ -50,7 +50,7 @@ This is where we can define the forms of installers available from the vendor.
 </tr>
 </table>
 
-`Note 1` - Blender has a version in the Microsoft Store as an MSIX package.  See [StoreAndModificationPackage-MSIX](StoreAndModificationPackage-MSIX.md) for more infomration.
+`Note 1` - Blender has a version in the Microsoft Store as an MSIX package.  See [MicrosoftStoreAndModificationPackage-MSIX](MicrosoftStoreAndModificationPackage-MSIX.md) for more infomration.
 
 ## App Configuration Type
 

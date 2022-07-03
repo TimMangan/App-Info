@@ -77,6 +77,7 @@ This is where to list a summary of known success (or not) in repackaging info ce
 * ![badge](https://img.shields.io/badge/-High%20Confidence-green?style=for-the-badge) - There may be a small loss in functionality, but most companies will be OK with deploying this form.
 * ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) - A loss in functionality that likely makes this a bad way to deploy.
 * ![badge](https://img.shields.io/badge/-Major%20Issues-critical?style=for-the-badge) - Application is known to not work in this form (so far).
+* ![badge](https://img.shields.io/badge/-Work%20In%20Progress-blue?style=for-the-badge) - Work in progress.
 * ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) - No information is available.
 
 

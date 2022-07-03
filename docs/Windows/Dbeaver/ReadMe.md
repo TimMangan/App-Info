@@ -1,40 +1,39 @@
-# App-Info Document JT2Go
+# App-Info Document DBeaver (free version)
+
 <div>
 
-<img src="/media/AppIcons/JT2Go-256.png" align="left" height="256" alt="JT2Go logo"  /> JT2Go is a free viewer app for viewing Jupyter Transform models.  Siemens also has a commercial version.
- 
-From the vendor: "JT2GO Desktop App provides the richest feature set of all the supported platforms. The Desktop App will display not only .jt files but .vfz session files authorized in the Siemens Digital Industry Software Flagship TeamCenter Visualization product. Supported features include; Product Structure, LMI including model views, CAE results, and Cross sectioning."
+<img src="/media/AppIcons/DBEAVER-256.png" align="left" height="256" alt="dbeaver logo"  /> Dbeaver is the popular free (Community Edition) open-source version of a database management utility.
 
 This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
  
 </div>
-<p> </p> 
+<p> </p>
 
 ## Documentation for
 
 | Category | Value |
 |-----|-------------------------------------------------------|
-| Vendor Name | Siemens |
-| Application Name| JT2Go |
-| Application Version | 13.2.0 (released 2021/06, not latest available)|
-| Vendor/App Website| https://www.plm.automation.siemens.com/global/en/products/plm-components/jt2go.html |
+| Vendor Name | Dbeaver Corporation |
+| Application Name| dbeaver |
+| Application Version | 21.1.0 (released 2022/06)|
+| Vendor/App Website| https://github.com/dbeaver/dbeaver |
 
 
 
 ## Vendor Installer Types
 
 This is where we can define the forms of installers available from the vendor. 
-
 <table >
 <tr>
 <td>
 
 | Installer Type Availabilty |
 |----|
+| ![badge](https://img.shields.io/badge/Zip-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Setup%20Exe-Yes-green?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSI-No-red-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSI-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AppX%2FBundle-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/MSIX%2FBundle-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/MSIX%2FBundle-Yes-green?style=for-the-badge) See `Note 1` |
 | ![badge](https://img.shields.io/badge/appinstaller-No-red?style=for-the-badge) |
 
 </td>
@@ -43,7 +42,7 @@ This is where we can define the forms of installers available from the vendor.
 
 | Code Architecture Availabilty |
 |----|
-| ![badge](https://img.shields.io/badge/x86-No-red?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/x86-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/x64-Yes-green?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AnyCPU-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/Arm-No-red?style=for-the-badge) |
@@ -53,6 +52,7 @@ This is where we can define the forms of installers available from the vendor.
 </tr>
 </table>
 
+`Note 1`: There are indications in the review that the Microsoft Store version is often older and some features might not work (or at least they didn't know a workflow to get the features to work).  See [MicrosoftStoreAndModificationPackage-MSIX.md](MicrosoftStoreAndModificationPackage-MSIX.md) for more information.
 
 ## App Configuration Type
 
@@ -61,9 +61,10 @@ This is where to place a summary of how application configuration is stored.  It
 | Configuration Style Availability |
 |----
 | ![badge](https://img.shields.io/badge/Registry-No-red?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/File-Yes-green?style=for-the-badge) |
+| ![badge](https://img.shields.io/badge/File-Unknown-lightgrey?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AD%2FGPO-No-red?style=for-the-badge) |
 | ![badge](https://img.shields.io/badge/AAD%2FGPO-No-red?style=for-the-badge) |
+
 
 ## Repackaging Summary
 
@@ -80,13 +81,13 @@ See [Testing](Testing.md) for details on the testing performed on this app.
 | Repackaging type | Tested result |
 |----|----|
 | MSI | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| [App-V](Packaging-AppV.md) | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
+| App-V | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | ThinApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Citrix App Layers | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | FlexApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Numecent | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
+| [MSIX](Packaging-MSIX.md) | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.
