@@ -23,6 +23,7 @@ This identifies the most commonly interesting configuration items in the applica
 
 * Plugins are dlls that may be copied into a `PlugIns` folder under the main install.
 * The product does have an autoupdater.  There are no installation options to disable it.  You can disable it in the GUI, and this will produce a set of XML files under AppData\Roaming\Notepad++.  This disable in the GUI isn't perminent, but you can edit the last checked date in the xml file to some distant future date for extended disablment.
+* Adrian has posted some information on handling multiple languages when packaging for MSIX, however the technique is usable in other packaging scenarios as well.  See https://techcommunity.microsoft.com/t5/msix/notepad-automatic-language-configuration/m-p/3558411 
 
 
 ## Installed Components worth noting
