@@ -21,10 +21,7 @@ The vendor website indicates that this command checks to see if the Mira Desktop
 
 Also note that the Miro Installer program will return immeditely and perform the installation of Mira Desktop in the background, so any installation scripting may want to sleep a few minutes to let that complete.
 
-## Manual Install
-* Create a folder, such as `C:\Program Files\ReverseDNS`.
-* Copy the exe file into that folder.
-* Create a shortcut to the executable.
+
 
 ## Typical Configuration Items 
 
