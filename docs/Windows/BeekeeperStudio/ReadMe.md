@@ -14,9 +14,10 @@ This Readme.md is the high level file that describes the application summary.  A
 | Category | Value |
 |-----|-------------------------------------------------------|
 | Vendor Name | BeeKeeperStudio.io |
-| Application Name| BeeKeeperStudio (Community edition) |
-| Application Version | 1.13.2 (released 2021/08, newer versions available)|
-| Vendor/App Website| https://www.beekeeperstudio.io |
+| Application Name | BeeKeeperStudio (Community edition) |
+| License | There is a free community edition (on github) or a licensed Ultimate edition with 2 week trial. |
+| Application Version | 1.13.2 (released 2021/08, newer versions available |
+| Vendor/App Website | https://www.beekeeperstudio.io |
 
 
 ## Vendor Installer Types
