@@ -13,7 +13,7 @@ The commands are:
 * miktexsetup_standalone.exe --quiet --local-package-repository=C:\miktexRepository --package-set=complete  download
 * miktexsetup_standalone.exe --quiet --local-package-repository=C:\miktexRepository  --shared=yes --use-registry=yes install
 
-After this installation, you may remove the package repository folder.  
+The idea behind the --shared option is that multiple users can use the installation from this repository source. When set to yes, this install command will use a Program Files folder, but set to no it will install to the user's profile.  If repackaging, after this installation, you may remove the package repository folder.  
 
 If you want to prevent the end-user from attempting self updating, you should remove the shortcut to the `MiKTex Console` shortcut. 
 

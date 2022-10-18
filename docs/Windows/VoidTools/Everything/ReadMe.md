@@ -5,7 +5,7 @@
 <img src="/media/AppIcons/Everything-256.png" align="left" height="256" alt="Everything logo"  /> Everything is an enhanced version of windows search.  It searches everything.  It is free but takes donations.
 
 
-This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder.
+This Readme.md is the high level file that describes the application summary.  Additional documentation files may also be present to cover specific scenarios, such as repackaging into a specific format. See the file list in this folder. 
  
 </div>
 <p> </p>
@@ -81,7 +81,7 @@ See [Testing](Testing.md) for details on the testing performed on this app.
 | Repackaging type | Tested result |
 |----|----|
 | MSI | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| App-V | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
+| App-V | ![badge](https://img.shields.io/badge/-Full%20Fidelity-brightgreen?style=for-the-badge) |
 | ThinApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Citrix App Layers | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |

@@ -6,6 +6,26 @@ In the MMPT:
 * After app install, copy configuration file (`uedit64u.ini`) with desired settings under the logged in user's AppData\Roaming\IDMComp\UltraEdit folder.
 * If this file is added, you must also create the folder AppData\Roaming\IDMComp\UltraEdit\volatile (and either place a dummy file in it or let the MMPT create one for you).  Otherwise the end-user will get a popup error on first run that it can't create the folder.
 * The product installs PRogIDs, but you have to run the product and use file->settings to apply the FTAs.  We solved this without launching during capture by using a reg file (running an installed copy and exporting the FTA to create reg file, shown below) during this capture.
+* Four COM objects are ignored by the MMPT because the app did not register the ProgID in the exact form the MMPT exptected.  Clearly the base OS didn't mind this, but the MMPT does. We overcome this by importing an additional reg file:
+
+```reg```
+Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CertMng.CertStores\CurVer]
+@="CertMng.CertStores.1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CertMng.Certificates\CurVer]
+@="CertMng.Certificates.1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WeOnlyDo.DirItem\CurVer]
+@="WeOnlyDo.DirItem.1"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WeOnlyDo.DirItems\CurVer]
+@="WeOnlyDo.DirItems.1"
+
+```
 
 In TMEditX
 * PsfLauncher is required as is the FRF.

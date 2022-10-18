@@ -32,6 +32,7 @@ The installer does not allow for setting of what they consider to be user option
 This identifies the most commonly interesting configuration items in the application.
 
 * There are a lot of options on how this product is configured and used in the enterprise, including the possibility of organizing the data through an external server.  Beyond the simple things covered above, other options will be customer specific.
+* The app adds a Run key to start the app up in the background in order to speed up getting results when the user launches the app.  This may not be wanted.
 
 ## Installed Components worth noting
 

@@ -14,9 +14,10 @@ This Readme.md is the high level file that describes the application summary.  A
 | Category | Value |
 |-----|-------------------------------------------------------|
 | Vendor Name | BeeKeeperStudio.io |
-| Application Name| BeeKeeperStudio (Community edition) |
-| Application Version | 1.13.2 (released 2021/08, newer versions available)|
-| Vendor/App Website| https://www.beekeeperstudio.io |
+| Application Name | BeeKeeperStudio (Community edition) |
+| License | There is a free community edition (on github) or a licensed Ultimate edition with 2 week trial. |
+| Application Version | 1.13.2 (released 2021/08, newer versions available |
+| Vendor/App Website | https://www.beekeeperstudio.io |
 
 
 ## Vendor Installer Types
@@ -84,7 +85,7 @@ See [Testing](Testing.md) for details on the testing performed on this app.
 | Cloud Volumes | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | FlexApp | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
 | Numecent | ![badge](https://img.shields.io/badge/-Unknown%2FUntested-lightgray?style=for-the-badge) |
-| [MSIX](Packaging-MSIX.md) | ![badge](https://img.shields.io/badge/-High%20Confidence-green?style=for-the-badge) |
+| [MSIX](Packaging-MSIX.md) | ![badge](https://img.shields.io/badge/-Mostly%20Works-yellow?style=for-the-badge) |
 
 ## Useful links
 This is a place to put useful links to appropriate existing external sources, either those of the vendor or elsewhere.

@@ -17,15 +17,18 @@ The EXE installer uses '/S', but you must then also specify all or current users
 *   /S /allusers
 *   /S /currentuser
 
+The /currentuser option will only install into the user's appdata/local folder.  Using the /allusers option allows you to add /D "C:\Program Files\DBeaver" to the END of the command line.  /? says you can't have quotes, but it works.
+
 
 
 
 ## Typical Configuration Items 
-WIP - want to shut off updater. The docs hint that this can be disabled, have not found how.  
+WIP - want to shut off updater. The docs hint that this can be disabled, have not found how. 
+Typically want to remove start menu uninstall shortcut.
 
 ## Installed Components worth noting
 
-* There is one shortcut for the app.  It has an argument for the language (eg '-nl en').
+* There is one shortcut for the app.  It has an argument for the language (eg '-nl en') but product defaults to the os locale when not present.
 * There is an optional argument, not present, '-nosplash' that can be added to the shortcut
 * Initial launch wants to set up firewall rule, then asks if you want to set up a sample database, then to select a database to start with.
 

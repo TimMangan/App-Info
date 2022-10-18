@@ -9,7 +9,14 @@ Project Evergreen AppTracker provides information and sources for installers for
 Silent installation is possible:  
 
 * "/SP /VERYSILENT /SUPPRESSMSGBOXES" (capitalized) for silent installation. 
-* A preconfigured audacity.cfg file may be copied into the AppData\Roaming folder.
+* "/SP /SILENT /SUPPRESSMSGBOXES" (capitalized) for passive installation. 
+* A preconfigured audacity.cfg file may be copied into the AppData\Roaming\Audacity folder.
+* Additional preconfig files are needed to be copied there if you want to register ffmpeg.
+
+## FFMPEG
+See instructions from audacity, but there is a zip file that contains a dll.  You can unpack this whereever you want (I suggest C:\Program Files\Audacity\FFMPEG folder) and
+then register this location in the edit->preferences menu of the app.  Be sure to make other changes and then save off the entire AppData\Roaming\Audacity folder (except file the log)
+and copy that out after installs.
 
 ## SilentInstallHQ
 Silent Install HQ provides information on the silent install of this app https://silentinstallhq.com/?s=Audacity
