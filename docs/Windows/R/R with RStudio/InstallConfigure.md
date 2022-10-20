@@ -11,8 +11,10 @@ Project Evergreen AppTracker provides information and sources for installers for
 
 The EXE installer for R (Language) may be silently installed:
  * For example: '/SP- /SILENT /SURPRESSMSGBOXES '
-
 The application has file-based configuration that is not generally used.
+
+## EXE based installation of RStudio.
+Use '/S' for a silent installation.
 
 ##  ZIP based installation of RStudio.
 Unpack into "$($env:ProgramFiles)\R"
@@ -25,7 +27,9 @@ Silent Install HQ provides no information on the silent install of this app.
 
 This identifies the most commonly interesting configuration items in the application.
 
-* None.
+* Preconfiguration is possible by grabing two files in AppData\Roaming\RStudio for use in your installation script.
+* * `crash-handler.conf` Can disable sending crash logs to the internet.  Launch app to create the initial file.
+* * `rstudio-prefs.json` Can disable updates and/or set other settings.  Use the Tools menu Global Settings to create the initial file.
 
 ## Installed Components worth noting
  
