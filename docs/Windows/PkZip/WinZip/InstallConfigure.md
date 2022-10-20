@@ -29,7 +29,7 @@ Windows Registry Editor Version 5.00
 Both quiet ('/q') and passive ('/passive') options are available.  Additionally, there are a ton or properties available in the MSI Properties table for customization during install.  Here are a few of these properties that may be of interest:
 
 | Property | Default | Common | Why |
-|----|----|----|
+|----|----|----|-----|
 | ISCHECKFORUPDATES | 1 | 0 | Disable update check. |
 | LAUNCHPROGRAM | 1 | 0 | Keeps installer from starting app when done. |
 | AgreeToLicense | No | Yes | Accept Eula for user. |
