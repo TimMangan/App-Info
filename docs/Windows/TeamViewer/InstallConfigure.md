@@ -31,7 +31,7 @@ Silent Install HQ provides this information on the silent install of this app: h
 
 This identifies the most commonly interesting configuration items in the application.
 
-* The product does not have an autoupdater.
+* The product does have an autoupdater.
 * Other customizations were not tested.
 
 ## Installed Components worth noting
