@@ -17,7 +17,7 @@ Supports silent ('/qn') or passive ('/passive') options.
 
 ## Typical Configuration Items 
 
-The app stores configuration only after first run.  This includes a setting for the autoupdate.  We can pre-configure this and copy to the user's appdata\roaming\vlc folder.  There will be three files to be copied.
+The app stores configuration only after first run.  This includes a setting for the autoupdate.  We can pre-configure this and copy to the user's appdata\roaming\vlc folder.  There will be three files to be copied if you want to preconfigure this.
 
 
 ## Installed Components worth noting
@@ -26,5 +26,4 @@ The app stores configuration only after first run.  This includes a setting for 
 * Removal of uninstall.exe is possible.
 * The application has a lot of FTA, each with multiple command verbs.
 * The application has no Shell Extensions, or Protocol handlers.
-* The application has no services
-* The application places some installers in the %localappdata% are that are not required.
+* The application has no services.
