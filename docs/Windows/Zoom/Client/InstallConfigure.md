@@ -16,7 +16,7 @@ Supports silent ('/q') and passive (/passive) installations.
 
 This identifies the most commonly interesting configuration items in the application.
 
-* The MSI installer installed into Program Files (x86).
+* The MSI installer installed into Program Files or (x86).
 * The installer adds an extra shortcut to the desktop.
 
 ## Installed Components worth noting
