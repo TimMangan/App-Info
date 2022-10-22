@@ -22,12 +22,20 @@ Supports silent installation, using information on the forum site post: https://
 
 For example `/S /D="C:\Program Files\Everything" -install-options "-app-data -install-service -install-start-menu-shortcuts -install-efu-association -install-url-protocol -install-language 1033" `. 
 
-The installer does not allow for setting of what they consider to be user options.  To silently set those, the program may be run with command line arguments.  For example
-`"C:\Program Files\Everything\Everything.exe" -disable-update-notification -uninstall-quick-launch-shortcut`
+
+
+## MSI based installer
+
+Supports normal quiet/passive options.
 
 
 
 ## Typical Configuration Items 
+
+The installer does not allow for setting of what they consider to be user options.  To silently set those, the program may be run with command line arguments.  For example
+`"C:\Program Files\Everything\Everything.exe" -disable-update-notification -uninstall-quick-launch-shortcut`
+
+The settings are under %APPDATA%\Everything\Everything.ini and may be used as a preconfig file.
 
 This identifies the most commonly interesting configuration items in the application.
 
