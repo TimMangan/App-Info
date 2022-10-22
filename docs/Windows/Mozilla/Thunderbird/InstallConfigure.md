@@ -25,8 +25,19 @@ Silent Install HQ provides this information on the silent install of this app:ht
 This identifies the most commonly interesting configuration items in the application.
 
 * The application uses the registry for configuration. 
-* Disable or remove the Mozilla maintenance service to get rid of auto-updates.
+* Disable or remove the Mozilla maintenance service to get rid of auto-updates.  
 * Remove desktop shortcut if not desired.
+
+It is possible to add more control by dropping a policies.json file into the Program Files(x86)\Mozilla\Thunderbird\distribution folder.  
+There is a setting to disable updates, but you can control extensions, forcing some to be installed and preventing others.  The json below disables the updates; see Thunderbird website for details on the extensions.
+
+```json
+{
+    "policies": {
+        "DisableAppUpdates": true
+    }
+}
+```
 
 ## Installed Components worth noting
  
