@@ -55,7 +55,7 @@ This is where we can define the forms of installers available from the vendor.
 
     https://zoom.us/client/5.12.2.9281/ZoomInstallerFull.exe?archType-x64
  
- And you just replace the 'exe' with 'msi' to get the msi.
+ And you just replace the 'exe' with 'msi' to get the msi.  Currently the MSI will be 32-bit for some reason.
 
 ## App Configuration Type
 
