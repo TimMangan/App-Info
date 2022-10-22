@@ -5,10 +5,18 @@ By default the app will install into the program files folder by default.
 ## Project Evergreen
 Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#techsmithcamtasia 
 
+## EXE Installer
+The EXE installer installs two dependencies, if needed, and runs an internal MSI installer.
 
-## EXE Dependency based installer for WebView2
+The exe installer support both the "/passive" and "/silent" command line options.  It also supports properties to the MSI portion of the install, which map be simply appended to the command line. Examples:
 
-The product requires Microsoft Edge WebView2 as a dependency.  This is provided as an exe installer
+* camtasia.exe /passive DIABLEADVTSHORTCUTS=1 TSC_DEKTOPLINK=0 TSC_UPDATE_ENABLE=0
+* camtasia.exe /quiet COMPANYNAME="XXX" USERNAME="YYY" TSC_SOFTWARE_KEY="XXXX-XXXX..." TSC_LICENSEMODE="Full" 
+
+
+## Dependency installer for WebView2
+
+The product requires Microsoft Edge WebView2 as a dependency.  This is provided by the exe installer, but you may need to add it if you use the MSI installer.
 
 The dependency exe installer supports silent installation:
 * Use '/silent /install' for silent installation.
@@ -16,9 +24,9 @@ The dependency exe installer supports silent installation:
 To determine if this dependency is already present, test for
     'HKLM:\SOFTWARE\WOW6432Node\Microsoft\EdgeUpdate\Clients\{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}'
 
-## EXE Dependency based installer for VC redistributables
+## EXE Dependency installer for VC redistributables
 
-The product requires VC redistributables (x64 14.29.301330) as a dependency.  This is provided as an exe installer
+The product requires VC redistributables (x64 14.29.301330) as a dependency.  This is provided by the exe installer, but you may need to add it if you use the MSI installer.
 
 The dependency exe installer supports silent installation:
 * Use '/quiet /install' for silent installation.
@@ -47,9 +55,10 @@ This identifies the most commonly interesting configuration items in the applica
 * Edge Webview2 Dependency may install into Program Files (x86).
 * Program Data (Common AppData) is used.
 * The C:\Users\Public\Techsmith folder is used for licensing.
-* There are two shortcuts, one for Studio and the other the Recorder.
+* There are two shortcuts, one for Studio and the other the Recorder, plus a duplicate for studio on the desktop.
 * There are 9 FTAs, mostly with a Shell Integration Verb command.
 * There is a shell extension for ContextMenu for the .trec FTA.
 * There are two protocol handlers.
 * There are no services.
 * There are fonts.
+* HKLM and HKCU registry is used  (for example: HKLM\Software\Techsmith\Camtasia Studio\22.0\CheckForUpdateEnable = DWORD 0/1).
