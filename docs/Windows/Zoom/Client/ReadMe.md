@@ -51,7 +51,11 @@ This is where we can define the forms of installers available from the vendor.
 </tr>
 </table>
 
-`Note 1`: The MSI installer for this product doesn't show on the website (that we can find), however Stealthpuppy figured out that it is there with the same name as the exe installer if you just replace the file extension as .msi.  This msi installs only the 32-bit version of the product (which is OK).
+`Note 1`: The MSI installer for this product doesn't show on the website (that we can find), however Stealthpuppy figured out that it is there with the same name as the exe installer if you just replace the file extension as .msi.  So if you hover over the exe installer you might see a link like:
+
+    https://zoom.us/client/5.12.2.9281/ZoomInstallerFull.exe?archType-x64
+ 
+ And you just replace the 'exe' with 'msi' to get the msi.
 
 ## App Configuration Type
 
