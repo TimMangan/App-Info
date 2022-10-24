@@ -1,6 +1,6 @@
 # Packaging ACDC (V2) for App-V
 
-This app is easily packaged for App-V.
+This app is easily packaged for App-V Sequencer 2004.
 
 * No special App-V tricks are needed.
 * You might want to add a shortcut, but hide it in a lesser viewed folder of the start menu (such as Windows Accessories) on Windows 7.  On Windows 10 you might use a less interesting name.
