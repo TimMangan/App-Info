@@ -11,6 +11,18 @@ Is available, but not tested.
 ## EXE based installer
 
 Supports silent installation, for example '/SILENT /VERYSILENT /LOADINF="xxx.inf".  Use '/?' for more options.
+Here is a sample inf file:
+
+```inf
+[Setup]
+Lang=en
+Dir=C:\Program Files\uvnc bvba\UltraVNC
+Group=UltraVNC
+NoIcons=0
+SetupType=full
+Components=ultravnc_server,ultravnc_viewer,ultravnc_repeater
+Tasks=installservice,associate,installdriver
+```
 
 ## MSI based installer
 
@@ -29,3 +41,4 @@ This identifies the most commonly interesting configuration items in the applica
 * The application has no FTA, Shell Extensions, or Protocol handlers.
 * The application has a service (automatic start).
 * The application places some installers in the %localappdata% are that are not required.
+* On Windows 10 there is an optional component in the installer for a monitor driver.

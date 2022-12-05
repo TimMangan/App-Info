@@ -5,6 +5,13 @@ By default the app will install into the program files folder by default.
 ## Project Evergreen
 Project Evergreen AppTracker provides information and sources for installers for this app https://stealthpuppy.com/apptracker/#techsmithsnagit 
 
+## EXE Installer
+The EXE installer installs two dependencies, if needed, and runs an internal MSI installer.
+
+The exe installer support both the "/passive" and "/silent" command line options. It also supports properties to the MSI portion of the install, which map be simply appended to the command line. Examples:
+
+snagit.exe /passive DIABLEADVTSHORTCUTS=1 TSC_DEKTOPLINK=0 TSC_UPDATE_ENABLE=0
+snagit.exe /quiet COMPANYNAME="XXX" USERNAME="YYY" TSC_SOFTWARE_KEY="XXXX-XXXX..." TSC_LICENSEMODE="Full"
 
 ## MSI installer 
 
